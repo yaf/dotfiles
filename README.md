@@ -1,7 +1,7 @@
 Installation
 ============
 
-onliner install 
+install with
 `git clone https://github.com/yaf/dotvim.git ~/.vim && .vim/setup`
 
 or, clone the repo in a ~/.vim directory
