@@ -1,0 +1,26 @@
+#!/bin/sh
+
+cd ~/.vim/
+
+mkdir ~/.vim/bundle
+mkdir ~/.vim/backup
+
+if [ -f '../.vimrc' ]; then
+  backup_filename=~/.vimrc.bak.`date +%s`;
+  echo ".vimrc found. move it to $backup_filename"
+  mv ~/.vimrc $backup_filename;
+fi
+
+if [ -f '../.gvimrc' ]; then
+  backup_filename=~/.gvimrc.bak.`date +%s`;
+  echo ".gvimrc found. move it to $backup_filename"
+  mv ~/.gvimrc $backup_filename;
+fi
+
+ln -s ~/.vim/vimrc ~/.vimrc
+ln -s ~/.vim/gvimrc ~/.gvimrc
+
+git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+
+vim -c :BundleInstall
+
