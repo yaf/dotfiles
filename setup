@@ -10,15 +10,21 @@ if [ -f '../.vimrc' ]; then
   echo ".vimrc found. move it to $backup_filename"
   mv ~/.vimrc $backup_filename;
 fi
+ln -s ~/.vim/vimrc ~/.vimrc
 
 if [ -f '../.gvimrc' ]; then
   backup_filename=~/.gvimrc.bak.`date +%s`;
   echo ".gvimrc found. move it to $backup_filename"
   mv ~/.gvimrc $backup_filename;
 fi
-
-ln -s ~/.vim/vimrc ~/.vimrc
 ln -s ~/.vim/gvimrc ~/.gvimrc
+
+if [ -f '../.gitconfig' ]; then
+  backup_filename=~/.gitconfig.bak.`date +%s`;
+  echo ".gitconfig found. move it to $backup_filename"
+  mv ~/.gitconfig $backup_filename;
+fi
+ln -s ~/.vim/gitconfig ~/.gitconfig
 
 git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 

@@ -1,0 +1,26 @@
+[user]
+  name = Yannick Francois
+  email = yannick.francois@free.fr
+
+[alias]
+  co = checkout
+  st = status
+  ci = commit 
+  unstage = reset HEAD
+  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+
+[core]
+  editor = vim
+
+[github]
+  user = yaf
+
+[diff]
+  color = auto
+  rename = copy
+
+[pager]
+  color = true
+
+[status]
+  color = auto
