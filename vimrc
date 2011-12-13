@@ -40,7 +40,7 @@ set showmatch
 syntax on 
 " set background=dark " we are using a dark background
 colorscheme desert256
-set guifont=Inconsolata\ 12
+set guifont=Inconsolata:h20
 
 set backspace=2 
 set laststatus=2 
@@ -63,4 +63,3 @@ set switchbuf=newtab
 nnoremap <F8> :sbnext<CR>
 nnoremap <S-F8> :sbprevious<CR>
 
-" source ~/.vimrc.bepo

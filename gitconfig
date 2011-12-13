@@ -3,24 +3,50 @@
   email = yannick.francois@free.fr
 
 [alias]
-  co = checkout
   st = status
-  ci = commit 
+  co = checkout
+  ci = commit
+  br = branch
+  df = diff
+  lg = log -p --color -b
   unstage = reset HEAD
   hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 
+[color]
+  diff = auto
+  ui = auto
+
+[global]
+  editor = vim
+
 [core]
   editor = vim
+
+[push]
+  default = tracking
 
 [github]
   user = yaf
 
 [diff]
   color = auto
-  rename = copy
+  #rename = copy
+  # automatically detects renames
+  renames = true
 
 [pager]
   color = true
 
 [status]
   color = auto
+
+[branch]
+  # git checkout foo automatically checks out origin/foo and names it foo and sets tracking branch.
+  autosetupmerge = true
+  # automatically set tracking branch to rebase instead of merge
+  autosetuprebase = always
+
+[rebase]
+  # automatically sets --autosquash when rebasing interactively
+  # autosquash automatically reorders based on fixup! or squash! prefixes in commit message
+  autosquash = true
