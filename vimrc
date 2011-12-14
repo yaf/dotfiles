@@ -38,7 +38,10 @@ set showmatch
 " set cursorline
 
 syntax on 
+set term=xterm-256color
 " set background=dark " we are using a dark background
+set background=dark
+" colorscheme solarized
 colorscheme desert256
 set guifont=Inconsolata:h20
 
@@ -63,3 +66,12 @@ set switchbuf=newtab
 nnoremap <F8> :sbnext<CR>
 nnoremap <S-F8> :sbprevious<CR>
 
+au BufRead,BufNewFile {Gemfile,Rakefile,Vagrantfile,Thorfile,config.ru} set ft=ruby
+
+au BufNewFile,BufRead *.json set ft=javascript
+
+set backupdir=~/.vim/backup
+set directory=~/.vim/backup
+
+" Remove whitespaces
+map <f6> :%s/\s\+$//<esc>:nohl<CR>:w<CR>
