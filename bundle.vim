@@ -2,6 +2,7 @@
 Bundle 'gmarik/vundle'
 
 " Plugins
+Bundle 'vim-scripts/L9'
 Bundle 'vim-ruby/vim-ruby'
 Bundle 'pangloss/vim-javascript'
 Bundle 'tpope/vim-markdown'
@@ -14,6 +15,10 @@ Bundle 'tpope/vim-rake'
 Bundle 'tpope/vim-rails'
 Bundle 'tpope/vim-surround'
 Bundle 'tpope/vim-bunlder'
+Bundle 'tpope/vim-fugitive'
+" Bundle 'vim-scripts/taglist.vim'
+Bundle 'Lokaltog/vim-powerline'
+Bundle 'vim-scripts/FuzzyFinder'
 
 " Colorschemes
 Bundle 'moria'

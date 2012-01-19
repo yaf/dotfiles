@@ -57,6 +57,14 @@ if has('statusline')
   set statusline+=%=%-14.(Line:\ %l\ of\ %L\ [%p%%]\ -\ Col:\ %c%V%)
 endif
 
+noremap <S-space> <C-b>
+noremap <space> <C-f>
+
+map <down> <ESC>:bn<RETURN>
+map <left> <ESC>:NERDTreeToggle<RETURN>
+map <right> <ESC>:Tlist<RETURN>
+map <up> <ESC>:bp<RETURN>
+
 "set autowrite "autowriteall ?
 "autocmd FocusLost * wall
 autocmd CursorHold * update
