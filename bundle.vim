@@ -18,7 +18,9 @@ Bundle 'tpope/vim-bunlder'
 Bundle 'tpope/vim-fugitive'
 " Bundle 'vim-scripts/taglist.vim'
 Bundle 'Lokaltog/vim-powerline'
+Bundle 'jnwhiteh/vim-golang'
 Bundle 'vim-scripts/FuzzyFinder'
+Bundle 'oscarh/vimerl'
 
 " Colorschemes
 Bundle 'moria'
