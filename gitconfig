@@ -21,6 +21,7 @@
 
 [core]
   editor = vim
+  excludesfile = *.swp
 
 [push]
   default = tracking

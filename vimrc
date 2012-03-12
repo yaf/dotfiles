@@ -63,14 +63,14 @@ noremap <S-space> <C-b>
 noremap <space> <C-f>
 
 " map <up> <ESC>:bp<RETURN>
-map <up> <C-B>
+map <up> {
 " map <down> <ESC>:bn<RETURN>
-map <down> <C-F>
+map <down> }
 " map <left> <ESC>:NERDTreeToggle<RETURN>
 " map <left> <ESC>:buffer  
-map <left> {
+map <left> <C-B>
 " map <right> <ESC>:ls<RETURN>
-map <right> }
+map <right> <C-F>
 
 set switchbuf=newtab
 nnoremap <F8> :sbnext<CR>
