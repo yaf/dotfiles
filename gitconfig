@@ -17,10 +17,10 @@
   ui = auto
 
 [global]
-  editor = vim
+  editor = /usr/bin/vim
 
 [core]
-  editor = vim
+  editor = /usr/bin/vim
   excludesfile = *.swp
 
 [push]
