@@ -26,6 +26,14 @@ if [ -f '../.gitconfig' ]; then
 fi
 ln -s ~/.vim/gitconfig ~/.gitconfig
 
+if [ -f '../.zshrc' ]; then
+  backup_filename=~/.zshrc.bak.`date +%s`;
+  echo ".zshrc found. move it to $backup_filename"
+  mv ~/.zshrc $backup_filename;
+fi
+ln -s ~/.vim/zshrc ~/.zshrc
+
+
 git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 vim -c :BundleInstall
