@@ -59,9 +59,6 @@ if has('statusline')
   set statusline+=%=%-14.(Line:\ %l\ of\ %L\ [%p%%]\ -\ Col:\ %c%V%)
 endif
 
-noremap <S-space> <C-b>
-noremap <space> <C-f>
-
 map <up> <ESC>:bp<RETURN>
 " map <up> {
 map <down> <ESC>:bn<RETURN>
@@ -73,11 +70,8 @@ map <right> <ESC>:ls<RETURN>
 " map <right> <C-F>
 
 set switchbuf=newtab
-nnoremap <F8> :sbnext<CR>
-nnoremap <S-F8> :sbprevious<CR>
 
-" Remove whitespaces
-map <f6> :%s/\s\+$//<esc>:nohl<CR>:w<CR>
+nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
 
 "set autowrite "autowriteall ?
 "autocmd FocusLost * wall
