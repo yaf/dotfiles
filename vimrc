@@ -61,6 +61,7 @@ endif
 
 noremap <S-space> <C-b>
 noremap <space> <C-f>
+nnoremap <esc> :noh<return><esc>
 
 map <up> <ESC>:bp<RETURN>
 " map <up> {
