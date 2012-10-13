@@ -33,6 +33,12 @@ if [ -f '../.zshrc' ]; then
 fi
 ln -s ~/.vim/zshrc ~/.zshrc
 
+if [ -f '../.gemrc' ]; then
+  backup_filename=~/.gemrc.bak.`date +%s`;
+  echo ".gemrc found. move it to $backup_filename"
+  mv ~/.gemrc $backup_filename;
+fi
+ln -s ~/.vim/gemrc ~/.gemrc
 
 git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
