@@ -8,7 +8,7 @@ so ~/.vim/bundle.vim
 
 
 set showmode
-set showcmd         " display incomplete commands
+set showcmd
 set shiftwidth=2
 set shiftround
 set expandtab
@@ -16,15 +16,12 @@ set autoindent
 filetype plugin indent on
 set ignorecase
 set smartcase
-" set smarttab " use tabs at the start of a line, spaces elsewhere
 set incsearch
-" assume the /g flag on :s substitutions to replace all matches in a line:
 set gdefault
 
 set scrolloff=3     " keep 3 lines when scrolling
 set hlsearch        " highlight searches
 set ruler           " show the cursor position all the time
-"set visualbell t_vb    " turn off error beep/flash
 set novisualbell    " turn off visual bell
 set number          " show line numbers
 set ignorecase      " ignore case when searching
@@ -37,13 +34,9 @@ set showmatch
 
 set encoding=utf-8
 
-" set cursorline
-
 syntax on
 set term=xterm-256color
-" set background=dark " we are using a dark background
 set background=dark
-" colorscheme solarized
 colorscheme desert256
 set guifont=Inconsolata:h20
 
@@ -60,25 +53,19 @@ if has('statusline')
 endif
 
 map <up> <ESC>:bp<RETURN>
-" map <up> {
 map <down> <ESC>:bn<RETURN>
-" map <down> }
-" map <left> <ESC>:NERDTreeToggle<RETURN>
 map <left> <ESC>:buffer
-" map <left> <C-B>
 map <right> <ESC>:ls<RETURN>
-" map <right> <C-F>
 
 set switchbuf=newtab
 
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
 
-"set autowrite "autowriteall ?
-"autocmd FocusLost * wall
 autocmd CursorHold * update
 set updatetime=20
 
-" Smart way to move between windows
+autocmd BufWritePre * :%s/\s\+$//e
+
 map <C-j> <C-W>j
 map <C-k> <C-W>k
 map <C-h> <C-W>h
