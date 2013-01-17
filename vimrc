@@ -54,7 +54,7 @@ endif
 
 map <up> <ESC>:bp<RETURN>
 map <down> <ESC>:bn<RETURN>
-map <left> <ESC>:buffer
+map <left> <ESC>:buffer<SPACE>
 map <right> <ESC>:ls<RETURN>
 
 set switchbuf=newtab
