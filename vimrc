@@ -6,7 +6,6 @@ set rtp+=~/.vim/bundle/vundle/
 call vundle#rc()
 so ~/.vim/bundle.vim
 
-
 set showmode
 set showcmd
 set shiftwidth=2
