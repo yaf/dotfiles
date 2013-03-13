@@ -8,7 +8,7 @@
   ci = commit
   br = branch
   df = diff
-  lg = log -p --color -b
+  lg = log -p --color -b --decorate
   unstage = reset HEAD
   hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
 
@@ -34,6 +34,11 @@
   #rename = copy
   # automatically detects renames
   renames = true
+
+[log]
+  color=true
+  decorate=true
+  summary=true
 
 [pager]
   color = true
