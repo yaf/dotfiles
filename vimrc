@@ -36,7 +36,6 @@ set encoding=utf-8
 syntax on
 set term=xterm-256color
 set background=dark
-colorscheme desert256
 set guifont=Inconsolata:h20
 
 set backspace=2

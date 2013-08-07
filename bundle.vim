@@ -14,6 +14,3 @@ Bundle 'tpope/vim-haml'
 Bundle 'tpope/vim-markdown'
 Bundle 'tpope/vim-rails'
 Bundle 'vim-ruby/vim-ruby'
-
-" Colorschemes
-Bundle 'desert256.vim'
