@@ -40,6 +40,13 @@ if [ -f '../.gemrc' ]; then
 fi
 ln -s ~/.vim/gemrc ~/.gemrc
 
+if [ -f '../.tmux.conf' ]; then
+  backup_filename=~/.tmux.conf.bak.`date +%s`;
+  echo ".tmux.conf found. move it to $backup_filename"
+  mv ~/.tmux.conf $backup_filename;
+fi
+ln -s ~/.vim/tmux.conf ~/.tmux.conf
+
 git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 vim -c :BundleInstall
