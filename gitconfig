@@ -11,6 +11,8 @@
   lg = log -p --color -b --decorate
   unstage = reset HEAD
   hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+  pushall="!f(){ for RMT in $(git remote); do git push -v $RMT $1; done; };f"
+  pushto="!f(){ for RMT in $1; do git push -v $RMT $2; done; };f"
 
 [color]
   diff = auto

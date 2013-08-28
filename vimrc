@@ -50,6 +50,11 @@ if has('statusline')
   set statusline+=%=%-14.(Line:\ %l\ of\ %L\ [%p%%]\ -\ Col:\ %c%V%)
 endif
 
+let g:html_indent_tags = 'li\|p'
+
+set splitbelow
+set splitright
+
 map <up> <ESC>:bp<RETURN>
 map <down> <ESC>:bn<RETURN>
 map <left> <ESC>:buffer<SPACE>
@@ -64,10 +69,10 @@ set updatetime=20
 
 autocmd BufWritePre * :%s/\s\+$//e
 
-map <C-j> <C-W>j
-map <C-k> <C-W>k
-map <C-h> <C-W>h
-map <C-l> <C-W>l
+nnoremap <C-j> <C-W>j
+nnoremap <C-k> <C-W>k
+nnoremap <C-h> <C-W>h
+nnoremap <C-l> <C-W>l
 
 au BufRead,BufNewFile {Gemfile,Rakefile,Vagrantfile,Thorfile,config.ru} set ft=ruby
 au BufNewFile,BufRead *.json set ft=javascript
