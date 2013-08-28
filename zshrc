@@ -44,3 +44,5 @@ export PATH="/usr/local/heroku/bin:$PATH"
 
 ### Add current dir /bin to work with bundle --binstubs
 export PATH="./bin:$PATH"
+
+[[ -s ~/.nvm/nvm.sh ]] && . ~/.nvm/nvm.sh # This loads NVM
