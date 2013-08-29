@@ -44,5 +44,6 @@ export PATH="/usr/local/heroku/bin:$PATH"
 
 ### Add current dir /bin to work with bundle --binstubs
 export PATH="./bin:$PATH"
+alias dagoba=yaf@88.191.186.243
 
 [[ -s ~/.nvm/nvm.sh ]] && . ~/.nvm/nvm.sh # This loads NVM
