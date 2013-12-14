@@ -33,7 +33,7 @@ set showmatch
 
 set encoding=utf-8
 
-syntax on
+"syntax on
 set term=xterm-256color
 set background=dark
 set guifont=Inconsolata:h20
