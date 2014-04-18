@@ -21,7 +21,7 @@ set gdefault
 set scrolloff=3     " keep 3 lines when scrolling
 set hlsearch        " highlight searches
 set ruler           " show the cursor position all the time
-set novisualbell    " turn off visual bell
+set visualbell    " turn off visual bell
 set number          " show line numbers
 set ignorecase      " ignore case when searching
 set title           " show title in console title bar
@@ -33,7 +33,7 @@ set showmatch
 
 set encoding=utf-8
 
-"syntax on
+syntax on
 set term=xterm-256color
 set background=dark
 set guifont=Inconsolata:h20
@@ -76,7 +76,14 @@ nnoremap <C-l> <C-W>l
 
 au BufRead,BufNewFile {Gemfile,Rakefile,Vagrantfile,Thorfile,config.ru} set ft=ruby
 au BufNewFile,BufRead *.json set ft=javascript
+au BufRead /tmp/mutt-* set tw=72
 
 set backupdir=~/.vim/backup
 set directory=~/.vim/backup
+
+augroup filetypedetect
+  " Mail
+  autocmd BufRead,BufNewFile *mutt-*              setfiletype mail
+augroup END
+
 

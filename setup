@@ -47,6 +47,14 @@ if [ -f '../.tmux.conf' ]; then
 fi
 ln -s ~/.vim/tmux.conf ~/.tmux.conf
 
+if [ -f '../.irssi/config' ]; then
+  backup_filename=~/.irssi/config.bak.`date +%s`;
+  echo ".irssi/config found. move it to $backup_filename"
+  mv ~/irssi.conf $backup_filename;
+fi
+ln -s ~/.vim/tmux.conf ~/.tmux.conf
+
+
 git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 vim -c :BundleInstall
