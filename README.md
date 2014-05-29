@@ -2,13 +2,7 @@ Installation
 ============
 
 install with
-`git clone https://github.com/yaf/env.git ~/.vim && .vim/setup`
-
-or, clone the repo in a ~/.vim directory
-`git clone https://github.com/yaf/env.git ~/.vim`
-
-and then run the setup:
-`~/.vim/setup`
+`mkdir -p ~/.config/dotfiles && git clone https://github.com/yaf/env.git ~/.config/dotfiles && .config/dotfiles/setup`
 
 Mostly inspired by JulienXX dotvim https://github.com/julienXX/dotvim
 
