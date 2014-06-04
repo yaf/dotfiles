@@ -21,3 +21,4 @@ export PATH="./bin:$PATH"
 
 [[ -s ~/.nvm/nvm.sh ]] && . ~/.nvm/nvm.sh # This loads NVM
 man $(ls /usr/bin | shuf -n 1)| sed -n "/^NAME/ { n;p;q }"
+export PATH="$HOME/.rbenv/bin:$PATH"

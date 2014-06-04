@@ -65,6 +65,21 @@ fi
 mkdir -p ~/.bundle
 ln -s $DOTFILES_DIR/bundleconfig ~/.bundle/config
 
+if [ -f ~/.xmonad/xmonad.hs ]; then
+  backup_filename=~/.xmonad/xmonad.hs.bak;
+  echo ".xmonad/xmonad.hs found. move it to $backup_filename"
+  mv ~/.xmonad/xmonad.hs $backup_filename;
+fi
+if [ -f ~/.xmonad/xmobarrc ]; then
+  backup_filename=~/.xmonad/xmobarrc.bak;
+  echo ".xmonad/xmobarrc found. move it to $backup_filename"
+  mv ~/.xmonad/xmobarrc $backup_filename;
+fi
+
+mkdir -p ~/.xmonad
+ln -s $DOTFILES_DIR/xmonad/xmonad.hs ~/.xmonad/xmonad.hs
+ln -s $DOTFILES_DIR/xmonad/xmobarrc ~/.xmonad/xmobarrc
+
 if [ ! -f ~/.bundle/config ]; then
   mkdir -p ~/.vim/bundle
   git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
