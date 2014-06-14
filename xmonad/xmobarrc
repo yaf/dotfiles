@@ -20,6 +20,7 @@ Config {
         , Run Memory ["-t","Mem: <usedratio>%"] 10
         , Run Swap [] 10
         , Run Date "%a %b %_d %Y %H:%M" "date" 10
+        , Run Com "amixer get Master | tr -d '[]' | grep 'Playback.*%' | head -n1 | awk '{print $5}'" [] "Volume" 10
       ]
     , sepChar = "%"
     , alignSep = "}{"

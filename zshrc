@@ -4,7 +4,7 @@ ZSH_THEME="robbyrussell"
 
 alias node=nodejs
 
-plugins=(git ruby rake rails)
+plugins=(git ruby rake rails bundler)
 
 source $ZSH/oh-my-zsh.sh
 

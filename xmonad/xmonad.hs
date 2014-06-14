@@ -11,6 +11,7 @@ import XMonad.Layout.NoBorders
 import XMonad.Layout.Spiral
 import XMonad.Layout.LayoutHints
 import XMonad.Layout.Tabbed
+import Graphics.X11.ExtraTypes.XF86
 import XMonad.Util.EZConfig
 import XMonad.Util.Run(spawnPipe)
 
@@ -64,5 +65,8 @@ main = do
     [ ((mod4Mask .|. shiftMask, xK_l), spawn "xscreensaver-command -lock")
      , ((controlMask, xK_Print), spawn "sleep 0.2; scrot -s")
      , ((0, xK_Print), spawn "scrot")
+     , ((0, xF86XK_AudioRaiseVolume), spawn "amixer sset Master 3%+")
+     , ((0, xF86XK_AudioLowerVolume), spawn "amixer sset Master 3%-")
+     , ((0, xF86XK_AudioMute), spawn "amixer sset Master toggle")
     ]
 
