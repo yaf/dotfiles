@@ -27,7 +27,9 @@ myLayout = (
     )
 
 startup = do
-  spawnOn "1" "urxvt -e tmux"
+  spawnOn "1" "xterm -e irssi"
+  spawnOn "3" "xterm -e tmux"
+  spawnOn "2" "firefox"
 
 nManageHook = composeAll . concat $
                 [ [ className =? "Steam" --> doShift "user"]
@@ -46,6 +48,7 @@ main = do
     { borderWidth = 2
       , modMask = mod4Mask
       , workspaces = myWorkspaces
+      , XMonad.terminal = "xterm"
       , normalBorderColor  = "#cccccc"
       , focusedBorderColor = "#cd8b00"
       , startupHook = startup
