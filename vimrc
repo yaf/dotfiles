@@ -2,9 +2,25 @@ set nocompatible
 filetype off " required by Vundle plumbing
 
 " Vundle
-set rtp+=~/.vim/bundle/vundle/
-call vundle#rc()
-so ~/.vim/bundle.vim
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
+Plugin 'gmarik/Vundle.vim'
+
+Plugin 'cakebaker/scss-syntax.vim'
+Plugin 'jnwhiteh/vim-golang'
+Plugin 'kchmck/vim-coffee-script'
+Plugin 'bling/vim-airline'
+Plugin 'oscarh/vimerl'
+Plugin 'pangloss/vim-javascript'
+Plugin 'tpope/vim-haml'
+Plugin 'tpope/vim-markdown'
+Plugin 'tpope/vim-rails'
+Plugin 'vim-ruby/vim-ruby'
+Plugin 'kana/vim-filetype-haskell'
+Plugin 'derekwyatt/vim-scala'
+
+" All of your Plugins must be added before the following line
+call vundle#end()
 
 set showmode
 set showcmd
