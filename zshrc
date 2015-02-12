@@ -30,3 +30,14 @@ export PATH="./bin:$PATH"
 man $(ls /usr/bin | shuf -n 1)| sed -n "/^NAME/ { n;p;q }"
 export PATH="$HOME/.rbenv/bin:$PATH"
 
+export PATH="$HOME/.cabal/bin:$PATH"
+
+# OPAM configuration
+. /home/yaf/.opam/opam-init/init.zsh > /dev/null 2> /dev/null || true
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
+
+export WORKON_HOME=$HOME/.virtualenvs
+source /usr/local/bin/virtualenvwrapper_lazy.sh
+
+./xflux -l 48.9 -g 2.3
