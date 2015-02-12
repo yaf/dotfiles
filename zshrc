@@ -40,4 +40,4 @@ export PATH="$PYENV_ROOT/bin:$PATH"
 export WORKON_HOME=$HOME/.virtualenvs
 source /usr/local/bin/virtualenvwrapper_lazy.sh
 
-./xflux -l 48.9 -g 2.3
+~/.config/dotfiles/xflux -l 48.9 -g 2.3
