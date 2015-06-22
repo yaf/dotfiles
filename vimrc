@@ -18,6 +18,9 @@ Plugin 'tpope/vim-rails'
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'kana/vim-filetype-haskell'
 Plugin 'derekwyatt/vim-scala'
+Plugin 'leafgarland/typescript-vim'
+Plugin 'digitaltoad/vim-jade'
+Plugin 'vim-scripts/elm.vim'
 
 " All of your Plugins must be added before the following line
 call vundle#end()
@@ -33,6 +36,7 @@ set ignorecase
 set smartcase
 set incsearch
 set gdefault
+set cursorline
 
 set scrolloff=3     " keep 3 lines when scrolling
 set hlsearch        " highlight searches
@@ -103,3 +107,16 @@ augroup filetypedetect
 augroup END
 
 
+" relativenumber line number
+function! NumberToggle()
+  if(&relativenumber == 1)
+    set norelativenumber
+    set number
+  else
+    set relativenumber
+  endif
+endfunc
+
+set relativenumber
+
+nnoremap <f5> :call NumberToggle()<CR>

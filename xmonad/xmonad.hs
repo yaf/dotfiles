@@ -27,9 +27,7 @@ myLayout = (
     )
 
 startup = do
-  spawnOn "1" "xterm -e irssi"
-  spawnOn "3" "xterm -e tmux"
-  spawnOn "2" "firefox"
+  spawnOn "1" "xterm"
 
 nManageHook = composeAll . concat $
                 [ [ className =? "Steam" --> doShift "user"]

@@ -1,15 +1,10 @@
 ZSH=$HOME/.oh-my-zsh
 
-ZSH_THEME="robbyrussell"
-
-[[ -z "$TMUX" ]] && exec tmux
-
-if which tmux 2>&1 >/dev/null; then
-  test -z "$TMUX" && (tmux attach || tmux new-session)
-fi
+ZSH_THEME="jreese"
 
 alias node=nodejs
 alias be=bundle exec
+alias vi=vim
 
 plugins=(git ruby rake rails bundler)
 
@@ -40,4 +35,8 @@ export PATH="$PYENV_ROOT/bin:$PATH"
 export WORKON_HOME=$HOME/.virtualenvs
 source /usr/local/bin/virtualenvwrapper_lazy.sh
 
-~/.config/dotfiles/xflux -l 48.9 -g 2.3
+hubic start
+
+export GOPATH=$HOME/Code/go
+export PATH=$PATH:/home/yaf/Code/go/bin
+
