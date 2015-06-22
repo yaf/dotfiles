@@ -35,6 +35,13 @@ if [ -f ~/.zshrc ]; then
 fi
 ln -s $DOTFILES_DIR/zshrc ~/.zshrc
 
+if [ -f ~/.profile ]; then
+  backup_filename=~/.profile.bak;
+  echo ".profile found. move it to $backup_filename"
+  mv ~/.profile $backup_filename;
+fi
+ln -s $DOTFILES_DIR/.profile ~/.profile
+
 if [ -f ~/.gemrc ]; then
   backup_filename=~/.gemrc.bak;
   echo ".gemrc found. move it to $backup_filename"
