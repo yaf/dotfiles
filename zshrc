@@ -6,6 +6,8 @@ alias node=nodejs
 alias be=bundle exec
 alias vi=vim
 
+alias ntmux=tmux new-session -s $1
+
 plugins=(git ruby rake rails bundler)
 
 source $ZSH/oh-my-zsh.sh

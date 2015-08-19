@@ -1,30 +1,6 @@
 set nocompatible
 filetype off " required by Vundle plumbing
 
-" Vundle
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-Plugin 'gmarik/Vundle.vim'
-
-Plugin 'cakebaker/scss-syntax.vim'
-Plugin 'jnwhiteh/vim-golang'
-Plugin 'kchmck/vim-coffee-script'
-Plugin 'bling/vim-airline'
-Plugin 'oscarh/vimerl'
-Plugin 'pangloss/vim-javascript'
-Plugin 'tpope/vim-haml'
-Plugin 'tpope/vim-markdown'
-Plugin 'tpope/vim-rails'
-Plugin 'vim-ruby/vim-ruby'
-Plugin 'kana/vim-filetype-haskell'
-Plugin 'derekwyatt/vim-scala'
-Plugin 'leafgarland/typescript-vim'
-Plugin 'digitaltoad/vim-jade'
-Plugin 'vim-scripts/elm.vim'
-
-" All of your Plugins must be added before the following line
-call vundle#end()
-
 set showmode
 set showcmd
 set shiftwidth=2
@@ -55,7 +31,7 @@ set encoding=utf-8
 
 syntax on
 set term=xterm-256color
-set background=dark
+set background=light
 set guifont=Inconsolata:h20
 
 set backspace=2
@@ -67,7 +43,7 @@ if has('statusline')
   set statusline+=%w%h%m%r
   set statusline+=\ [%{&ff}/%Y]
   set statusline+=\ [%{getcwd()}]
-  set statusline+=%=%-14.(Line:\ %l\ of\ %L\ [%p%%]\ -\ Col:\ %c%V%)
+  set statusline+=%=%-14.([%p%%]\ -\ Col:\ %c%V%)
 endif
 
 let g:html_indent_tags = 'li\|p'
@@ -77,17 +53,14 @@ set splitright
 
 map <up> <ESC>:bp<RETURN>
 map <down> <ESC>:bn<RETURN>
-map <left> <ESC>:buffer<SPACE>
-map <right> <ESC>:ls<RETURN>
+map <left> <ESC>:bdelete<RETURN>
+map <right> <ESC>:buffers<RETURN>
 
 set switchbuf=newtab
 
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
 
-autocmd CursorHold * update
-set updatetime=20
-
-autocmd BufWritePre * :%s/\s\+$//e
+"autocmd BufWritePre * :%s/\s\+$//e
 
 nnoremap <C-j> <C-W>j
 nnoremap <C-k> <C-W>k
@@ -98,6 +71,9 @@ au BufRead,BufNewFile {Gemfile,Rakefile,Vagrantfile,Thorfile,config.ru} set ft=r
 au BufNewFile,BufRead *.json set ft=javascript
 au BufRead /tmp/mutt-* set tw=72
 
+au BufRead,BufNewFile *.md setlocal textwidth=80
+au BufRead,BufNewFile *.tex setlocal textwidth=80
+
 set backupdir=~/.vim/backup
 set directory=~/.vim/backup
 
@@ -107,16 +83,3 @@ augroup filetypedetect
 augroup END
 
 
-" relativenumber line number
-function! NumberToggle()
-  if(&relativenumber == 1)
-    set norelativenumber
-    set number
-  else
-    set relativenumber
-  endif
-endfunc
-
-set relativenumber
-
-nnoremap <f5> :call NumberToggle()<CR>
