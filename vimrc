@@ -31,7 +31,6 @@ set encoding=utf-8
 
 syntax on
 set term=xterm-256color
-set background=light
 set guifont=Inconsolata:h20
 
 set backspace=2
@@ -81,5 +80,4 @@ augroup filetypedetect
   " Mail
   autocmd BufRead,BufNewFile *mutt-*              setfiletype mail
 augroup END
-
 

@@ -1,7 +1,6 @@
 #!/bin/sh
 
-DOTFILES_DIR=~/.config/dotfiles/
-HOME_DIR=/home/yaf
+DOTFILES_DIR=~/.config/dotfiles
 cd $DOTFILES_DIR
 
 mkdir -p ~/.vim/bundle
@@ -28,20 +27,6 @@ if [ -f ~/.gitconfig ]; then
 fi
 ln -s $DOTFILES_DIR/gitconfig ~/.gitconfig
 
-if [ -f ~/.zshrc ]; then
-  backup_filename=~/.zshrc.bak;
-  echo ".zshrc found. move it to $backup_filename"
-  mv ~/.zshrc $backup_filename;
-fi
-ln -s $DOTFILES_DIR/zshrc ~/.zshrc
-
-if [ -f ~/.profile ]; then
-  backup_filename=~/.profile.bak;
-  echo ".profile found. move it to $backup_filename"
-  mv ~/.profile $backup_filename;
-fi
-ln -s $DOTFILES_DIR/.profile ~/.profile
-
 if [ -f ~/.gemrc ]; then
   backup_filename=~/.gemrc.bak;
   echo ".gemrc found. move it to $backup_filename"
@@ -56,14 +41,6 @@ if [ -f ~/.tmux.conf ]; then
 fi
 ln -s $DOTFILES_DIR/tmux.conf ~/.tmux.conf
 
-if [ -f ~/.irssi/config ]; then
-  backup_filename=~/.irssi/config.bak;
-  echo ".irssi/config found. move it to $backup_filename"
-  mv ~/.irssi/config $backup_filename;
-fi
-mkdir -p ~/.irssi
-ln -s $DOTFILES_DIR/irssi.conf ~/.irssi/config
-
 if [ -f ~/.bundle/config ]; then
   backup_filename=~/.bundle/config.bak;
   echo ".bundle/config found. move it to $backup_filename"
@@ -71,26 +48,4 @@ if [ -f ~/.bundle/config ]; then
 fi
 mkdir -p ~/.bundle
 ln -s $DOTFILES_DIR/bundleconfig ~/.bundle/config
-
-if [ -f ~/.xmonad/xmonad.hs ]; then
-  backup_filename=~/.xmonad/xmonad.hs.bak;
-  echo ".xmonad/xmonad.hs found. move it to $backup_filename"
-  mv ~/.xmonad/xmonad.hs $backup_filename;
-fi
-if [ -f ~/.xmonad/xmobarrc ]; then
-  backup_filename=~/.xmonad/xmobarrc.bak;
-  echo ".xmonad/xmobarrc found. move it to $backup_filename"
-  mv ~/.xmonad/xmobarrc $backup_filename;
-fi
-
-mkdir -p ~/.xmonad
-ln -s $DOTFILES_DIR/xmonad/xmonad.hs ~/.xmonad/xmonad.hs
-ln -s $DOTFILES_DIR/xmonad/xmobarrc ~/.xmonad/xmobarrc
-
-if [ ! -f ~/.bundle/config ]; then
-  mkdir -p ~/.vim/bundle
-  git clone http://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
-fi
-
-vim -c :BundleInstall
 
