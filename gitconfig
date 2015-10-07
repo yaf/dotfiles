@@ -23,7 +23,10 @@
   excludesfile = *.swp
 
 [push]
-  default = tracking
+  default = simple
+
+[pull]
+  rebase=true
 
 [github]
   user = yaf
@@ -46,9 +49,7 @@
   color = auto
 
 [branch]
-  # git checkout foo automatically checks out origin/foo and names it foo and sets tracking branch.
   autosetupmerge = true
-  # automatically set tracking branch to rebase instead of merge
   autosetuprebase = always
 
 [rebase]

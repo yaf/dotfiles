@@ -31,6 +31,7 @@ set encoding=utf-8
 
 syntax on
 set term=xterm-256color
+set background=dark
 set guifont=Inconsolata:h20
 
 set backspace=2
@@ -52,7 +53,7 @@ set splitright
 
 map <up> <ESC>:bp<RETURN>
 map <down> <ESC>:bn<RETURN>
-map <left> <ESC>:bdelete<RETURN>
+map <left> <ESC>:buffer<SPACE>
 map <right> <ESC>:buffers<RETURN>
 
 set switchbuf=newtab
