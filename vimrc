@@ -1,3 +1,5 @@
+execute pathogen#infect()
+
 set nocompatible
 filetype off " required by Vundle plumbing
 
@@ -25,13 +27,16 @@ set ttyfast         " smoother changes
 set modeline        " last lines in document sets vim mode
 set modelines=3     " number lines checked for modelines
 
+set hidden
+set history=100
+
 set showmatch
 
 set encoding=utf-8
 
 syntax on
 set term=xterm-256color
-set background=dark
+set background=light
 set guifont=Inconsolata:h20
 
 set backspace=2
@@ -71,14 +76,6 @@ au BufRead,BufNewFile {Gemfile,Rakefile,Vagrantfile,Thorfile,config.ru} set ft=r
 au BufNewFile,BufRead *.json set ft=javascript
 au BufRead /tmp/mutt-* set tw=72
 
-au BufRead,BufNewFile *.md setlocal textwidth=80
-au BufRead,BufNewFile *.tex setlocal textwidth=80
-
 set backupdir=~/.vim/backup
 set directory=~/.vim/backup
-
-augroup filetypedetect
-  " Mail
-  autocmd BufRead,BufNewFile *mutt-*              setfiletype mail
-augroup END
 
