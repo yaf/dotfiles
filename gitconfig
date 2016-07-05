@@ -2,24 +2,12 @@
   name = Yannick Francois
   email = yaf@elsif.fr
 
-[alias]
-  st = status
-  co = checkout
-  ci = commit
-  br = branch
-  df = diff
-  lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
-  hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
-
 [color]
   diff = auto
   ui = auto
 
-[global]
-  editor = vim
-
 [core]
-  editor = vim
+  editor = vi
   excludesfile = *.swp
 
 [push]
@@ -33,8 +21,6 @@
 
 [diff]
   color = auto
-  #rename = copy
-  # automatically detects renames
   renames = true
 
 [log]
@@ -53,6 +39,5 @@
   autosetuprebase = always
 
 [rebase]
-  # automatically sets --autosquash when rebasing interactively
-  # autosquash automatically reorders based on fixup! or squash! prefixes in commit message
   autosquash = true
+
