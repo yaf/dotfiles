@@ -35,9 +35,9 @@ set history=100
 set showmatch
 
 set list
-set listchars=trail:•
+set listchars=trail:•,tab:→\ ,nbsp:¬
 
-syntax on
+syntax enable
 set term=xterm-256color
 set background=light
 set guifont=Inconsolata:h20
@@ -59,13 +59,13 @@ let g:html_indent_tags = 'li\|p'
 set splitbelow
 set splitright
 
-map <up> <ESC>:bp<RETURN>
-map <down> <ESC>:bn<RETURN>
+map <up> <ESC>:bprevious<RETURN>
+map <down> <ESC>:bnext<RETURN>
 map <left> <ESC>:buffer<SPACE>
 map <right> <ESC>:buffers<RETURN>
 
-imap <up> <ESC>:bp<RETURN>
-imap <down> <ESC>:bn<RETURN>
+imap <up> <ESC>:bprevious<RETURN>
+imap <down> <ESC>:bnext<RETURN>
 imap <left> <ESC>:buffer<SPACE>
 imap <right> <ESC>:buffers<RETURN>
 
