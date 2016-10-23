@@ -10,15 +10,9 @@ if [ -f ~/.vimrc ]; then
   backup_filename=~/.vimrc.bak;
   echo ".vimrc found. move it to $backup_filename"
   mv ~/.vimrc $backup_filename;
+  mkdir -p ~/.vim/pack
 fi
 ln -s $DOTFILES_DIR/vimrc ~/.vimrc
-
-if [ -f ~/.gvimrc ]; then
-  backup_filename=~/.gvimrc.bak;
-  echo ".gvimrc found. move it to $backup_filename"
-  mv ~/.gvimrc $backup_filename;
-fi
-ln -s $DOTFILES_DIR/gvimrc ~/.gvimrc
 
 if [ -f ~/.gitconfig ]; then
   backup_filename=~/.gitconfig.bak;
@@ -26,13 +20,6 @@ if [ -f ~/.gitconfig ]; then
   mv ~/.gitconfig $backup_filename;
 fi
 ln -s $DOTFILES_DIR/gitconfig ~/.gitconfig
-
-if [ -f ~/.gemrc ]; then
-  backup_filename=~/.gemrc.bak;
-  echo ".gemrc found. move it to $backup_filename"
-  mv ~/.gemrc $backup_filename;
-fi
-ln -s $DOTFILES_DIR/gemrc ~/.gemrc
 
 if [ -f ~/.tmux.conf ]; then
   backup_filename=~/.tmux.conf.bak;

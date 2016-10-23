@@ -1,7 +1,7 @@
 scriptencoding utf-8
 set encoding=utf-8
 
-execute pathogen#infect()
+"execute pathogen#infect()
 
 set nocompatible
 filetype off
