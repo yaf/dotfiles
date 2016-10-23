@@ -14,6 +14,13 @@ if [ -f ~/.vimrc ]; then
 fi
 ln -s $DOTFILES_DIR/vimrc ~/.vimrc
 
+if [ -f ~/.bashrc ]; then
+  backup_filename=~/.bashrc.bak;
+  echo ".bashrc found. move it to $backup_filename"
+  mv ~/.bashrc $backup_filename;
+fi
+ln -s $DOTFILES_DIR/bashrc ~/.bashrc
+
 if [ -f ~/.gitconfig ]; then
   backup_filename=~/.gitconfig.bak;
   echo ".gitconfig found. move it to $backup_filename"

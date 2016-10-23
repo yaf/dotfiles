@@ -39,7 +39,7 @@ set listchars=trail:•,tab:→\ ,nbsp:¬
 
 syntax enable
 set term=xterm-256color
-set background=light
+set background=dark
 set guifont=Inconsolata:h20
 
 set backspace=2
