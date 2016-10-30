@@ -2,42 +2,10 @@
   name = Yannick Francois
   email = yaf@elsif.fr
 
-[color]
-  diff = auto
-  ui = auto
-
 [core]
   editor = vi
-  excludesfile = *.swp
+  ignorecase = false
 
 [push]
   default = simple
-
-[pull]
-  rebase=true
-
-[github]
-  user = yaf
-
-[diff]
-  color = auto
-  renames = true
-
-[log]
-  color=true
-  decorate=true
-  summary=true
-
-[pager]
-  color = true
-
-[status]
-  color = auto
-
-[branch]
-  autosetupmerge = true
-  autosetuprebase = always
-
-[rebase]
-  autosquash = true
 
