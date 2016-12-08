@@ -59,15 +59,15 @@ let g:html_indent_tags = 'li\|p'
 set splitbelow
 set splitright
 
-map <up> <ESC>:bprevious<RETURN>
-map <down> <ESC>:bnext<RETURN>
-map <left> <ESC>:buffer<SPACE>
-map <right> <ESC>:buffers<RETURN>
+map <up> <nop>
+map <down> <nop>
+map <left> <nop>
+map <right> <nop>
 
-imap <up> <ESC>:bprevious<RETURN>
-imap <down> <ESC>:bnext<RETURN>
-imap <left> <ESC>:buffer<SPACE>
-imap <right> <ESC>:buffers<RETURN>
+imap <up> <nop>
+imap <down> <nop>
+imap <left> <nop>
+imap <right> <nop>
 
 set switchbuf=newtab
 
