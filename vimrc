@@ -4,7 +4,6 @@ set encoding=utf-8
 "execute pathogen#infect()
 
 set nocompatible
-filetype off
 
 set showmode
 set showcmd
@@ -23,7 +22,6 @@ set hlsearch
 set ruler
 set visualbell
 set number
-set ignorecase
 set title
 set ttyfast
 set modeline
@@ -39,7 +37,7 @@ set listchars=trail:•,tab:→\ ,nbsp:¬
 
 syntax enable
 set term=xterm-256color
-set background=dark
+set background=light
 set guifont=Inconsolata:h20
 
 set backspace=2

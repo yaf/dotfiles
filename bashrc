@@ -37,8 +37,11 @@ if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
     debian_chroot=$(cat /etc/debian_chroot)
 fi
 
+export GIT_PS1_SHOWDIRTYSTATE=1
+
 #PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\] \$ '
-PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w \$ '
+#PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w \$ '
+PS1='\u@\h:\w$(__git_ps1 " (%s)") \$ '
 
 # If this is an xterm set the title to user@host:dir
 case "$TERM" in
@@ -89,19 +92,17 @@ if ! shopt -oq posix; then
   fi
 fi
 
-ntodo(){ ${EDITOR:-vi} ~/.todolist;}
 todo(){ cd ~/.todo||return 1&& l=$(ls -1t|head -n1)&&t=$(date +%Y%m%d);[[ "$1" == "last" ]]&&cp $l $t; ${EDITOR:-vi} $t;cd -;}
 
 alias elm='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/tmp" -u $UID:$GID -p 8000:8000 codesimple/elm:0.16'
-alias exercism='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/tmp" -u $UID:$GID yaf/exercism:latest'
+alias exercism='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/code" -u $UID:$GID yaf/exercism:latest'
 
 pdflatex() { echo `date`; echo `$(pwd)`; docker run -it --rm -v "$(pwd):$(pwd)" -e "HOME=$(pwd)" -u $UID:$GID yaaf/pdflatex $@; }
 
 alias heroku='docker run -v "$PWD":/tmp -w /tmp -it uochan/heroku-toolbelt /bin/bash'
 
-export NVM_DIR="/home/yaf/.nvm"
-[ -s "$NVM_DIR/nvm.sh" ] && . "$NVM_DIR/nvm.sh"  # This loads nvm
-
 alias lein='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/tmp" -u $UID:$GID clojure lein'
 
 export PDFLATEX=~/ut7/factures/bin/pdflatex-docker
+
+export HISTCONTROL=ignoreboth:erasedups
