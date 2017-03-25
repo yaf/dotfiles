@@ -1,15 +1,18 @@
 scriptencoding utf-8
 set encoding=utf-8
 
-"execute pathogen#infect()
-
 set nocompatible
-
 set showmode
 set showcmd
+
+set expandtab
+set tabstop=4
+set softtabstop=4
+
+set cursorline
+
 set shiftwidth=2
 set shiftround
-set expandtab
 set autoindent
 filetype plugin indent on
 set ignorecase
@@ -17,12 +20,11 @@ set smartcase
 set incsearch
 set gdefault
 
-set scrolloff=3
+set scrolloff=7
 set hlsearch
 set ruler
 set visualbell
 set number
-set title
 set ttyfast
 set modeline
 set modelines=3
@@ -41,8 +43,6 @@ set background=light
 set guifont=Inconsolata:h20
 
 set backspace=2
-set laststatus=2
-set backupdir=/tmp
 
 if has('statusline')
   set statusline=%<%f\
@@ -67,8 +67,6 @@ imap <down> <nop>
 imap <left> <nop>
 imap <right> <nop>
 
-set switchbuf=newtab
-
 nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
 
 nnoremap <C-j> <C-W>j
@@ -76,10 +74,6 @@ nnoremap <C-k> <C-W>k
 nnoremap <C-h> <C-W>h
 nnoremap <C-l> <C-W>l
 
-au BufRead,BufNewFile {Gemfile,Rakefile,Vagrantfile,Thorfile,config.ru} set ft=ruby
-au BufNewFile,BufRead *.json set ft=javascript
-au BufRead /tmp/mutt-* set tw=72
-
-set backupdir=~/.vim/backup
-set directory=~/.vim/backup
-
+set nobackup
+set nowb
+set noswapfile

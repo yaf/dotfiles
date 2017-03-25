@@ -7,5 +7,5 @@
   ignorecase = false
 
 [push]
-  default = simple
+  default = current
 

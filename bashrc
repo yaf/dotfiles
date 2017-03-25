@@ -97,9 +97,9 @@ todo(){ cd ~/.todo||return 1&& l=$(ls -1t|head -n1)&&t=$(date +%Y%m%d);[[ "$1" =
 alias elm='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/tmp" -u $UID:$GID -p 8000:8000 codesimple/elm:0.16'
 alias exercism='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/code" -u $UID:$GID yaf/exercism:latest'
 
-pdflatex() { echo `date`; echo `$(pwd)`; docker run -it --rm -v "$(pwd):$(pwd)" -e "HOME=$(pwd)" -u $UID:$GID yaaf/pdflatex $@; }
+pdflatex() { echo `date`; echo `$(pwd)`; docker run -it --rm -v "$(pwd):$(pwd)" -e "HOME=$(pwd)" -u $UID:$GID ut7fr/pdflatex $@; }
 
-alias heroku='docker run -v "$PWD":/tmp -w /tmp -it uochan/heroku-toolbelt /bin/bash'
+#alias heroku='docker run -v "$PWD":/tmp -w /tmp -it uochan/heroku-toolbelt /bin/bash'
 
 alias lein='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/tmp" -u $UID:$GID clojure lein'
 
