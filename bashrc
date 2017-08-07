@@ -8,31 +8,15 @@ case $- in
       *) return;;
 esac
 
-# don't put duplicate lines or lines starting with space in the history.
-# See bash(1) for more options
 HISTCONTROL=ignoreboth
-
-# append to the history file, don't overwrite it
 shopt -s histappend
 
 HISTSIZE=-1
 HISTFILESIZE=-1
 export HISTFILE=~/.bash_eternal_history
-#PROMPT_COMMAND="history -a; $PROMPT_COMMAND"
 
-# check the window size after each command and, if necessary,
-
-# update the values of LINES and COLUMNS.
 shopt -s checkwinsize
 
-# If set, the pattern "**" used in a pathname expansion context will
-# match all files and zero or more directories and subdirectories.
-#shopt -s globstar
-
-# make less more friendly for non-text input files, see lesspipe(1)
-#[ -x /usr/bin/lesspipe ] && eval "$(SHELL=/bin/sh lesspipe)"
-
-# set variable identifying the chroot you work in (used in the prompt below)
 if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
     debian_chroot=$(cat /etc/debian_chroot)
 fi
@@ -41,7 +25,7 @@ export GIT_PS1_SHOWDIRTYSTATE=1
 
 #PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\] \$ '
 #PS1='${debian_chroot:+($debian_chroot)}\u@\h:\w \$ '
-PS1='\u@\h:\w$(__git_ps1 " (%s)") \$ '
+PS1='\w$(__git_ps1 " (%s)") \$ '
 
 # If this is an xterm set the title to user@host:dir
 case "$TERM" in
@@ -92,17 +76,18 @@ if ! shopt -oq posix; then
   fi
 fi
 
+patex() { echo `date`; echo `$(pwd)`; docker run --rm -v $PWD:/workdir -w /workdir ut7fr/pdflatex echo $@; }
 todo(){ cd ~/.todo||return 1&& l=$(ls -1t|head -n1)&&t=$(date +%Y%m%d);[[ "$1" == "last" ]]&&cp $l $t; ${EDITOR:-vi} $t;cd -;}
+gitodo(){ git log --grep="^TODO" | grep 'TODO' | sort --unique;}
 
 alias elm='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/tmp" -u $UID:$GID -p 8000:8000 codesimple/elm:0.16'
 alias exercism='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/code" -u $UID:$GID yaf/exercism:latest'
-
-pdflatex() { echo `date`; echo `$(pwd)`; docker run -it --rm -v "$(pwd):$(pwd)" -e "HOME=$(pwd)" -u $UID:$GID ut7fr/pdflatex $@; }
-
 #alias heroku='docker run -v "$PWD":/tmp -w /tmp -it uochan/heroku-toolbelt /bin/bash'
-
 alias lein='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/tmp" -u $UID:$GID clojure lein'
-
-export PDFLATEX=~/ut7/factures/bin/pdflatex-docker
+alias python='docker run -it --rm -v "$(pwd):/code" -w "/code" -e "HOME=/tmp" -u $UID:$GID python:3 python'
 
 export HISTCONTROL=ignoreboth:erasedups
+
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
+export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"
