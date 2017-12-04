@@ -76,7 +76,8 @@ if ! shopt -oq posix; then
   fi
 fi
 
-patex() { echo `date`; echo `$(pwd)`; docker run --rm -v $PWD:/workdir -w /workdir ut7fr/pdflatex echo $@; }
+patex() { echo `date`; echo `$(pwd)`; docker run --rm -v $PWD:/workdir -w /workdir ut7fr/pdflatex $@; }
+pdflatex() { echo `date`; echo `$(pwd)`; docker run --rm -v $PWD:/workdir -w /workdir ut7fr/pdflatex $@; }
 todo(){ cd ~/.todo||return 1&& l=$(ls -1t|head -n1)&&t=$(date +%Y%m%d);[[ "$1" == "last" ]]&&cp $l $t; ${EDITOR:-vi} $t;cd -;}
 gitodo(){ git log --grep="^TODO" | grep 'TODO' | sort --unique;}
 

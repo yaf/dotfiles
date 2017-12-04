@@ -2,19 +2,18 @@ scriptencoding utf-8
 set encoding=utf-8
 
 set nocompatible
+set autoindent
+filetype plugin indent on
+
 set showmode
 set showcmd
 
-set expandtab
-set tabstop=4
-set softtabstop=4
-
-set cursorline
-
+set tabstop=2
+set softtabstop=2
 set shiftwidth=2
+set expandtab
+
 set shiftround
-set autoindent
-filetype plugin indent on
 set ignorecase
 set smartcase
 set incsearch
@@ -44,15 +43,11 @@ set guifont=Inconsolata:h20
 
 set backspace=2
 
-if has('statusline')
-  set statusline=%<%f\
-  set statusline+=%w%h%m%r
-  set statusline+=\ [%{&ff}/%Y]
-  set statusline+=\ [%{getcwd()}]
-  set statusline+=%=%-14.([%p%%]\ -\ Col:\ %c%V%)
-endif
-
 let g:html_indent_tags = 'li\|p'
+
+set statusline=%F%m%r%<\ %=%l,%v\ [%L]\ %p%%
+hi statusline ctermbg=white ctermfg=black
+set laststatus=2
 
 set splitbelow
 set splitright
@@ -77,3 +72,4 @@ nnoremap <C-l> <C-W>l
 set nobackup
 set nowb
 set noswapfile
+
