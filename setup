@@ -21,6 +21,15 @@ if [ -f ~/.bashrc ]; then
 fi
 ln -s $DOTFILES_DIR/bashrc ~/.bashrc
 
+if [ -f ~/.bashrc.d ]; then
+  backup_filename=~/.bashrc.d.bak;
+  echo ".bashrc.d found. move it to $backup_filename"
+  mv ~/.bashrc.d $backup_filename;
+fi
+ln -s $DOTFILES_DIR/bashrc.d ~/.bashrc.d
+
+
+
 if [ -f ~/.gitconfig ]; then
   backup_filename=~/.gitconfig.bak;
   echo ".gitconfig found. move it to $backup_filename"
