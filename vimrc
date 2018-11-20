@@ -22,11 +22,12 @@ set gdefault
 set scrolloff=7
 set hlsearch
 set ruler
-set visualbell
 set number
 set ttyfast
 set modeline
 set modelines=3
+
+set cursorline
 
 set hidden
 set history=100
