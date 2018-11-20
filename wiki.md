@@ -1,5 +1,5 @@
 - renouvellement medoc - **rendez-vous toubib à reprendre**
-- rendez-vous podologue, renouvellement semelle (ordonnance actuelle de 2016 ...)
+- rendez-vous podologue, renouvellement semelle
 - refaire le site d'ecd-sartrouville
 - revoir le site elsif.fr / ? Faire un outil de publication de site web à partir d'un repertoire.
 - travailler sur funky.framadate
@@ -49,10 +49,6 @@
 - Devenir travailleur indépendant
 - Lire Bill Mollison
 - Fabriquer sa lessive
-
-
-## Notes
-Christine Callas - La Maison d'Arlette - 0687271491 - 172 Chemin des Brosses 38960 Saint Aupre - christinecalas@orange.fr
 
 ## Lunette - Lecture de code
 
@@ -114,12 +110,6 @@ Christine Callas - La Maison d'Arlette - 0687271491 - 172 Chemin des Brosses 389
 * [Rencontres radicales pour des dialogues féministes décoloniaux](https://www.amazon.fr/Identit%C3%A9s-dialogue-p%C3%A9dagogie-f%C3%A9ministe-d%C3%A9coloniale/dp/2366243103)
 
 * [Your code as a crime scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene)
-
-## Lego Aydan
-
-- Lego City 60053 Race cars
-- Lego City 60067 La Poursuite en Hélicoptère
-- Lego Starwars 75160 U-Wing™ Microfighter
 
 ## CodeSmell
 
