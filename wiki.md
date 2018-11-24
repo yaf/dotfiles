@@ -7,8 +7,6 @@
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
 - renouveller la carte identité, elle est prolongé, et **valable jusqu'en 2023**.
 - Essayer de faire de la fermentation de legumes
-- Faire un serveur gopher
-- Passer sous FreeBSD ou OpenBSD (comment faire avec docker)
 - Transformer les questions de programmation en kata ?
 - Couverture de test -> deploiement en prod en continue pour Merci Edgar
 - OpenBadge pour le rookie club
@@ -20,6 +18,7 @@
 - Faire un navigateur http+markdown
 - Faire un exercice de fonction calisthenics https://codurance.com/2017/10/12/functional-calisthenics/
 - Faire un exercice d'objet calisthenics https://williamdurand.fr/2013/06/03/object-calisthenics/
+- http://greaterthanorequalto.net/ Inspiration
 - Refaire le site d'ouverture facile http://www.ouverture-facile.com/
 - Faire l'exercice de fabriquer une base de donnée https://cstack.github.io/db_tutorial/
 - Lire Tolstoï, Paul Robin, Francisco Ferrer ?
@@ -62,6 +61,8 @@
 
 ## Jardin Robinson
 
+* https://ushare-docs.frama.wiki/
+* https://wiki-robinson.frama.wiki/
 * Ajouter et organiser la documentation dans le wiki
 * Simple jolie page d'explications (pour complément wiki)
 * Analyser le plomb dans le sol, il doit être < 400 ppm si le PH est >= 7 Peut-être faut-il tester le PH avant parce que c'est plus facile ?
@@ -82,6 +83,8 @@
 * [Livres enfants éducation](https://www.auxeditionsduphare.com/)
 * [Économie Symbiotique](https://www.actes-sud.fr/catalogue/economie/leconomie-symbiotique)
 * [Magasin Général](https://regisloisel.com/magasin-general)
+* [reclaim](https://www.cambourakis.com/spip.php?article786)
+* [Femmes, magie et politique Starhawk](http://www.peripheries.net/article215.html)
 * [Manuel de transition](https://www.amazon.fr/Manuel-transition-Rob-Hopkins/dp/2923165667/ref=sr_1_9?ie=UTF8&qid=1526024372&sr=8-9&keywords=pablo+servigne)
 * [Petit traité de résilience locale](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862/ref=sr_1_6?ie=UTF8&qid=1526024372&sr=8-6&keywords=pablo+servigne&dpID=51bG2xiaqOL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 * [L'évaluation du travail à l'épreuse du réel](https://www.cairn.info/l-evaluation-du-travail-a-l-epreuve-du-reel--9782759224609.htm)
