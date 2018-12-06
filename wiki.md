@@ -1,4 +1,7 @@
 - renouvellement medoc - **rendez-vous toubib à reprendre**
+- C4: plaques et panne « électronique »
+- Rappel Vaccins
+- Podologue Yannick
 - rendez-vous podologue, renouvellement semelle
 - refaire le site d'ecd-sartrouville
 - revoir le site elsif.fr / ? Faire un outil de publication de site web à partir d'un repertoire.
@@ -76,6 +79,7 @@
 
 * [Sentir-penser avec la Terre, Arturo Escobar]()
 * [Sébastien Faure Et "La Ruche" Ou L'éducation Libertaire - Roland Lewin](https://www.priceminister.com/offer/buy/577123/Lewin-Sebastien-Faure-Et-Ruche-Livre.html)
+* [Vivre ma vie. Une anarchiste au temps des révolutions](https://www.lechappee.org/agenda/vivre-ma-vie-une-anarchiste-au-temps-des-revolutions-7)
 * [Sentir-penser avec la Terre](http://www.seuil.com/ouvrage/sentir-penser-avec-la-terre-arturo-escobar/9782021389852)
 * [Surveiller et punir](https://fr.wikipedia.org/wiki/Surveiller_et_punir) de Michel Foucault
 * [Le Changement climatique expliqué à ma fille](http://www.seuil.com/ouvrage/le-changement-climatique-explique-a-ma-fille-jean-marc-jancovici/9782020965972)
@@ -101,6 +105,8 @@
 * [Faire des hommes libre, boimondeau](http://editionsrepas.free.fr/editions-repas-livre-boimondau.html)
 * [Dormez tranquille jusqu'en 2100](https://www.odilejacob.fr/catalogue/sciences/environnement-developpement-durable/dormez-tranquilles-jusquen-2100_9782738132529.php)
 * [La permaculture de Sepp Holzer](https://librairie-permaculturelle.fr/jardin-foret/2-livre-la-permaculture-de-sepp-holzer.html)
+* [Fernand Pelloutier et les Origines du syndicalisme d'action directe](http://www.seuil.com/ouvrage/fernand-pelloutier-et-les-origines-du-syndicalisme-d-action-directe-jacques-julliard/9782020026710)
+* [Voyage en misarchie](http://editionsdudetour.com/index.php/les-livres/voyage-en-misarchie/)
 * [L'agroécologie](https://librairie-permaculturelle.fr/agroecologie/48-livre-l-agroecologie-miguel-altieri.html)
 * [Logique de l'action collective](https://www.amazon.fr/Logique-laction-collective-Mancur-Olson/dp/2800415029)
 * [Commun village](http://editionsrepas.free.fr/editions-repas-livre-commun-village.html)
@@ -111,8 +117,47 @@
 * [La révolte luddite : Briseurs de machines à l'ère de l'industrialisation Kirkpatrick Sale]()
 * [Rencontres radicales. Pour des dialogues décoloniaux]()
 * [Rencontres radicales pour des dialogues féministes décoloniaux](https://www.amazon.fr/Identit%C3%A9s-dialogue-p%C3%A9dagogie-f%C3%A9ministe-d%C3%A9coloniale/dp/2366243103)
+* [Le macrosope](https://fr.wikipedia.org/wiki/Le_Macroscope)
 
-* [Your code as a crime scene](https://pragprog.com/book/atcrime/your-code-as-a-crime-scene)
+
+## Les brevets de Célestin Freinet
+
+_issu de l'article http://svt-egalite.fr/index.php/outils/evaluer-avec-les-brevets-de-celestin-freinet_
+
+Deux types de brevets :
+- Obligatoires
+  - Écrivain
+  - Lecture
+  - Écriture
+  - Bon langage
+  - Maître en orthographe
+  - Historien
+  - Géographie
+  - Ingénieur en eau et liquides divers
+  - Ingénieur de l'air et des gaz
+  - Ingénieur des végétaux et des cultures
+  - Ingénieur des minéraux divers
+  - Ingénieur du fer
+  - Calculateur
+- Accessoires
+  - Imprimeur
+  - Enquêteur
+  - Peintre
+  - Marionnettiste
+  - Nageur
+  - Campeur
+  - Potier
+  - Cuisinier
+  - Électricien
+  - Bon camarade
+  - Bon correspondant
+  - Etc
+
+Trois type de brevet :
+- Tests. Vérifier des choses mesurables
+- Composés. Ensembl de taches à mener à bien
+- Chef-d'œuvre. Production libre de l'élèvre
+
 
 ## CodeSmell
 
