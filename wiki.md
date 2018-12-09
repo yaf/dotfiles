@@ -1,9 +1,8 @@
-- renouvellement medoc - **rendez-vous toubib à reprendre**
-- C4: plaques et panne « électronique »
 - Rappel Vaccins
-- Podologue Yannick
 - rendez-vous podologue, renouvellement semelle
-- refaire le site d'ecd-sartrouville
+- refaire le site d'ecd-sartrouville - extraire les header et footer
+- refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
+- refaire le site d'ecd-sartrouville - expliquer à Sarah comment faire, et faire des essais avec elle
 - revoir le site elsif.fr / ? Faire un outil de publication de site web à partir d'un repertoire.
 - travailler sur funky.framadate
 - analyser le sol au jardin http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
@@ -12,7 +11,6 @@
 - Essayer de faire de la fermentation de legumes
 - Transformer les questions de programmation en kata ?
 - Couverture de test -> deploiement en prod en continue pour Merci Edgar
-- OpenBadge pour le rookie club
 - Ajouter les utilisateurs et utilisatrices de Merci Edgar sur la mailling list
 - Retranscrire les écrits sur la Ruche de Faure https://gallica.bnf.fr/ark:/12148/bpt6k67585g/f3.image.r=.langEN
 - Poser des bases de projet sur https://glitch.com/ à destination des débutants
@@ -26,12 +24,16 @@
 - Faire l'exercice de fabriquer une base de donnée https://cstack.github.io/db_tutorial/
 - Lire Tolstoï, Paul Robin, Francisco Ferrer ?
 - Sébastien Faure, Écrits Pédagogiques , Éd. du Monde Libertaire, réédition 1992
+- https://www.ageca.org/
+- https://lobste.rs/
+- https://www.ekopedia.fr/wiki/Accueil
 - Roland Lewin, Sébastien Faure et « La Ruche » , ou l'Éducation Libertaire , Éd. Ivan Davy, 1989
 - Édouard Stéphan, La Ruche, une école libertaire au Pâtis à Rambouillet, 1905-1917 , Éd. SHARY, 2000
 - Sujet d'exercice ? https://github.com/mame/quine-relay
 - Rencontré aux RMLL 2018, un lyonnais : Mougeot http://www.cedrats.org/
 - Fabriquer un Cajon https://fr.wikihow.com/fabriquer-un-caj%C3%B3n
 - rejoindre deepgreenresistance ? https://deepgreenresistance.fr/rejoindre-deep-green-resistance/
+- renouvellement medoc - **rendez-vous toubib à reprendre**
 - https://github.com/gfredericks/quinedb
 - https://github.com/arnauddri/algorithms
 - Kata manquant ? https://github.com/sandromancuso/trip-service-kata
@@ -61,6 +63,7 @@
 * Faire de la poésie sourcecodepoetry.com
 * Repérer les code Smell
 * Passer sur Sparrow Decks
+* Sparrow deck sur les plantes comestibles, sur les arbres, sur les insectes, sur les vers de terre, sur les fleurs, ...
 
 ## Jardin Robinson
 
@@ -77,6 +80,7 @@
 
 ## Livres
 
+* [Penser par sois même](http://www.eclm.fr/ouvrage-383.html)
 * [Sentir-penser avec la Terre, Arturo Escobar]()
 * [Sébastien Faure Et "La Ruche" Ou L'éducation Libertaire - Roland Lewin](https://www.priceminister.com/offer/buy/577123/Lewin-Sebastien-Faure-Et-Ruche-Livre.html)
 * [Vivre ma vie. Une anarchiste au temps des révolutions](https://www.lechappee.org/agenda/vivre-ma-vie-une-anarchiste-au-temps-des-revolutions-7)
