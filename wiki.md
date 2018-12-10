@@ -3,7 +3,8 @@
 - refaire le site d'ecd-sartrouville - extraire les header et footer
 - refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
 - refaire le site d'ecd-sartrouville - expliquer à Sarah comment faire, et faire des essais avec elle
-- revoir le site elsif.fr / ? Faire un outil de publication de site web à partir d'un repertoire.
+- revoir le site elsif.fr avec [Panash](https://framagit.org/yaf/panash) pour une mise en situation
+
 - travailler sur funky.framadate
 - analyser le sol au jardin http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
@@ -97,7 +98,6 @@
 * [Petit traité de résilience locale](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862/ref=sr_1_6?ie=UTF8&qid=1526024372&sr=8-6&keywords=pablo+servigne&dpID=51bG2xiaqOL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 * [L'évaluation du travail à l'épreuse du réel](https://www.cairn.info/l-evaluation-du-travail-a-l-epreuve-du-reel--9782759224609.htm)
 * [Stratégies végétales, petits arrangements et grandes manoeuvres Relié – 15 décembre 2011 de Benoît Garrone (Auteur),‎ Philippe Martin (Auteur),‎ Bertrand Schatz (Auteur),‎ Les Ecologistes de l'Euzière (Auteur)](https://www.amazon.fr/Strat%C3%A9gies-v%C3%A9g%C3%A9tales-arrangements-grandes-manoeuvres/dp/2906128287?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=2906128287)
-* [Les communautés d’apprentissage : apprendre ensemble](https://www.cairn.info/revue-savoirs-2017-1-p-10.htm)
 * [Libres savoirs : les biens communs de la connaissance](https://tempsdescommuns.org/libres-savoirs/)
 * http://www.piecesetmaindoeuvre.com/spip.php?page=resume&id_article=960
 * [Stratégies végétales, petits arrangements et grandes manoeuvres](https://www.amazon.fr/Strat%C3%A9gies-v%C3%A9g%C3%A9tales-arrangements-grandes-manoeuvres/dp/2906128287)
@@ -119,8 +119,6 @@
 * [La fin de l'éducation ? Commencements... ](https://www.babelio.com/livres/Lepri-La-fin-de-leducation--Commencements/521383)
 * [Permaculture : le guide pour bien débuter : Jardiner en imitant la nature](https://www.amazon.fr/Permaculture-d%C3%A9buter-Jardiner-imitant-nature/dp/2815306174)
 * [La révolte luddite : Briseurs de machines à l'ère de l'industrialisation Kirkpatrick Sale]()
-* [Rencontres radicales. Pour des dialogues décoloniaux]()
-* [Rencontres radicales pour des dialogues féministes décoloniaux](https://www.amazon.fr/Identit%C3%A9s-dialogue-p%C3%A9dagogie-f%C3%A9ministe-d%C3%A9coloniale/dp/2366243103)
 * [Le macrosope](https://fr.wikipedia.org/wiki/Le_Macroscope)
 
 
