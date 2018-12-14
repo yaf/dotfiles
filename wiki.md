@@ -1,5 +1,6 @@
 - Rappel Vaccins
 - rendez-vous podologue, renouvellement semelle
+- rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
 - refaire le site d'ecd-sartrouville - extraire les header et footer
 - refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
 - refaire le site d'ecd-sartrouville - expliquer à Sarah comment faire, et faire des essais avec elle
@@ -7,9 +8,7 @@
 
 - travailler sur funky.framadate
 - analyser le sol au jardin http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
-- rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
-- renouveller la carte identité, elle est prolongé, et **valable jusqu'en 2023**.
-- Essayer de faire de la fermentation de legumes
+- Acheter des bocaux pour faire de la fermentation de legumes
 - Transformer les questions de programmation en kata ?
 - Couverture de test -> deploiement en prod en continue pour Merci Edgar
 - Ajouter les utilisateurs et utilisatrices de Merci Edgar sur la mailling list
@@ -17,11 +16,12 @@
 - Poser des bases de projet sur https://glitch.com/ à destination des débutants
 - Refaire ce site en html/css/JavaScript vanillia http://elements.wlonk.com/ElementsTable.htm voir http://elements.wlonk.com/ElementsTable.htm
 - Explorer Racket http://docs.racket-lang.org/quick/index.html
-- Faire un navigateur http+markdown
+- Faire un navigateur http+markdown (Gopher ?)
 - Faire un exercice de fonction calisthenics https://codurance.com/2017/10/12/functional-calisthenics/
 - Faire un exercice d'objet calisthenics https://williamdurand.fr/2013/06/03/object-calisthenics/
 - http://greaterthanorequalto.net/ Inspiration
 - Refaire le site d'ouverture facile http://www.ouverture-facile.com/
+- renouveller la carte identité, elle est prolongé, et **valable jusqu'en 2023**.
 - Faire l'exercice de fabriquer une base de donnée https://cstack.github.io/db_tutorial/
 - Lire Tolstoï, Paul Robin, Francisco Ferrer ?
 - Sébastien Faure, Écrits Pédagogiques , Éd. du Monde Libertaire, réédition 1992
@@ -98,6 +98,7 @@
 * [Petit traité de résilience locale](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862/ref=sr_1_6?ie=UTF8&qid=1526024372&sr=8-6&keywords=pablo+servigne&dpID=51bG2xiaqOL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 * [L'évaluation du travail à l'épreuse du réel](https://www.cairn.info/l-evaluation-du-travail-a-l-epreuve-du-reel--9782759224609.htm)
 * [Stratégies végétales, petits arrangements et grandes manoeuvres Relié – 15 décembre 2011 de Benoît Garrone (Auteur),‎ Philippe Martin (Auteur),‎ Bertrand Schatz (Auteur),‎ Les Ecologistes de l'Euzière (Auteur)](https://www.amazon.fr/Strat%C3%A9gies-v%C3%A9g%C3%A9tales-arrangements-grandes-manoeuvres/dp/2906128287?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=2906128287)
+* [Change the World Without Taking Power](https://en.wikipedia.org/wiki/Change_the_World_Without_Taking_Power)
 * [Libres savoirs : les biens communs de la connaissance](https://tempsdescommuns.org/libres-savoirs/)
 * http://www.piecesetmaindoeuvre.com/spip.php?page=resume&id_article=960
 * [Stratégies végétales, petits arrangements et grandes manoeuvres](https://www.amazon.fr/Strat%C3%A9gies-v%C3%A9g%C3%A9tales-arrangements-grandes-manoeuvres/dp/2906128287)
