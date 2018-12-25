@@ -2,6 +2,6 @@
 
 cd ~ && \
 rsync -avz --delete Desktop/     176.31.120.127:Desktop && \
-rsync -avz --delete Documents  176.31.120.127:Documents && \
-rsync -avz --delete Downloads  176.31.120.127:Downloads && \
-rsync -avz --delete Pictures 176.31.120.127:Pictures
+rsync -avz --delete Documents/  176.31.120.127:Documents && \
+rsync -avz --delete Downloads/  176.31.120.127:Downloads && \
+rsync -avz --delete Pictures/ 176.31.120.127:Pictures
