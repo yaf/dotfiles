@@ -5,7 +5,7 @@
 - refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
 - refaire le site d'ecd-sartrouville - expliquer à Sarah comment faire, et faire des essais avec elle
 - revoir le site elsif.fr avec [Panash](https://framagit.org/yaf/panash) pour une mise en situation
-
+- mère Zaclys
 - travailler sur funky.framadate
 - analyser le sol au jardin http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
 - Acheter des bocaux pour faire de la fermentation de legumes

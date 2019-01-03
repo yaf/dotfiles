@@ -22,10 +22,11 @@ set gdefault
 set scrolloff=7
 set hlsearch
 set ruler
-set number
 set ttyfast
 set modeline
 set modelines=3
+
+set vb t_vb=
 
 set cursorline
 
