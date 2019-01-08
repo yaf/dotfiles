@@ -1,12 +1,13 @@
-- Rappel Vaccins
+- renouvellement medoc - **rendez-vous le samedi 12 à 13h45**
 - rendez-vous podologue, renouvellement semelle
+- Rappel Vaccins
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
 - refaire le site d'ecd-sartrouville - extraire les header et footer
 - refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
 - refaire le site d'ecd-sartrouville - expliquer à Sarah comment faire, et faire des essais avec elle
 - revoir le site elsif.fr avec [Panash](https://framagit.org/yaf/panash) pour une mise en situation
-- mère Zaclys
 - travailler sur funky.framadate
+- Passer le psc1
 - analyser le sol au jardin http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
 - Acheter des bocaux pour faire de la fermentation de legumes
 - Transformer les questions de programmation en kata ?
@@ -34,7 +35,6 @@
 - Rencontré aux RMLL 2018, un lyonnais : Mougeot http://www.cedrats.org/
 - Fabriquer un Cajon https://fr.wikihow.com/fabriquer-un-caj%C3%B3n
 - rejoindre deepgreenresistance ? https://deepgreenresistance.fr/rejoindre-deep-green-resistance/
-- renouvellement medoc - **rendez-vous toubib à reprendre**
 - https://github.com/gfredericks/quinedb
 - https://github.com/arnauddri/algorithms
 - Kata manquant ? https://github.com/sandromancuso/trip-service-kata
@@ -43,7 +43,6 @@
 - Savoir filter de l'eau
 - ? Stoker des médicaments
 - Acheter un vélo d'occasion
-- Passer son psc1
 - Créer un fond d'urgence en cash
 - Laisser sa carte bleue chez soi
 - Fabriquer du beurre
