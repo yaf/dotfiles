@@ -1,6 +1,7 @@
-- renouvellement medoc - **rendez-vous le samedi 12 à 13h45**
+- @yaf Question diversité, ce serait bien qu'il y ait aussi au moins un serveur DNS accessible en IPv6 :-)
 - rendez-vous podologue, renouvellement semelle
 - Rappel Vaccins
+- refaire le site d'ada sur githubpage
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
 - refaire le site d'ecd-sartrouville - extraire les header et footer
 - refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
@@ -17,7 +18,9 @@
 - Poser des bases de projet sur https://glitch.com/ à destination des débutants
 - Refaire ce site en html/css/JavaScript vanillia http://elements.wlonk.com/ElementsTable.htm voir http://elements.wlonk.com/ElementsTable.htm
 - Explorer Racket http://docs.racket-lang.org/quick/index.html
+- https://www.kousmine.fr/
 - Faire un navigateur http+markdown (Gopher ?)
+- https://www.tela-botanica.org/2019/01/la-femme-et-les-champignons-de-long-litt-woon/
 - Faire un exercice de fonction calisthenics https://codurance.com/2017/10/12/functional-calisthenics/
 - Faire un exercice d'objet calisthenics https://williamdurand.fr/2013/06/03/object-calisthenics/
 - http://greaterthanorequalto.net/ Inspiration

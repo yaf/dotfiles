@@ -8,6 +8,7 @@ filetype plugin indent on
 set showmode
 set showcmd
 
+set nu
 set tabstop=2
 set softtabstop=2
 set shiftwidth=2
