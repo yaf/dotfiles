@@ -1,14 +1,16 @@
 - @yaf Question diversité, ce serait bien qu'il y ait aussi au moins un serveur DNS accessible en IPv6 :-)
 - rendez-vous podologue, renouvellement semelle
 - Rappel Vaccins
-- refaire le site d'ada sur githubpage
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
+- faire un transfert du nom de domaine ada-school
+- accompagner Chloé et Emmanuel pour prendre la main sur jekyll et github
+- changer les DNS de ada-school pour pointer sur https://ada-school.github.io/
 - refaire le site d'ecd-sartrouville - extraire les header et footer
 - refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
 - refaire le site d'ecd-sartrouville - expliquer à Sarah comment faire, et faire des essais avec elle
 - revoir le site elsif.fr avec [Panash](https://framagit.org/yaf/panash) pour une mise en situation
 - travailler sur funky.framadate
-- Passer le psc1
+- passer le psc1
 - analyser le sol au jardin http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
 - Acheter des bocaux pour faire de la fermentation de legumes
 - Transformer les questions de programmation en kata ?
@@ -53,7 +55,6 @@
 - Apprendre l'anatomie humaine
 - Clef usb avec documents importants
 - Étudier Orlov
-- Devenir travailleur indépendant
 - Lire Bill Mollison
 - Fabriquer sa lessive
 
@@ -127,10 +128,10 @@
 
 ## Les brevets de Célestin Freinet
 
-_issu de l'article http://svt-egalite.fr/index.php/outils/evaluer-avec-les-brevets-de-celestin-freinet_
+_issu de l'article [evaluer avec les brevets de Célestin Freinet](http://svt-egalite.fr/index.php/outils/evaluer-avec-les-brevets-de-celestin-freinet)_
 
 Deux types de brevets :
-- Obligatoires
+- Obligatoires :
   - Écrivain
   - Lecture
   - Écriture
@@ -144,7 +145,7 @@ Deux types de brevets :
   - Ingénieur des minéraux divers
   - Ingénieur du fer
   - Calculateur
-- Accessoires
+- Accessoires :
   - Imprimeur
   - Enquêteur
   - Peintre
@@ -158,7 +159,7 @@ Deux types de brevets :
   - Bon correspondant
   - Etc
 
-Trois type de brevet :
+Trois types de brevet :
 - Tests. Vérifier des choses mesurables
 - Composés. Ensembl de taches à mener à bien
 - Chef-d'œuvre. Production libre de l'élèvre
