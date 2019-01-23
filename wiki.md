@@ -24,6 +24,8 @@
 - Faire un navigateur http+markdown (Gopher ?)
 - https://www.tela-botanica.org/2019/01/la-femme-et-les-champignons-de-long-litt-woon/
 - Faire un exercice de fonction calisthenics https://codurance.com/2017/10/12/functional-calisthenics/
+- http://www.clown-enfant.com/leclown/ConstruireUnRecit.htm
+- https://editionslibre.org/produit/prevente-comment-la-non-violence-protege-l-etat-peter-gelderloos/
 - Faire un exercice d'objet calisthenics https://williamdurand.fr/2013/06/03/object-calisthenics/
 - http://greaterthanorequalto.net/ Inspiration
 - Refaire le site d'ouverture facile http://www.ouverture-facile.com/
