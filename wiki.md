@@ -1,3 +1,6 @@
+Prochaine rencontre dev le 13 février de 10h30 à 12h. Ouvert en audio, visio et sur Ségur.
+Ouvert à tous, même les gens hors de la communauté (n'hésitez pas à m'envoyer des gens julien.dauphant@beta.gouv.fr).
+
 - @yaf Question diversité, ce serait bien qu'il y ait aussi au moins un serveur DNS accessible en IPv6 :-)
 - rendez-vous podologue, renouvellement semelle
 - Rappel Vaccins
