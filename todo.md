@@ -1,4 +1,5 @@
-- @yaf Question diversité, ce serait bien qu'il y ait aussi au moins un serveur DNS accessible en IPv6 :-)
+- appeler artema pour la visite médicale scopyleft
+- "le refus du #travail" - David frayne
 - rendez-vous podologue, renouvellement semelle
 - Rappel Vaccins
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
