@@ -1,5 +1,5 @@
-- appeler artema pour la visite médicale scopyleft
-- "le refus du #travail" - David frayne
+- décider où faire la visite médicale scopyleft
+- "le refus du #travail" - David frayne https://editionsdudetour.com/index.php/les-livres/le-refus-du-travail/
 - rendez-vous podologue, renouvellement semelle
 - Rappel Vaccins
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
@@ -25,14 +25,12 @@
 - http://www.clown-enfant.com/leclown/ConstruireUnRecit.htm
 - https://editionslibre.org/produit/prevente-comment-la-non-violence-protege-l-etat-peter-gelderloos/
 - Faire un exercice d'objet calisthenics https://williamdurand.fr/2013/06/03/object-calisthenics/
-- http://greaterthanorequalto.net/ Inspiration
+- http://greaterthanorequalto.net/ Inspiration, un petit air commun avec [Natural Language Form](https://tympanus.net/Tutorials/NaturalLanguageForm/) ?
 - Refaire le site d'ouverture facile http://www.ouverture-facile.com/
 - renouveller la carte identité, elle est prolongé, et **valable jusqu'en 2023**.
 - Faire l'exercice de fabriquer une base de donnée https://cstack.github.io/db_tutorial/
 - Lire Tolstoï, Paul Robin, Francisco Ferrer ?
 - Sébastien Faure, Écrits Pédagogiques , Éd. du Monde Libertaire, réédition 1992
-- https://www.ageca.org/
-- https://lobste.rs/
 - https://www.ekopedia.fr/wiki/Accueil
 - Roland Lewin, Sébastien Faure et « La Ruche » , ou l'Éducation Libertaire , Éd. Ivan Davy, 1989
 - Édouard Stéphan, La Ruche, une école libertaire au Pâtis à Rambouillet, 1905-1917 , Éd. SHARY, 2000
@@ -42,7 +40,6 @@
 - rejoindre deepgreenresistance ? https://deepgreenresistance.fr/rejoindre-deep-green-resistance/
 - https://github.com/gfredericks/quinedb
 - https://github.com/arnauddri/algorithms
-- Kata manquant ? https://github.com/sandromancuso/trip-service-kata
 - Elm ? http://elm-lang.org/
 - Faire du pain
 - Savoir filter de l'eau
