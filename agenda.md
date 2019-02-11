@@ -1,8 +1,10 @@
 ## février
 
+- mardi 12 février 9h45 : ping Newick à propos de migration site => jekyll
 - mercredi 13 février de 10h30 à 12h : rencontre dev-dinsic sur Ségur
 - jeudi 14 février de 16 h 30 à 18 h 30 réunion (de quoi) à segur
 - vendredi 15 février repas avec Élodie et Chloé
+- du lundi 18 au vendredi 22 : Loqmane Elotmani en stage
 - mardi 18 février 12h30 repas Adrien autour du jardin du luxembourg
 - 27, 28 février et 1er mars semaine découverte Ada Tech School
 

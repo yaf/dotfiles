@@ -12,8 +12,6 @@
 - analyser le sol au jardin http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
 - Acheter des bocaux pour faire de la fermentation de legumes
 - Transformer les questions de programmation en kata ?
-- Couverture de test -> deploiement en prod en continue pour Merci Edgar
-- Ajouter les utilisateurs et utilisatrices de Merci Edgar sur la mailling list
 - Retranscrire les écrits sur la Ruche de Faure https://gallica.bnf.fr/ark:/12148/bpt6k67585g/f3.image.r=.langEN
 - Poser des bases de projet sur https://glitch.com/ à destination des débutants
 - Refaire ce site en html/css/JavaScript vanillia http://elements.wlonk.com/ElementsTable.htm voir http://elements.wlonk.com/ElementsTable.htm
@@ -22,7 +20,6 @@
 - Faire un navigateur http+markdown (Gopher ?)
 - https://www.tela-botanica.org/2019/01/la-femme-et-les-champignons-de-long-litt-woon/
 - Faire un exercice de fonction calisthenics https://codurance.com/2017/10/12/functional-calisthenics/
-- http://www.clown-enfant.com/leclown/ConstruireUnRecit.htm
 - https://editionslibre.org/produit/prevente-comment-la-non-violence-protege-l-etat-peter-gelderloos/
 - Faire un exercice d'objet calisthenics https://williamdurand.fr/2013/06/03/object-calisthenics/
 - http://greaterthanorequalto.net/ Inspiration, un petit air commun avec [Natural Language Form](https://tympanus.net/Tutorials/NaturalLanguageForm/) ?
