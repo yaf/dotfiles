@@ -1,7 +1,6 @@
-- décider où faire la visite médicale scopyleft
+- finir l'inscription à AMI (payer) pour avoir un rendez-vous pour la visite médicale
 - "le refus du #travail" - David frayne https://editionsdudetour.com/index.php/les-livres/le-refus-du-travail/
 - rendez-vous podologue, renouvellement semelle
-- Rappel Vaccins
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
 - refaire le site d'ecd-sartrouville - extraire les header et footer
 - refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
@@ -28,6 +27,7 @@
 - Faire l'exercice de fabriquer une base de donnée https://cstack.github.io/db_tutorial/
 - Lire Tolstoï, Paul Robin, Francisco Ferrer ?
 - Sébastien Faure, Écrits Pédagogiques , Éd. du Monde Libertaire, réédition 1992
+- https://archive.org/details/SimoneWeilRflexionsSurLesCausesDeLaLibertEtDeLoppression/page/n1
 - https://www.ekopedia.fr/wiki/Accueil
 - Roland Lewin, Sébastien Faure et « La Ruche » , ou l'Éducation Libertaire , Éd. Ivan Davy, 1989
 - Édouard Stéphan, La Ruche, une école libertaire au Pâtis à Rambouillet, 1905-1917 , Éd. SHARY, 2000

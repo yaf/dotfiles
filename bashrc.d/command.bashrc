@@ -1,6 +1,6 @@
 gitodo(){ git log --grep="^TODO" | grep 'TODO' | sort --unique;}
 
-gitfactu(){ git log --grep="^FACTURE" | grep 'FACTURE' | sort;}
+gitfactu(){ git log --grep="^FACTURE(.*)/i" | grep 'FACTURE' | sort;}
 
 todo() { ${EDITOR:-vi} ~/.config/dotfiles/todo.md; }
 

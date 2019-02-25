@@ -1,21 +1,16 @@
-## février
-
-- mardi 12 février 9h45 : ping Newick à propos de migration site => jekyll
-- mercredi 13 février de 10h30 à 12h : rencontre dev-dinsic sur Ségur
-- jeudi 14 février de 16 h 30 à 18 h 30 réunion (de quoi) à segur
-- vendredi 15 février repas avec Élodie et Chloé
-- du lundi 18 au vendredi 22 : Loqmane Elotmani en stage
-- mardi 18 février 12h30 repas Adrien autour du jardin du luxembourg
+- mardi 26 après midi avec Chloé chez TheFamily
 - 27, 28 février et 1er mars semaine découverte Ada Tech School
-
-## mars
-
-- trouver une demi-journée pour parler pronote avec Piere & co
 - samedi 2 mars 10h30 don de plaquettes
-- 22 mars réunion d'information
-
-## avril
-
+- lundi 4 mars fin de journée, point/apéro avec Laurent
+- ? lundi 4 mars 18h45 « Café-Climat : Les impacts cachés du numérique » https://www.apc-paris.com/agenda/cafe-climat-impacts-caches-numerique
+- mardi 5 mars 12h30 repas avec Alexis et Camille
+- ? trouver une demi-journée pour parler pronote avec Piere & co
+- vendredi 15 mars déjeuner Agathe/Sunny à KKBB
+- 22 mars réunion d'information AdaTechSchool
+- 22 mars à 10h réunion DSI académie de Versailles
+- 6 & 7 avril JDLL à Lyon https://jdll.org/
+- ? du 16 au 18 avril Stage d’illustration botanique https://www.tela-botanica.org/2019/02/stage-dillustration-botanique-2/ ?
+- 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
 - 22 avril au 2 mai à Six-Four-Les-Plages avec Aydan
 - 3, 4 et 5 mai semaine découverte Ada Tech School
 
