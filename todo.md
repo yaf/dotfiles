@@ -1,4 +1,4 @@
-- finir l'inscription à AMI (payer) pour avoir un rendez-vous pour la visite médicale
+- férifier l'inscription à AMI (payer) pour avoir un rendez-vous pour la visite médicale
 - "le refus du #travail" - David frayne https://editionsdudetour.com/index.php/les-livres/le-refus-du-travail/
 - rendez-vous podologue, renouvellement semelle
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
@@ -19,6 +19,7 @@
 - Faire un navigateur http+markdown (Gopher ?)
 - https://www.tela-botanica.org/2019/01/la-femme-et-les-champignons-de-long-litt-woon/
 - Faire un exercice de fonction calisthenics https://codurance.com/2017/10/12/functional-calisthenics/
+- L’Arbre-Monde de Richard Powers
 - https://editionslibre.org/produit/prevente-comment-la-non-violence-protege-l-etat-peter-gelderloos/
 - Faire un exercice d'objet calisthenics https://williamdurand.fr/2013/06/03/object-calisthenics/
 - http://greaterthanorequalto.net/ Inspiration, un petit air commun avec [Natural Language Form](https://tympanus.net/Tutorials/NaturalLanguageForm/) ?
