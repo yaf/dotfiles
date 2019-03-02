@@ -1,5 +1,3 @@
-- 27, 28 février et 1er mars semaine découverte Ada Tech School
-- samedi 2 mars 10h30 don de plaquettes
 - lundi 4 mars fin de journée, point/apéro avec Laurent
 - mardi 5 mars 12h30 repas avec Alexis et Camille
 - lundi 11 mars 14 avec DSI et DANE Paris
@@ -20,5 +18,5 @@
 
 - 3, 4 et 5 mai semaine découverte Ada Tech School
 - du 13 mai au 21 juin Le PoleS Poissy  Production collective en Wordpress
-
-
+- 25 mai 2019 Paris Functional Programming Day
+- 24 et 25 mai Toulouse SudWeb
