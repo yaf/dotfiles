@@ -1,5 +1,5 @@
 
-function commitAndPush {
+commitAndPush() {
   cd ~/.config/dotfiles/ && git add -A && git commit -m "mise à jour" && git push; cd -
 }
 
