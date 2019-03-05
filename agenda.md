@@ -1,8 +1,9 @@
-- mardi 5 mars 12h30 repas avec Alexis et Camille
 - lundi 11 mars 14 avec DSI et DANE Paris
 - mardi 12 mars 12h30 repas avec Florent Piétot
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
 - vendredi 15 mars déjeuner Agathe/Sunny à KKBB
+- lundi 18 mars préparation pitch hec incub
+- mardi 19 mars pitch hec incub
 - 22 mars réunion d'information AdaTechSchool
 - 22 mars à 10h réunion DSI académie de Versailles
 
