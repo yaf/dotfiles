@@ -1,4 +1,3 @@
-- lundi 4 mars fin de journée, point/apéro avec Laurent
 - mardi 5 mars 12h30 repas avec Alexis et Camille
 - lundi 11 mars 14 avec DSI et DANE Paris
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
