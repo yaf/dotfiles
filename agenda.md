@@ -5,7 +5,7 @@
 - lundi 18 mars préparation pitch hec incub
 - mardi 19 mars pitch hec incub
 - du 20 au 21 mars, la nuit openbadge
-- 22 mars réunion d'information AdaTechSchool
+- 23 mars 10h à 12h réunion d'information AdaTechSchool
 - 22 mars à 10h réunion DSI académie de Versailles
 
 ## Avril
