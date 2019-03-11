@@ -1,7 +1,12 @@
-- férifier l'inscription à AMI (payer) pour avoir un rendez-vous pour la visite médicale
-- "le refus du #travail" - David frayne https://editionsdudetour.com/index.php/les-livres/le-refus-du-travail/
 - rendez-vous podologue, renouvellement semelle
 - rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
+- appel Orgeval pour jardin
+- rendez-vous tharo pour financiement formation ada
+- exploration onisep pour ada
+- exploration onisep beta.gouv
+- jour de dispo pour greffe et taille
+- prendre rendez-vous avec la sorcière pour les plantes en juin
+- "le refus du #travail" - David frayne https://editionsdudetour.com/index.php/les-livres/le-refus-du-travail/
 - refaire le site d'ecd-sartrouville - extraire les header et footer
 - refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
 - refaire le site d'ecd-sartrouville - expliquer à Sarah comment faire, et faire des essais avec elle
