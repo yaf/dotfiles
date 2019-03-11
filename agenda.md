@@ -1,4 +1,3 @@
-- lundi 11 mars 14h avec DSI et DANE Paris
 - mardi 12 mars 12h30 repas avec Florent Piétot
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
 - mardi 12 mars à 16h rdv Scopyleft
