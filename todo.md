@@ -1,7 +1,3 @@
-- rendez-vous podologue, renouvellement semelle
-- rdv ophtalmo, voulais que je fasse une echo de l'œil, je retrouve pas l'ordonnace
-- appel Orgeval pour jardin
-- rendez-vous tharo pour financiement formation ada
 - exploration onisep pour ada
 - exploration onisep beta.gouv
 - jour de dispo pour greffe et taille

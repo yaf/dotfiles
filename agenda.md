@@ -1,18 +1,24 @@
 - mardi 12 mars 12h30 repas avec Florent Piétot
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
 - mardi 12 mars à 16h rdv Scopyleft
+- mercredi 13 mars 17h00 DSIN, 227 rue de Bercy Paris 12°, salle Goethei
 - vendredi matin RDV Thomas St Lazare ou Poissy
 - vendredi 15 mars déjeuner Agathe/Sunny à KKBB
+- vendredi 15 mars après midi, rdv Thargo / Ada Tech School
 - lundi 18 mars préparation pitch hec incub
+- mardi 19 mars 11h20 rdv Cailmail Garche
 - mardi 19 mars pitch hec incub
 - mercredi 20 mars à 16h rdv Scopyleft
 - du 20 au 21 mars, la nuit openbadge
-- 22 mars à 10h réunion DSI académie de Versailles
-- 23 mars 10h à 12h réunion d'information AdaTechSchool
+- vendredi 22 mars à 10h réunion DSI académie de Versailles
+- vendredi 22 mars à 15h rdv Éric Barth Marly-le-roi
+- samedi 23 mars 10h à 12h réunion d'information AdaTechSchool
+- mardi 26 mars 14h20 champs visuel Garche
 - mercredi 27 mars à 16h rdv Scopyleft
 
 ## Avril
 
+- Stage le PoleS du 1er au 30 avril
 - mardi 2 avril soir AG merci edgar
 - mercredi 3 avril à 16h rdv Scopyleft
 - 6 & 7 avril JDLL à Lyon https://jdll.org/
