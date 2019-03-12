@@ -1,10 +1,10 @@
-- mardi 12 mars 12h30 repas avec Florent Piétot
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
 - mardi 12 mars à 16h rdv Scopyleft
 - mercredi 13 mars 17h00 DSIN, 227 rue de Bercy Paris 12°, salle Goethei
 - vendredi matin RDV Thomas St Lazare ou Poissy
 - vendredi 15 mars déjeuner Agathe/Sunny à KKBB
-- vendredi 15 mars après midi, rdv Thargo / Ada Tech School
+- vendredi 15 mars 15h, rdv Maïtanée, Eric framadate
+- vendredi 15 mars 16h, rdv Thargo / Ada Tech School
 - lundi 18 mars préparation pitch hec incub
 - mardi 19 mars 11h20 rdv Cailmail Garche
 - mardi 19 mars pitch hec incub

@@ -1,4 +1,3 @@
-- exploration onisep pour ada
 - exploration onisep beta.gouv
 - jour de dispo pour greffe et taille
 - prendre rendez-vous avec la sorcière pour les plantes en juin
@@ -9,7 +8,6 @@
 - revoir le site elsif.fr avec [Panash](https://framagit.org/yaf/panash) pour une mise en situation
 - travailler sur funky.framadate
 - passer le psc1
-- analyser le sol au jardin http://fablabo.net/wiki/Analyse_du_sol_%C3%A0_faire_soi_m%C3%AAme
 - Acheter des bocaux pour faire de la fermentation de legumes
 - Transformer les questions de programmation en kata ?
 - Retranscrire les écrits sur la Ruche de Faure https://gallica.bnf.fr/ark:/12148/bpt6k67585g/f3.image.r=.langEN
