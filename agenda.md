@@ -1,5 +1,4 @@
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
-- mardi 12 mars à 16h rdv Scopyleft
 - mercredi 13 mars 17h00 DSIN, 227 rue de Bercy Paris 12°, salle Goethei
 - vendredi matin RDV Thomas St Lazare ou Poissy
 - vendredi 15 mars déjeuner Agathe/Sunny à KKBB
