@@ -30,6 +30,7 @@
 - https://www.ekopedia.fr/wiki/Accueil
 - Roland Lewin, Sébastien Faure et « La Ruche » , ou l'Éducation Libertaire , Éd. Ivan Davy, 1989
 - Édouard Stéphan, La Ruche, une école libertaire au Pâtis à Rambouillet, 1905-1917 , Éd. SHARY, 2000
+- faire une sorte de https://vim-adventures.com/ mais en licence libre
 - Sujet d'exercice ? https://github.com/mame/quine-relay
 - Rencontré aux RMLL 2018, un lyonnais : Mougeot http://www.cedrats.org/
 - Fabriquer un Cajon https://fr.wikihow.com/fabriquer-un-caj%C3%B3n
