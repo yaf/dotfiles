@@ -30,3 +30,7 @@
 - du 13 mai au 21 juin Le PoleS Poissy  Production collective en Wordpress
 - 25 mai 2019 Paris Functional Programming Day
 - 24 et 25 mai Toulouse SudWeb
+
+## Juin
+
+- de mi-juin à mi-juillet : stagiaires du PoleS
