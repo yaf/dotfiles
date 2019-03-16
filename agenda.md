@@ -1,13 +1,10 @@
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
-- vendredi 15 matin RDV Thomas St Lazare ou Poissy
-- vendredi 15 mars déjeuner Agathe/Sunny à KKBB
-- vendredi 15 mars 15h, rdv Maïtanée, Eric framadate
-- vendredi 15 mars 16h, rdv Thargo / Ada Tech School
 - lundi 18 mars 18h Station F ? préparation pitch hec incub
 - mardi 19 mars 11h20 rdv Cailmail Garche
+- mardi 19 mars 14h rdv Maïtanée & Éric
 - mardi 19 mars pitch hec incub
 - mercredi 20 mars à 16h rdv Scopyleft
-- du 20 au 21 mars, la nuit openbadge
+- mercredi 20 au jeudi 21 mars, la nuit openbadge
 - vendredi 22 mars à 10h réunion DSI académie de Versailles
 - vendredi 22 mars à 15h rdv Éric Barth Marly-le-roi
 - samedi 23 mars 10h à 12h réunion d'information AdaTechSchool
