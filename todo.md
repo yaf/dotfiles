@@ -1,4 +1,3 @@
-- jour de dispo pour greffe et taille
 - prendre rendez-vous avec la sorcière pour les plantes en juin
 - "le refus du #travail" - David frayne https://editionsdudetour.com/index.php/les-livres/le-refus-du-travail/
 - refaire le site d'ecd-sartrouville - extraire les header et footer
