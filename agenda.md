@@ -1,5 +1,4 @@
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
-- lundi 18 mars 18h Station F ? préparation pitch hec incub
 - mardi 19 mars 11h20 rdv Cailmail Garche
 - mardi 19 mars 14h rdv Maïtanée & Éric
 - mardi 19 mars pitch hec incub
