@@ -1,9 +1,9 @@
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
-- mardi 19 mars 11h20 rdv Cailmail Garche
-- mardi 19 mars 14h rdv Maïtanée & Éric
 - mardi 19 mars pitch hec incub
 - mercredi 20 mars à 16h rdv Scopyleft
 - mercredi 20 au jeudi 21 mars, la nuit openbadge
+- jeudi 21 11h Noémie / Stephane DossierSCO
+- jeudi 21 14h Funky Framadate
 - vendredi 22 mars à 10h réunion DSI académie de Versailles
 - vendredi 22 mars à 15h rdv Éric Barth Marly-le-roi
 - samedi 23 mars 10h à 12h réunion d'information AdaTechSchool
