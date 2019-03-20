@@ -1,6 +1,4 @@
 - du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
-- mercredi 20 mars à 16h rdv Scopyleft
-- mercredi 20 au jeudi 21 mars, la nuit openbadge
 - jeudi 21 11h Noémie / Stephane DossierSCO
 - jeudi 21 14h Funky Framadate
 - vendredi 22 mars à 10h réunion DSI académie de Versailles
