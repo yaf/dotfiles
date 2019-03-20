@@ -12,6 +12,7 @@
 ## Avril
 
 - Stage le PoleS du 1er au 30 avril
+- mardi 2 avril rencontre tier-lieux édu au 110Bis
 - mardi 2 avril soir AG merci edgar
 - mercredi 3 avril à 16h rdv Scopyleft
 - 6 & 7 avril JDLL à Lyon https://jdll.org/
