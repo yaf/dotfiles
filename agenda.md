@@ -15,6 +15,7 @@
 - mardi 2 avril soir AG merci edgar
 - mercredi 3 avril à 16h rdv Scopyleft
 - 6 & 7 avril JDLL à Lyon https://jdll.org/
+- Mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris – Forum des Images
 - ? du 16 au 18 avril Stage d’illustration botanique https://www.tela-botanica.org/2019/02/stage-dillustration-botanique-2/ ?
 - 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
 - 22 avril au 2 mai à Six-Four-Les-Plages avec Aydan
