@@ -1,6 +1,3 @@
-- du 11 au 29 mars Le PoleS Poissy Site Portfolio en PHP orienté objet
-- jeudi 21 11h Noémie / Stephane DossierSCO
-- jeudi 21 14h Funky Framadate
 - vendredi 22 mars à 10h réunion DSI académie de Versailles
 - vendredi 22 mars à 15h rdv Éric Barth Marly-le-roi
 - mardi 26 mars 12h30 repas Mathilde et Constance
