@@ -7,6 +7,7 @@
 - samedi 23 mars 10h à 12h réunion d'information AdaTechSchool
 - mardi 26 mars 14h20 champs visuel Garche
 - mercredi 27 mars à 16h rdv Scopyleft
+- jeudi 28 mars déménagement camion noémie/thomas
 - vendredi 29 mars, 18h apéro Camille & co ?
 
 ## Avril
