@@ -1,11 +1,10 @@
-- vendredi 22 mars à 10h réunion DSI académie de Versailles
-- vendredi 22 mars à 15h rdv Éric Barth Marly-le-roi
 - mardi 26 mars 12h30 repas Mathilde et Constance
 - samedi 23 mars 10h à 12h réunion d'information AdaTechSchool
 - mardi 26 mars 14h20 champs visuel Garche
 - mercredi 27 mars à 16h rdv Scopyleft
 - jeudi 28 mars déménagement camion noémie/thomas
 - vendredi 29 mars, 18h apéro Camille & co ?
+- vendredi 29 mars à partir de 14h récupération semelles
 
 ## Avril
 
