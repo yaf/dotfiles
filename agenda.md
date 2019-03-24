@@ -1,5 +1,5 @@
-- mardi 26 mars 12h30 repas Mathilde et Constance
-- samedi 23 mars 10h à 12h réunion d'information AdaTechSchool
+- lundi 25 mars 9h30 rendez-vous Gilles Bergs au 110Bis
+- mardi 26 mars 10h15 à Station F  Mathilde et Constance
 - mardi 26 mars 14h20 champs visuel Garche
 - mercredi 27 mars à 16h rdv Scopyleft
 - jeudi 28 mars déménagement camion noémie/thomas
