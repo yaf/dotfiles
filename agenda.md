@@ -1,7 +1,9 @@
 - mardi 26 mars 10h15 à Station F  Mathilde et Constance
 - mardi 26 mars 14h20 champs visuel Garche
 - mercredi 27 mars à 16h rdv Scopyleft
+- mercredi 27 mars à 16h Noémie rencontre DossierSCO
 - jeudi 28 mars déménagement camion noémie/thomas
+- vendredi 29 mars, OpenLAB 110 Bis
 - vendredi 29 mars, 18h apéro Camille & co ?
 - vendredi 29 mars à partir de 14h récupération semelles
 
