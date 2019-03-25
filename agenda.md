@@ -1,4 +1,3 @@
-- lundi 25 mars 9h30 rendez-vous Gilles Bergs au 110Bis
 - mardi 26 mars 10h15 à Station F  Mathilde et Constance
 - mardi 26 mars 14h20 champs visuel Garche
 - mercredi 27 mars à 16h rdv Scopyleft
