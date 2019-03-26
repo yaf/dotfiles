@@ -1,3 +1,4 @@
+- prendre rendez-vous pour echo yeux
 - envoyer une candidature pour l'accompagnement Terre de Lien
 - recontacter Liliana à propos de becometech et du cri
 - recontacter Charlotte d'adaweek
