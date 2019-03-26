@@ -1,13 +1,10 @@
 - mardi 26 mars 14h20 champs visuel Garche
 - mercredi 27 mars à 16h rdv Scopyleft
 - mercredi 27 mars à 16h Noémie rencontre DossierSCO
-- jeudi 28 mars déménagement camion noémie/thomas
 - jeudi 28 mars 14h appel Zenos
-- jeudi 28 mars Séminaire DINSIC
 - vendredi 29 mars, OpenLAB 110 Bis
-- vendredi 29 mars, 18h apéro Camille & co ?
-- vendredi 29 mars à partir de 14h récupération semelles
 - vendredi 29 mars Station F Julien / Chloé
+- vendredi 29 mars à partir de 14h récupération semelles
 
 ## Avril
 
@@ -24,6 +21,7 @@
 
 ## Mai
 
+- vendredi 3 mai repas/apéro avec Camille ?
 - 3, 4 et 5 mai semaine découverte Ada Tech School
 - du 13 mai au 21 juin Le PoleS Poissy  Production collective en Wordpress
 - 25 mai 2019 Paris Functional Programming Day
