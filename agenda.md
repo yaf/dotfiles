@@ -2,6 +2,7 @@
 - mercredi 27 mars à 16h rdv Scopyleft
 - mercredi 27 mars à 16h Noémie rencontre DossierSCO
 - jeudi 28 mars déménagement camion noémie/thomas
+- jeudi 28 mars 14h appel Zenos
 - jeudi 28 mars Séminaire DINSIC
 - vendredi 29 mars, OpenLAB 110 Bis
 - vendredi 29 mars, 18h apéro Camille & co ?
