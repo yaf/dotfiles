@@ -1,3 +1,6 @@
+- envoyer une candidature pour l'accompagnement Terre de Lien
+- recontacter Liliana à propos de becometech et du cri
+- recontacter Charlotte d'adaweek
 - "le refus du #travail" - David frayne https://editionsdudetour.com/index.php/les-livres/le-refus-du-travail/
 - refaire le site d'ecd-sartrouville - extraire les header et footer
 - refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là

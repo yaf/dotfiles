@@ -1,4 +1,3 @@
-- mardi 26 mars 10h15 à Station F  Mathilde et Constance
 - mardi 26 mars 14h20 champs visuel Garche
 - mercredi 27 mars à 16h rdv Scopyleft
 - mercredi 27 mars à 16h Noémie rencontre DossierSCO
@@ -7,6 +6,7 @@
 - vendredi 29 mars, OpenLAB 110 Bis
 - vendredi 29 mars, 18h apéro Camille & co ?
 - vendredi 29 mars à partir de 14h récupération semelles
+- vendredi 29 mars Station F Julien / Chloé
 
 ## Avril
 
@@ -14,6 +14,7 @@
 - mardi 2 avril rencontre tier-lieux édu au 110Bis
 - mardi 2 avril soir AG merci edgar
 - mercredi 3 avril à 16h rdv Scopyleft
+- jeudi 4 avril matin Station F Mathide
 - 6 & 7 avril JDLL à Lyon https://jdll.org/
 - Mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris – Forum des Images
 - ? du 16 au 18 avril Stage d’illustration botanique https://www.tela-botanica.org/2019/02/stage-dillustration-botanique-2/ ?
