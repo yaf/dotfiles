@@ -1,5 +1,3 @@
-- mercredi 27 mars à 16h rdv Scopyleft
-- mercredi 27 mars à 17h Noémie rencontre DossierSCO
 - jeudi 28 mars 14h appel Zenos
 - vendredi 29 mars, OpenLAB 110 Bis
 - vendredi 29 mars Station F Julien / Chloé
