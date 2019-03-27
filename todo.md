@@ -1,6 +1,11 @@
-- prendre rendez-vous pour echo yeux
 - envoyer une candidature pour l'accompagnement Terre de Lien
+- email Gille Berg
+- contact Maïtanée pour DossierSCO
+- prendre rendez-vous pour echo yeux
+- invitation Noémie sur Keybase DossierSCO
 - recontacter Liliana à propos de becometech et du cri
+- Liste des personnes pour la CAE David/Stéphane
+- envoyer le mail pour les stagiaires de février AdaTech School
 - recontacter Charlotte d'adaweek
 - "le refus du #travail" - David frayne https://editionsdudetour.com/index.php/les-livres/le-refus-du-travail/
 - refaire le site d'ecd-sartrouville - extraire les header et footer
@@ -15,7 +20,6 @@
 - Poser des bases de projet sur https://glitch.com/ à destination des débutants
 - Refaire ce site en html/css/JavaScript vanillia http://elements.wlonk.com/ElementsTable.htm voir http://elements.wlonk.com/ElementsTable.htm
 - Explorer Racket http://docs.racket-lang.org/quick/index.html
-- https://www.kousmine.fr/
 - Faire un navigateur http+markdown (Gopher ?)
 - https://www.tela-botanica.org/2019/01/la-femme-et-les-champignons-de-long-litt-woon/
 - Faire un exercice de fonction calisthenics https://codurance.com/2017/10/12/functional-calisthenics/
