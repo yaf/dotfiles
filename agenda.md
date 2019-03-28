@@ -6,9 +6,8 @@
 ## Avril
 
 - Stage le PoleS du 1er au 30 avril
-- mardi 2 avril rencontre tier-lieux édu au 110Bis
-- mardi 2 avril soir AG merci edgar
 - mercredi 3 avril à 16h rdv Scopyleft
+- mercredi 3 avril à 15h rdv Maïtané
 - jeudi 4 avril matin Station F Mathide
 - 6 & 7 avril JDLL à Lyon https://jdll.org/
 - Mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris – Forum des Images

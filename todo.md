@@ -1,8 +1,5 @@
 - envoyer une candidature pour l'accompagnement Terre de Lien
-- email Gille Berg
-- contact Maïtanée pour DossierSCO
 - prendre rendez-vous pour echo yeux
-- invitation Noémie sur Keybase DossierSCO
 - recontacter Liliana à propos de becometech et du cri
 - Liste des personnes pour la CAE David/Stéphane
 - envoyer le mail pour les stagiaires de février AdaTech School
