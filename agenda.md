@@ -12,6 +12,7 @@
 - samedi 6 avril chez Lydia
 - mardi 9 avril ? Chloé rencontre...
 - mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris – Forum des Images
+- mardi 9 avril 18h45 « découvrir et comprendre les enjeux autour de l'open souce » Social Builder https://www.eventbrite.fr/e/billets-open-source-vers-un-usage-generalise-59163121489 (42 - 96 Boulevard Bessières - 75017 Paris )
 - vendredi 12 avril matin Chloé rencontre
 - lundi 14 avril 19h Aydan théatre
 - samedi 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
