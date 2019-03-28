@@ -1,4 +1,3 @@
-- envoyer une candidature pour l'accompagnement Terre de Lien
 - prendre rendez-vous pour echo yeux
 - recontacter Liliana à propos de becometech et du cri
 - Liste des personnes pour la CAE David/Stéphane
