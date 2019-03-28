@@ -1,4 +1,3 @@
-- jeudi 28 mars 18h appel Zenos
 - vendredi 29 mars, OpenLAB 110 Bis
 - vendredi 29 mars Station F Julien / Chloé
 - vendredi 29 mars à partir de 14h récupération semelles
@@ -8,6 +7,7 @@
 - Stage le PoleS du 1er au 30 avril
 - mercredi 3 avril à 16h rdv Scopyleft
 - mercredi 3 avril à 15h rdv Maïtané
+- mercredi 3 avril faire signe Zenos
 - jeudi 4 avril matin Station F Mathide
 - mardi 9 avril ? Chloé rencontre...
 - mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris – Forum des Images
