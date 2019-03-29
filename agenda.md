@@ -2,7 +2,7 @@
 
 ## Avril
 
-- Stage le PoleS du 1er au 30 avril
+- lundi 2 avril 14h rdv badge stationF
 - mercredi 3 avril à 16h rdv Scopyleft
 - mercredi 3 avril à 15h rdv Maïtané
 - mercredi 3 avril faire signe Zenos
