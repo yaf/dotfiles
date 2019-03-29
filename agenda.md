@@ -5,6 +5,7 @@
 - mercredi 3 avril faire signe Zenos
 - jeudi 4 avril matin-après midi ? Station F Mathide
 - samedi 6 avril chez Lydia
+- lundi 8 avril 11h rdv Sarah Butez pour design/logo
 - mardi 9 avril ? Chloé rencontre...
 - mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris – Forum des Images
 - mardi 9 avril 18h45 « découvrir et comprendre les enjeux autour de l'open souce » Social Builder https://www.eventbrite.fr/e/billets-open-source-vers-un-usage-generalise-59163121489 (42 - 96 Boulevard Bessières - 75017 Paris )
