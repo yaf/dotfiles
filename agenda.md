@@ -1,7 +1,4 @@
 - vendredi 29 mars à partir de 14h récupération semelles
-
-## Avril
-
 - lundi 2 avril 14h rdv badge stationF
 - mercredi 3 avril à 16h rdv Scopyleft
 - mercredi 3 avril à 15h rdv Maïtané
