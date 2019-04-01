@@ -16,8 +16,9 @@
 - jeudi 11 avril Ada Tech School Julien/Chloé
 - vendredi 12 avril matin Chloé rencontre
 ---
-- lundi 14 avril 19h Aydan théatre
+- lundi 15 avril 19h Aydan théatre
 - samedi 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
+---
 - lundi 22 avril au 2 mai à Six-Four-Les-Plages avec Aydan
 ---
 - vendredi 3 mai repas/apéro avec Camille ?
