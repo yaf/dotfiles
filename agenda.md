@@ -5,6 +5,7 @@
 - dimanche 7 greffe cerisier /!\ avec Malaïka ?
 ---
 - lundi 8 avril 11h rdv Sarah Butez pour design/logo
+- lundi 8 avril point Lucien Lecrerq
 - mardi 9 avril ? Chloé rencontre...
 - mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris-Forum des Images Forum des Halles – 2 rue du cinéma 75001 Paris
 - mardi 9 avril 15h point démo scopyleft
