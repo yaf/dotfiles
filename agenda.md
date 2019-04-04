@@ -3,8 +3,7 @@
 - samedi 6 avril chez Lydia
 - dimanche 7 greffe cerisier /!\ avec Malaïka ?
 ---
-- lundi 8 avril 11h rdv Sarah Butez pour design/logo
-- lundi 8 avril point Lucien Lecrerq
+- lundi 8 ada tech school ?
 - mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris-Forum des Images Forum des Halles – 2 rue du cinéma 75001 Paris
 - mardi 9 avril 15h point démo scopyleft
 - mardi 9 avril 18h45 « découvrir et comprendre les enjeux autour de l'open souce » Social Builder https://www.eventbrite.fr/e/billets-open-source-vers-un-usage-generalise-59163121489 (42 - 96 Boulevard Bessières - 75017 Paris )
