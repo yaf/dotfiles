@@ -1,21 +1,20 @@
-- mercredi 3 avril faire signe Zenos
-- jeudi 4 avril matin-après midi ? Station F Mathide
+- vendredi 5 avril faire signe Zenos
 - vendredi 5 avril 16h rendez-vous Chateau Éphémère
 - samedi 6 avril chez Lydia
 - dimanche 7 greffe cerisier /!\ avec Malaïka ?
 ---
 - lundi 8 avril 11h rdv Sarah Butez pour design/logo
 - lundi 8 avril point Lucien Lecrerq
-- mardi 9 avril ? Chloé rencontre...
 - mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris-Forum des Images Forum des Halles – 2 rue du cinéma 75001 Paris
 - mardi 9 avril 15h point démo scopyleft
 - mardi 9 avril 18h45 « découvrir et comprendre les enjeux autour de l'open souce » Social Builder https://www.eventbrite.fr/e/billets-open-source-vers-un-usage-generalise-59163121489 (42 - 96 Boulevard Bessières - 75017 Paris )
 - jeudi 11 avril Ada Tech School Julien/Chloé
 - jeudi 11 avril à partir de 14h30 Thargo
 - jeudi 11 avril 19h meetup beta.gouv https://www.eventbrite.fr/e/billets-meetup-tech-betagouvfr-x-latitudes-59297040043
-- vendredi 12 avril matin Chloé rencontre
+- vendredi 12 avril travaux Mathilde / Chloé marketing
 ---
 - lundi 15 avril 19h Aydan théatre
+- vendredi 19 avril travaux Mathilde marketing
 - samedi 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
 ---
 - lundi 22 avril au 2 mai à Six-Four-Les-Plages avec Aydan
@@ -29,3 +28,4 @@
 - 25 mai 2019 Paris Functional Programming Day
 - 24 et 25 mai Toulouse SudWeb
 - de mi-juin à mi-juillet : stagiaires du PoleS
+- 5, 6 et 7 juin web2day à nantes
