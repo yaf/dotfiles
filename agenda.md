@@ -25,6 +25,7 @@
 - lundi 6 mai Ada Tech School Julien Chloé
 - 11 mai fête du judo
 - du 13 mai au 21 juin Le PoleS Poissy  Production collective en Wordpress
+- 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
 - 25 mai 2019 Paris Functional Programming Day
 - 24 et 25 mai Toulouse SudWeb
 - de mi-juin à mi-juillet : stagiaires du PoleS
