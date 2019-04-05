@@ -5,6 +5,7 @@
 - lundi 8 ada tech school ?
 - lundi 8 avril 11h30 stéphane backlog simulation
 - mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris-Forum des Images Forum des Halles – 2 rue du cinéma 75001 Paris
+- mardi 9 avril 11h - rendez-vous Liliana au CRI Centre de Recherche Interdisciplinaire (CRI) 8, 8bis Rue Charles V, 75004 Paris
 - mardi 9 avril 15h point démo scopyleft
 - mardi 9 avril 18h45 « découvrir et comprendre les enjeux autour de l'open souce » Social Builder https://www.eventbrite.fr/e/billets-open-source-vers-un-usage-generalise-59163121489 (42 - 96 Boulevard Bessières - 75017 Paris )
 - jeudi 11 avril préparer point DNE avec DossierSCO
