@@ -11,6 +11,7 @@
 - jeudi 11 avril Ada Tech School Julien/Chloé
 - jeudi 11 avril à partir de 14h30 Thargo
 - jeudi 11 avril 19h meetup beta.gouv https://www.eventbrite.fr/e/billets-meetup-tech-betagouvfr-x-latitudes-59297040043
+- jeudi 11 avril 15:30 – 16:30 point Julien Leclerc
 - vendredi 12 avril travaux Mathilde / Chloé marketing
 ---
 - lundi 15 avril 19h Aydan théatre
