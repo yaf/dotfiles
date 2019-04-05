@@ -1,4 +1,4 @@
-- vendredi 5 avril faire signe Zenos
+- samedi 6 avril faire signe Zenos
 - samedi 6 avril chez Lydia
 - dimanche 7 greffe cerisier /!\ avec Malaïka ?
 ---
@@ -26,6 +26,8 @@
 - lundi 6 mai Ada Tech School Julien Chloé
 - 11 mai fête du judo
 - du 13 mai au 21 juin Le PoleS Poissy  Production collective en Wordpress
+- samedi 18 mai Réunion d'information Ada Tech School
+---
 - 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
 - 25 mai 2019 Paris Functional Programming Day
 - 24 et 25 mai Toulouse SudWeb
