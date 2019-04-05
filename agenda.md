@@ -1,5 +1,4 @@
 - vendredi 5 avril faire signe Zenos
-- vendredi 5 avril 16h rendez-vous Chateau Éphémère
 - samedi 6 avril chez Lydia
 - dimanche 7 greffe cerisier /!\ avec Malaïka ?
 ---
