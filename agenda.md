@@ -1,4 +1,3 @@
-- samedi 6 avril faire signe Zenos
 - samedi 6 avril chez Lydia
 - dimanche 7 greffe cerisier /!\ avec Malaïka ?
 ---
