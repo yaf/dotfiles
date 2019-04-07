@@ -1,7 +1,4 @@
-- samedi 6 avril chez Lydia
-- dimanche 7 greffe cerisier /!\ avec Malaïka ?
----
-- lundi 8 ada tech school ?
+- lundi 8 avril Segur
 - lundi 8 avril 11h30 stéphane backlog simulation
 - mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris-Forum des Images Forum des Halles – 2 rue du cinéma 75001 Paris
 - mardi 9 avril 11h - rendez-vous Liliana au CRI Centre de Recherche Interdisciplinaire (CRI) 8, 8bis Rue Charles V, 75004 Paris
@@ -17,6 +14,7 @@
 - lundi 15 avril 19h Aydan théatre
 - vendredi 19 avril travaux Mathilde marketing
 - samedi 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
+- dimanche 21 avril journée culturelle
 ---
 - lundi 22 avril au 2 mai à Six-Four-Les-Plages avec Aydan
 ---
