@@ -1,5 +1,6 @@
 - mardi 9 Avril 9h - 11h Lancement appel à projet Paris Code 4 - TUMO Paris-Forum des Images Forum des Halles – 2 rue du cinéma 75001 Paris
 - mardi 9 avril 11h - rendez-vous Liliana au CRI Centre de Recherche Interdisciplinaire (CRI) 8, 8bis Rue Charles V, 75004 Paris
+- mardi 9 avril 14h binomage Lucien : défrichage gestion option abandonnable
 - mardi 9 avril 15h point démo scopyleft
 - mercredi 10 avril réunion téléphonique avec agence marketing
 - jeudi 11 avril préparer point DNE avec DossierSCO
