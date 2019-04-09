@@ -24,7 +24,7 @@
 - samedi 18 mai Réunion d'information Ada Tech School
 ---
 - 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
-- 25 mai 2019 Paris Functional Programming Day
+- 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
 - 24 et 25 mai Toulouse SudWeb
 - de mi-juin à mi-juillet : stagiaires du PoleS
 - 5, 6 et 7 juin web2day à nantes
