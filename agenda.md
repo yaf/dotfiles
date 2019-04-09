@@ -22,7 +22,8 @@
 - 3, 4 et 5 mai stage découverte Ada Tech School
 ---
 - lundi 6 mai Ada Tech School Julien Chloé
-- 11 mai fête du judo
+- samedi 11 mai fête du judo
+---
 - du 13 mai au 21 juin Le PoleS Poissy  Production collective en Wordpress
 - samedi 18 mai Réunion d'information Ada Tech School
 ---
