@@ -1,4 +1,3 @@
-- mercredi 10 avril réunion téléphonique avec agence marketing
 - jeudi 11 avril préparer point DNE avec DossierSCO
 - jeudi 11 avril Ada Tech School Julien/Chloé
 - jeudi 11 avril à partir de 14h30 Thargo
