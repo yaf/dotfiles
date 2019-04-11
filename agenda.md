@@ -1,10 +1,9 @@
-- jeudi 11 avril préparer point DNE avec DossierSCO
-- jeudi 11 avril Ada Tech School Julien/Chloé
-- jeudi 11 avril à partir de 14h30 Thargo
 - vendredi 12 avril travaux Mathilde / Chloé marketing
 - vendredi 12 avril Aydan chez Mathias
 ---
 - lundi 15 avril 2019 11:30 – 12:00  Call UX design - Parcours du devis
+- lundi 15 avril 12h30 Julien
+- lundi 15 avril 14h ? point DNE avec DossierSCO
 - lundi 15 avril 19h Aydan théatre
 - mardi 16 avril 11h45 point avec Joël pour agence marketing
 - jeudi 18 avril repas chez /ut7
