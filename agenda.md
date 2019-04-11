@@ -2,12 +2,14 @@
 - jeudi 11 avril Ada Tech School Julien/Chloé
 - jeudi 11 avril à partir de 14h30 Thargo
 - vendredi 12 avril travaux Mathilde / Chloé marketing
+- vendredi 12 avril Aydan chez Mathias
 ---
 - lundi 15 avril 2019 11:30 – 12:00  Call UX design - Parcours du devis
 - lundi 15 avril 19h Aydan théatre
 - mardi 16 avril 11h45 point avec Joël pour agence marketing
 - jeudi 18 avril repas chez /ut7
 - vendredi 19 avril travaux Mathilde marketing
+- vendredi 19 avril raconte ton parcours à Sevran
 - samedi 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
 - dimanche 21 avril journée culturelle
 ---
