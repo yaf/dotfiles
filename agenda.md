@@ -8,7 +8,7 @@
 - lundi 15 avril 14h ? point DNE avec DossierSCO
 - lundi 15 avril 19h Aydan théatre
 - mardi 16 avril 11h45 point avec Joël pour agence marketing
-- mardi 16 avril 19h vernissage d'anne charignon au quai des possibles
+- mardi 16 avril 18h CA CoDev
 - mercredi 17 matin PoleS
 - jeudi 18 matin PoleS ?
 - jeudi 18 avril repas chez /ut7
