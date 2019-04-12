@@ -9,6 +9,8 @@
 - lundi 15 avril 19h Aydan théatre
 - mardi 16 avril 11h45 point avec Joël pour agence marketing
 - mardi 16 avril 19h vernissage d'anne charignon au quai des possibles
+- mercredi 17 matin PoleS
+- jeudi 18 matin PoleS ?
 - jeudi 18 avril repas chez /ut7
 - vendredi 19 avril travaux Mathilde marketing
 - vendredi 19 avril raconte ton parcours à Sevran
