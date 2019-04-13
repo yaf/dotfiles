@@ -5,12 +5,15 @@
 - lundi 15 avril 2019 11:30 – 12:00  Call UX design - Parcours du devis
 - lundi 15 avril 12h30 Julien
 - lundi 15 avril 14h ? point DNE avec DossierSCO
+- lundi 15/04 à 18h oisiflorus-CAE
 - lundi 15 avril 19h Aydan théatre
 - mardi 16 avril 11h45 point avec Joël pour agence marketing
 - mardi 16 avril 18h CA CoDev
 - mercredi 17 matin PoleS
 - jeudi 18 matin PoleS ?
-- jeudi 18 avril repas chez /ut7
+- jeudi 18 avril 12h30 Fanchon repas chez /ut7
+- jeudi 18/04 à 13h30 oisiflorus-CAE
+- vendredi 19/04 à 8h30 oisiflorus-CAE
 - vendredi 19 avril travaux Mathilde marketing
 - vendredi 19 avril raconte ton parcours à Sevran
 - samedi 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
