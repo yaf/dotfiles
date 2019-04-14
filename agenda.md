@@ -7,6 +7,7 @@
 - lundi 15 avril 14h ? point DNE avec DossierSCO
 - lundi 15/04 à 18h oisiflorus-CAE
 - lundi 15 avril 19h Aydan théatre
+- mardi 16 avril 10h Fanchon Duroc
 - mardi 16 avril 11h45 point avec Joël pour agence marketing
 - mardi 16 avril 18h CA CoDev
 - mercredi 17 matin PoleS
