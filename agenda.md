@@ -1,3 +1,4 @@
+- lundi 15 avril 9h30 point départ Stage PoleS
 - lundi 15 avril 10h DossierSCO
 - lundi 15 avril 2019 11:30 – 12:00  Call UX design - Parcours du devis
 - lundi 15 avril 12h30 Julien
