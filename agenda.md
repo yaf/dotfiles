@@ -1,6 +1,3 @@
-- dimanche 14 avril 10h Bernard greffe cerisiers
-- dimanche 14 avril 14h chateau éphémère pour enfant
----
 - lundi 15 avril 10h DossierSCO
 - lundi 15 avril 2019 11:30 – 12:00  Call UX design - Parcours du devis
 - lundi 15 avril 12h30 Julien
@@ -12,6 +9,7 @@
 - mardi 16 avril 18h CA CoDev
 - mercredi 17 matin PoleS
 - jeudi 18 matin PoleS ?
+- jeudi 14 avril 10h Bernard greffe cerisiers ?
 - jeudi 18 avril 12h30 Fanchon repas chez /ut7
 - jeudi 18/04 à 13h30 oisiflorus-CAE
 - vendredi 19/04 à 8h30 oisiflorus-CAE
