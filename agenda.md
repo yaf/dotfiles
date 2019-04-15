@@ -1,4 +1,3 @@
-- lundi 15 avril 16h30 point Stage PoleS
 - lundi 15/04 à 18h oisiflorus-CAE
 - mardi 16 avril 10h Fanchon Duroc
 - mardi 16 avril 11h45 point avec Joël pour agence marketing
