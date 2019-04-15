@@ -1,10 +1,5 @@
-- lundi 15 avril 9h30 point départ Stage PoleS
-- lundi 15 avril 10h DossierSCO
-- lundi 15 avril 2019 11:30 – 12:00  Call UX design - Parcours du devis
-- lundi 15 avril 12h30 Julien
-- lundi 15 avril 14h ? point DNE avec DossierSCO
+- lundi 15 avril 16h30 point Stage PoleS
 - lundi 15/04 à 18h oisiflorus-CAE
-- lundi 15 avril 19h Aydan théatre
 - mardi 16 avril 10h Fanchon Duroc
 - mardi 16 avril 11h45 point avec Joël pour agence marketing
 - mardi 16 avril 18h CA CoDev
