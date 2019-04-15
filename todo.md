@@ -1,5 +1,3 @@
-- envoyer premier message pour direcct OF
-
 - prendre rendez-vous pour echo yeux
 - "le refus du #travail" - David frayne https://editionsdudetour.com/index.php/les-livres/le-refus-du-travail/
 - refaire le site d'ecd-sartrouville - extraire les header et footer
