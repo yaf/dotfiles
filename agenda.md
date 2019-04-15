@@ -1,4 +1,3 @@
-- lundi 15/04 à 18h oisiflorus-CAE
 - mardi 16 avril 10h Fanchon Duroc
 - mardi 16 avril 11h45 point avec Joël pour agence marketing
 - mardi 16 avril 18h CA CoDev
