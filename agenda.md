@@ -6,6 +6,7 @@
 - jeudi 14 avril 10h Bernard greffe cerisiers ?
 - jeudi 18 avril 12h30 Fanchon repas chez /ut7
 - jeudi 18/04 à 13h30 oisiflorus-CAE
+- jeudi 18/04 après midi à Arago DossierSCO
 - vendredi 19/04 à 8h30 oisiflorus-CAE
 - vendredi 19 avril travaux Mathilde marketing
 - vendredi 19 avril raconte ton parcours à Sevran
