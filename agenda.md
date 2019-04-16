@@ -1,15 +1,13 @@
-- mardi 16 avril 10h Fanchon Duroc
-- mardi 16 avril 11h45 point avec Joël pour agence marketing
 - mardi 16 avril 18h CA CoDev
 - mercredi 17 matin PoleS
-- jeudi 18 matin PoleS ?
-- jeudi 14 avril 10h Bernard greffe cerisiers ?
+- jeudi 18 matin Maison du Libre et de Commun
 - jeudi 18 avril 12h30 Fanchon repas chez /ut7
 - jeudi 18/04 à 13h30 oisiflorus-CAE
 - jeudi 18/04 après midi à Arago DossierSCO
 - vendredi 19/04 à 8h30 oisiflorus-CAE
 - vendredi 19 avril travaux Mathilde marketing
 - vendredi 19 avril raconte ton parcours à Sevran
+- samedi 20 avril 10h Bernard greffe cerisiers ?
 - samedi 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
 - dimanche 21 avril journée culturelle
 ---
