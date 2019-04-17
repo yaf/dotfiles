@@ -1,5 +1,3 @@
-- mardi 16 avril 18h CA CoDev
-- mercredi 17 matin PoleS
 - jeudi 18 matin Maison du Libre et de Commun
 - jeudi 18 avril 12h30 Fanchon repas chez /ut7
 - jeudi 18/04 à 13h30 oisiflorus-CAE
