@@ -14,7 +14,7 @@
 - lundi 6 mai Ada Tech School Julien Chloé
 - samedi 11 mai fête du judo
 ---
-- du 13 mai au 21 juin Le PoleS Poissy  Production collective en Wordpress
+- lundi 13/05 12h30 repas équipe Enercoop
 - samedi 18 mai Réunion d'information Ada Tech School
 ---
 - 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
