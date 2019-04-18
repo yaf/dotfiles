@@ -1,15 +1,12 @@
-- jeudi 18 matin Maison du Libre et de Commun
-- jeudi 18 avril 12h30 Fanchon repas chez /ut7
-- jeudi 18/04 à 13h30 oisiflorus-CAE
-- jeudi 18/04 après midi à Arago DossierSCO
 - vendredi 19/04 à 8h30 oisiflorus-CAE
 - vendredi 19 avril travaux Mathilde marketing
-- vendredi 19 avril raconte ton parcours à Sevran
+- vendredi 19 avril 15h40 raconte ton parcours à Sevran
 - samedi 20 avril 10h Bernard greffe cerisiers ?
 - samedi 20 avril : date limite pour réserver pour les 70 ans du judo poissy le 11 mai de 16h30 à 19h30
 - dimanche 21 avril journée culturelle
 ---
 - lundi 22 avril au 2 mai à Six-Four-Les-Plages avec Aydan
+- jeudi 25/04 15h, Emmanuelle et Chloé, point sur partenariat immersion
 ---
 - vendredi 3 mai repas/apéro avec Camille ?
 - 3, 4 et 5 mai stage découverte Ada Tech School
