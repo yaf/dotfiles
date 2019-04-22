@@ -1,7 +1,7 @@
 - jeudi 25/04 15h, Emmanuelle et Chloé, point sur partenariat immersion
 ---
 - vendredi 3 mai repas/apéro avec Camille ?
-- 3, 4 et 5 mai stage découverte Ada Tech School
+- vendredi 3, samedi 4 et dimanche 5 mai stage découverte Ada Tech School
 ---
 - lundi 6 mai Ada Tech School Julien Chloé
 - samedi 11 mai fête du judo
