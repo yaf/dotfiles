@@ -1,4 +1,3 @@
-- lundi 22 avril au 2 mai à Six-Four-Les-Plages avec Aydan
 - jeudi 25/04 15h, Emmanuelle et Chloé, point sur partenariat immersion
 ---
 - vendredi 3 mai repas/apéro avec Camille ?
