@@ -14,6 +14,7 @@
 ---
 - 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
 - 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
+- 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
 - 24 et 25 mai Toulouse SudWeb
 - de mi-juin à mi-juillet : stagiaires du PoleS
 - 5, 6 et 7 juin web2day à nantes
