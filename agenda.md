@@ -7,6 +7,9 @@
 - samedi 11 mai fête du judo
 ---
 - lundi 13/05 12h30 repas équipe Enercoop
+- jeudi 16 mai vivatech Ada Tech School
+- vendredi 17 mai vivatech Ada Tech School
+- samedi 18 mai vivatech Ada Tech School
 - samedi 18 mai Réunion d'information Ada Tech School
 ---
 - 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
