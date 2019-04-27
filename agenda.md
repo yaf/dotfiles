@@ -1,5 +1,3 @@
-- jeudi 25/04 15h, Emmanuelle et Chloé, point sur partenariat immersion
----
 - vendredi 3 mai repas/apéro avec Camille ?
 - vendredi 3, samedi 4 et dimanche 5 mai stage découverte Ada Tech School
 ---
@@ -18,6 +16,8 @@
 - 24 et 25 mai Toulouse SudWeb
 - de mi-juin à mi-juillet : stagiaires du PoleS
 - 5, 6 et 7 juin web2day à nantes
+---
+- 29-30 juin week-end rencontre Oisiflorus-CAE
 
 
 
