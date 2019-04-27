@@ -18,3 +18,16 @@
 - 24 et 25 mai Toulouse SudWeb
 - de mi-juin à mi-juillet : stagiaires du PoleS
 - 5, 6 et 7 juin web2day à nantes
+
+
+
+du mercredi 8/5 au dimanche 12/5 : réouverture de la ferme. Nettoyage
+de printemps, débroussaillage, dépoussiérage, etc.
+
+- du samedi 8/6 au lundi 10/6 : activités suivant les envies des un/e/s
+et des autres. Possiblement : nettoyage des étables, aménagement de la
+maison voisine, etc.
+
+- du lundi 15/7 au dimanche 28/7 : chantier d'été ! Les activités
+restent encore à caler, mais on envisage de construire le puisard dans
+la cave et d'isoler la toiture d'un des ateliers. 
