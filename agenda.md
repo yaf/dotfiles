@@ -17,7 +17,7 @@
 ---
 - mercredi 5, jeudi 6 et vendredi 7 juin web2day à nantes
 ---
-- jeudi 13 juin 2019 write the docs https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/
+- jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
 - de mi-juin à mi-juillet : stagiaires du PoleS
 ---
 - 29-30 juin week-end rencontre Oisiflorus-CAE
