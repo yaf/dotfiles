@@ -10,12 +10,15 @@
 - samedi 18 mai vivatech Ada Tech School
 - samedi 18 mai Réunion d'information Ada Tech School
 ---
-- 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
-- 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
-- 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
-- 24 et 25 mai Toulouse SudWeb
+- mardi 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
+- vendredi 24 et samedi 25 mai Toulouse SudWeb
+- samedi 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
+- samedi 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
+---
+- mercredi 5, jeudi 6 et vendredi 7 juin web2day à nantes
+---
+- jeudi 13 juin 2019 write the docs https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/
 - de mi-juin à mi-juillet : stagiaires du PoleS
-- 5, 6 et 7 juin web2day à nantes
 ---
 - 29-30 juin week-end rencontre Oisiflorus-CAE
 
