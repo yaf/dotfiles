@@ -9,6 +9,7 @@
 - vendredi 17 mai vivatech Ada Tech School
 - samedi 18 mai vivatech Ada Tech School
 - samedi 18 mai Réunion d'information Ada Tech School
+- samedi 18 mai 2019, vers de nouveaux agencements socio-écologiques à la maison du libre et des communs (Paris)
 ---
 - mardi 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
 - vendredi 24 et samedi 25 mai Toulouse SudWeb
