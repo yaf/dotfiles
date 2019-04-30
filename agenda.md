@@ -6,10 +6,13 @@
 ---
 - lundi 6 mai Ada Tech School Julien Chloé
 - lundi 6 mai 13h Emmanuelle
+- mardi 7 mai 14h30 Didier
+- mardi 7 mai 16h amadou
 - mardi 7 mai 16h amadou
 - samedi 11 mai fête du judo
 ---
 - lundi 13/05 12h30 repas équipe Enercoop
+- mardi 14 mai 14h30 Didier
 - mardi 14 mai 16h amadou
 - jeudi 16 mai vivatech Ada Tech School
 - vendredi 17 mai vivatech Ada Tech School
@@ -18,11 +21,13 @@
 - samedi 18 mai 2019, vers de nouveaux agencements socio-écologiques à la maison du libre et des communs (Paris)
 ---
 - mardi 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
+- mardi 21 mai 14h30 Didier
 - mardi 21 mai 16h amadou
 - vendredi 24 et samedi 25 mai Toulouse SudWeb
 - samedi 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
 - samedi 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
 ---
+- mardi 28 mai 14h30 Didier
 - mardi 28 mai 16h amadou
 ---
 - mardi 4 juin 16h amadou
