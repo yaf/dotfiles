@@ -1,13 +1,16 @@
 - mardi 31 avril 10h30 tel Robi
 - mardi 31 avril 14h30 Didier
+- mardi 31 avril 16h amadou
 - mercredi 1er mai 10h Tel Thomas
 - vendredi 3 mai repas/apéro avec Camille ?
 - vendredi 3, samedi 4 et dimanche 5 mai stage découverte Ada Tech School
 ---
 - lundi 6 mai Ada Tech School Julien Chloé
+- mardi 7 mai 16h amadou
 - samedi 11 mai fête du judo
 ---
 - lundi 13/05 12h30 repas équipe Enercoop
+- mardi 14 mai 16h amadou
 - jeudi 16 mai vivatech Ada Tech School
 - vendredi 17 mai vivatech Ada Tech School
 - samedi 18 mai vivatech Ada Tech School
@@ -15,12 +18,17 @@
 - samedi 18 mai 2019, vers de nouveaux agencements socio-écologiques à la maison du libre et des communs (Paris)
 ---
 - mardi 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
+- mardi 21 mai 16h amadou
 - vendredi 24 et samedi 25 mai Toulouse SudWeb
 - samedi 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
 - samedi 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
 ---
+- mardi 28 mai 16h amadou
+---
+- mardi 4 juin 16h amadou
 - mercredi 5, jeudi 6 et vendredi 7 juin web2day à nantes
 ---
+- mardi 11 juin 16h amadou
 - jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
 - de mi-juin à mi-juillet : stagiaires du PoleS
 ---
