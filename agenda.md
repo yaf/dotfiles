@@ -1,4 +1,5 @@
 - mardi 31 avril 10h30 tel Robi
+- mardi 31 avril 14h30 Didier
 - mercredi 1er mai 10h Tel Thomas
 - vendredi 3 mai repas/apéro avec Camille ?
 - vendredi 3, samedi 4 et dimanche 5 mai stage découverte Ada Tech School
