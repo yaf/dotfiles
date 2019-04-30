@@ -6,7 +6,7 @@
 - vendredi 3, samedi 4 et dimanche 5 mai stage découverte Ada Tech School
 ---
 - lundi 6 mai Ada Tech School Julien Chloé
-- lundi 6 mai Emmanuelle
+- lundi 6 mai 13h Emmanuelle
 - mardi 7 mai 16h amadou
 - samedi 11 mai fête du judo
 ---
