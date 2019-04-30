@@ -1,4 +1,3 @@
-- mardi 31 avril 10h30 tel Robi
 - mardi 31 avril 14h30 Didier
 - mardi 31 avril 16h amadou
 - mercredi 1er mai 10h Tel Thomas
