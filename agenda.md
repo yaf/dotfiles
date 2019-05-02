@@ -8,6 +8,7 @@
 - mardi 7 mai 14h30 Didier
 - mardi 7 mai 16h amadou
 - mardi 7 mai 16h amadou
+- vendredi 10 mai matin DossierSCO
 - samedi 11 mai fête du judo
 ---
 - lundi 13/05 12h30 repas équipe Enercoop
