@@ -1,13 +1,10 @@
-- mardi 31 avril 16h amadou
-- mercredi 1er mai 10h Tel Thomas
-- vendredi 3 mai repas/apéro avec Camille ?
 - vendredi 3, samedi 4 et dimanche 5 mai stage découverte Ada Tech School
 ---
 - lundi 6 mai Ada Tech School Julien Chloé
 - lundi 6 mai 13h Emmanuelle
 - mardi 7 mai 14h30 Didier
 - mardi 7 mai 16h amadou
-- mardi 7 mai 16h amadou
+- jeudi 9 mai démo dossierSCO
 - vendredi 10 mai matin DossierSCO
 - samedi 11 mai fête du judo
 ---
@@ -16,6 +13,7 @@
 - mardi 14 mai 16h amadou
 - jeudi 16 mai vivatech Ada Tech School
 - vendredi 17 mai vivatech Ada Tech School
+- vendredi 17 mai Démo dossierSCO ?
 - samedi 18 mai vivatech Ada Tech School
 - samedi 18 mai Réunion d'information Ada Tech School
 - samedi 18 mai 2019, vers de nouveaux agencements socio-écologiques à la maison du libre et des communs (Paris)
