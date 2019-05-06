@@ -1,9 +1,8 @@
-- lundi 6 mai Ada Tech School Julien Chloé
-- lundi 6 mai 13h Emmanuelle
 - mardi 7 mai 14h30 Didier
 - mardi 7 mai 16h amadou
 - jeudi 9 mai démo dossierSCO
 - vendredi 10 mai matin DossierSCO
+- vendredi 10 mai matin Arlo
 - samedi 11 mai fête du judo
 ---
 - lundi 13/05 12h30 repas équipe Enercoop
