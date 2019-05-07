@@ -1,11 +1,10 @@
-- mardi 7 mai 16h amadou
 - jeudi 9 mai démo dossierSCO
 - vendredi 10/05 10h Shayan StationF
-- vendredi 10 mai matin DossierSCO
 - samedi 11 mai fête du judo
 ---
 - lundi 13/05 10h Arlo StationF
 - lundi 13/05 12h30 repas équipe Enercoop
+- mardi 14 mai 14h Aude (ordi à re-installer)
 - mardi 14 mai 14h30 Didier
 - mardi 14 mai 16h amadou
 - jeudi 16 mai vivatech Ada Tech School
