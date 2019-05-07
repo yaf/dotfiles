@@ -1,4 +1,3 @@
-- mardi 7 mai 14h30 Didier
 - mardi 7 mai 16h amadou
 - jeudi 9 mai démo dossierSCO
 - vendredi 10/05 10h Shayan StationF
