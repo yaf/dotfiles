@@ -7,6 +7,7 @@
 - mardi 14 mai 14h Aude (ordi à re-installer)
 - mardi 14 mai 14h30 Didier
 - mardi 14 mai 16h amadou
+- mardi 14/05 18h Familles acheres
 - jeudi 16 mai vivatech Ada Tech School
 - vendredi 17 mai vivatech Ada Tech School
 - vendredi 17 mai Démo dossierSCO ?
@@ -17,6 +18,7 @@
 - mardi 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
 - mardi 21 mai 14h30 Didier
 - mardi 21 mai 16h amadou
+- mardi 14/05 16h30 récupérer les enfants à l'école
 - vendredi 24 et samedi 25 mai Toulouse SudWeb
 - samedi 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
 - samedi 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
