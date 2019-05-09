@@ -1,5 +1,4 @@
 - jeudi 9 mai démo dossierSCO
-- vendredi 10/05 10h Shayan StationF
 - samedi 11 mai fête du judo
 ---
 - lundi 13/05 10h Arlo StationF
