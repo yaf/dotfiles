@@ -8,7 +8,7 @@
 - mardi 14 mai 14h30 Didier
 - mardi 14 mai 16h amadou
 - mardi 14/05 18h Familles acheres
-- mercredi 15/05 17h30 rectorat paris
+- mercredi 15/05 16h30 rectorat paris
 - jeudi 16 mai vivatech Ada Tech School
 - vendredi 17 mai vivatech Ada Tech School
 - vendredi 17 mai Démo dossierSCO ?
