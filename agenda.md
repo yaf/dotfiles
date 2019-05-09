@@ -19,6 +19,7 @@
 - mardi 21 mai 14h30 Didier
 - mardi 21 mai 16h amadou
 - mardi 21/05 16h30 récupérer les enfants à l'école
+- jeudi 23 mai café/thé/repas avec Sarah
 - vendredi 24 et samedi 25 mai Toulouse SudWeb
 - samedi 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
 - samedi 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
