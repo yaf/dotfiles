@@ -1,6 +1,7 @@
 - samedi 11 mai fête du judo
 ---
 - lundi 13/05 10h Arlo StationF
+- lundi 13/05 11h visio Sofia ?
 - lundi 13/05 12h30 repas équipe Enercoop
 - mardi 14/05 10h prépa exo de code avec Mathilde
 - mardi 14 mai 14h Aude (ordi à re-installer)
