@@ -1,4 +1,3 @@
-- jeudi 9 mai démo dossierSCO
 - samedi 11 mai fête du judo
 ---
 - lundi 13/05 10h Arlo StationF
@@ -15,6 +14,7 @@
 - samedi 18 mai Réunion d'information Ada Tech School
 - samedi 18 mai 2019, vers de nouveaux agencements socio-écologiques à la maison du libre et des communs (Paris)
 ---
+- lundi 20/05 repas Rémi
 - mardi 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
 - mardi 21 mai 14h30 Didier
 - mardi 21 mai 16h amadou
