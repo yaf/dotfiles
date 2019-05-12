@@ -1,5 +1,3 @@
-- samedi 11 mai fête du judo
----
 - lundi 13/05 10h Arlo StationF
 - lundi 13/05 11h visio Sofia ?
 - lundi 13/05 12h30 repas équipe Enercoop
