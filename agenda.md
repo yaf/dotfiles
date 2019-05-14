@@ -1,8 +1,3 @@
-- lundi 13/05 10h Arlo StationF
-- lundi 13/05 11h visio Sofia ?
-- lundi 13/05 12h30 repas équipe Enercoop
-- mardi 14/05 10h prépa exo de code avec Mathilde
-- mardi 14 mai 14h Aude (ordi à re-installer)
 - mardi 14 mai 14h30 Didier
 - mardi 14 mai 16h amadou
 - mardi 14/05 18h Familles acheres
@@ -14,7 +9,6 @@
 - samedi 18 mai 2019, vers de nouveaux agencements socio-écologiques à la maison du libre et des communs (Paris)
 ---
 - lundi 20/05 repas Rémi
-- mardi 21 mai 2019 la DNE à Nancy avec l'équipe de dev ?
 - mardi 21 mai 14h30 Didier
 - mardi 21 mai 16h amadou
 - mardi 21/05 16h30 récupérer les enfants à l'école
@@ -23,6 +17,7 @@
 - samedi 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
 - samedi 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
 ---
+- lundi 27/05 15h entretien Gaëlle K. Ada Tech School.
 - mardi 28 mai 14h30 Didier
 - mardi 28 mai 16h amadou
 ---
