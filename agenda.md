@@ -4,8 +4,6 @@
 - mercredi 15/05 16h30 rectorat paris
 - vendredi 17 mai vivatech Ada Tech School
 - vendredi 17 mai Démo dossierSCO ?
-- samedi 18 mai vivatech Ada Tech School
-- samedi 18 mai Réunion d'information Ada Tech School
 - samedi 18 mai 2019, vers de nouveaux agencements socio-écologiques à la maison du libre et des communs (Paris)
 ---
 - lundi 20/05 repas Rémi
@@ -13,8 +11,7 @@
 - mardi 21 mai 16h amadou
 - mardi 21/05 16h30 récupérer les enfants à l'école
 - jeudi 23 mai café/thé/repas avec Sarah
-- vendredi 24 et samedi 25 mai Toulouse SudWeb
-- samedi 25 mai 2019 [Paris Functional Programming Day](http://fpday.org/)
+- vendredi 24/05 publication de notre réponse à l'exercice de lecture de code VivaTech
 - samedi 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
 ---
 - lundi 27/05 15h entretien Gaëlle K. Ada Tech School.
