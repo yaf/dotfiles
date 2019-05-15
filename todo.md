@@ -75,6 +75,7 @@
 
 ## Livres
 
+* https://fr.m.wikipedia.org/wiki/Bolo%27bolo
 * [Penser par sois même](http://www.eclm.fr/ouvrage-383.html)
 * [Sentir-penser avec la Terre, Arturo Escobar]()
 * [Sébastien Faure Et "La Ruche" Ou L'éducation Libertaire - Roland Lewin](https://www.priceminister.com/offer/buy/577123/Lewin-Sebastien-Faure-Et-Ruche-Livre.html)
