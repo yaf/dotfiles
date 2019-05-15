@@ -75,6 +75,7 @@
 
 ## Livres
 
+* https://www.franceculture.fr/oeuvre/le-ventre-des-femmes-capitalisme-racialisation-feminisme
 * https://fr.m.wikipedia.org/wiki/Bolo%27bolo
 * [Penser par sois même](http://www.eclm.fr/ouvrage-383.html)
 * [Sentir-penser avec la Terre, Arturo Escobar]()
