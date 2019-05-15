@@ -29,6 +29,7 @@
 - Édouard Stéphan, La Ruche, une école libertaire au Pâtis à Rambouillet, 1905-1917 , Éd. SHARY, 2000
 - faire une sorte de https://vim-adventures.com/ mais en licence libre
 - Sujet d'exercice ? https://github.com/mame/quine-relay
+- http://www.pass-education.fr/l-ief-qu-est-ce-que-c-est-instruction-en-famille/
 - Rencontré aux RMLL 2018, un lyonnais : Mougeot http://www.cedrats.org/
 - Fabriquer un Cajon https://fr.wikihow.com/fabriquer-un-caj%C3%B3n
 - rejoindre deepgreenresistance ? https://deepgreenresistance.fr/rejoindre-deep-green-resistance/
