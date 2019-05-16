@@ -1,10 +1,5 @@
-- mardi 14 mai 14h30 Didier
-- mardi 14 mai 16h amadou
-- mardi 14/05 18h Familles acheres
-- mercredi 15/05 16h30 rectorat paris
 - vendredi 17 mai vivatech Ada Tech School
 - vendredi 17 mai Démo dossierSCO ?
-- samedi 18 mai 2019, vers de nouveaux agencements socio-écologiques à la maison du libre et des communs (Paris)
 ---
 - lundi 20/05 repas Rémi
 - mardi 21 mai 14h30 Didier
@@ -28,10 +23,7 @@
 - 29-30 juin week-end rencontre Oisiflorus-CAE
 
 
-
-du mercredi 8/5 au dimanche 12/5 : réouverture de la ferme. Nettoyage
-de printemps, débroussaillage, dépoussiérage, etc.
-
+Malaret
 - du samedi 8/6 au lundi 10/6 : activités suivant les envies des un/e/s
 et des autres. Possiblement : nettoyage des étables, aménagement de la
 maison voisine, etc.
