@@ -1,27 +1,25 @@
-- vendredi 17 mai vivatech Ada Tech School
-- vendredi 17 mai Démo dossierSCO ?
----
 - lundi 20/05 repas Rémi
 - lundi 20/05 15h30 DANE adjoint au 110Bis
 - mardi 21/05 9h30 rendez-vous Collège Jean de la Fontaine Madeleine Abrahami
-- mardi 21 mai 14h30 Didier
-- mardi 21 mai 16h amadou
+- mardi 21/05 14h30 Didier
+- mardi 21/05 16h amadou
 - mardi 21/05 16h30 récupérer les enfants à l'école
-- jeudi 23 mai café/thé/repas avec Sarah
+- jeudi 23/05 café/thé/repas avec Sarah
 - vendredi 24/05 10h Aude entretien
 - vendredi 24/05 11h Marine entretien
 - vendredi 24/05 publication de notre réponse à l'exercice de lecture de code VivaTech
-- samedi 25 mai 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
+- samedi 25/05 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
 ---
+- lundi 27/05 12h30 repas Anne-Marie et Fabien
 - lundi 27/05 15h entretien Gaëlle K. Ada Tech School.
-- mardi 28 mai 14h30 Didier
-- mardi 28 mai 16h amadou
+- mardi 28/05 14h30 Didier
+- mardi 28/05 16h amadou
 ---
-- mardi 4 juin 16h amadou
+- mardi 4/06 16h amadou
 - mercredi 5, jeudi 6 et vendredi 7 juin web2day à nantes
 ---
-- mardi 11 juin 16h amadou
-- jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
+- mardi 11/05 16h amadou
+- jeudi 13/05 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
 - de mi-juin à mi-juillet : stagiaires du PoleS
 ---
 - 29-30 juin week-end rencontre Oisiflorus-CAE
