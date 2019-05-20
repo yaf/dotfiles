@@ -1,5 +1,3 @@
-- lundi 20/05 repas Rémi
-- lundi 20/05 15h30 DANE adjoint au 110Bis
 - mardi 21/05 9h30 rendez-vous Collège Jean de la Fontaine Madeleine Abrahami
 - mardi 21/05 14h30 Didier
 - mardi 21/05 16h amadou
