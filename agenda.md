@@ -1,6 +1,6 @@
 - mardi 21/05 9h30 rendez-vous Collège Jean de la Fontaine Madeleine Abrahami
 - mardi 21/05 11h Didier
-- mardi 21/05 16h amadou
+- mardi 21/05 15h30 amadou
 - mardi 21/05 16h30 récupérer les enfants à l'école
 - jeudi 23/05 repas avec Thomas
 - jeudi 23/05 café/thé/repas avec Sarah
