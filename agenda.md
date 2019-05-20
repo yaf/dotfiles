@@ -17,6 +17,7 @@
 ---
 - mardi 4/06 16h amadou
 - mercredi 5, jeudi 6 et vendredi 7 juin web2day à nantes
+- jeudi 6/06 webinaire Badgeons les Pays de la Loire https://annuel.framapad.org/p/blpdl_webinaire_060619
 ---
 - mardi 11/05 16h amadou
 - jeudi 13/05 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
