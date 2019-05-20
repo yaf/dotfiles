@@ -2,6 +2,7 @@
 - mardi 21/05 14h30 Didier
 - mardi 21/05 16h amadou
 - mardi 21/05 16h30 récupérer les enfants à l'école
+- jeudi 23/05 repas avec Thomas
 - jeudi 23/05 café/thé/repas avec Sarah
 - vendredi 24/05 10h Aude entretien
 - vendredi 24/05 11h Marine entretien
