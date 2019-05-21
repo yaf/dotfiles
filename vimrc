@@ -13,7 +13,7 @@ set tabstop=2
 set softtabstop=2
 set shiftwidth=2
 set expandtab
-set colorcolumn=100
+"set colorcolumn=100
 
 set shiftround
 set ignorecase
