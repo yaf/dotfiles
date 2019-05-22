@@ -1,9 +1,7 @@
-- mardi 21/05 9h30 rendez-vous Collège Jean de la Fontaine Madeleine Abrahami
-- mardi 21/05 11h Didier
-- mardi 21/05 15h30 amadou
-- mardi 21/05 16h30 récupérer les enfants à l'école
 - jeudi 23/05 repas avec Thomas
+- jeudi 23/05 15h visio KheOps et Thimy
 - jeudi 23/05 café/thé/repas avec Sarah
+- jeudi 21/05 Didier
 - vendredi 24/05 10h Aude entretien
 - vendredi 24/05 11h Marine entretien
 - vendredi 24/05 publication de notre réponse à l'exercice de lecture de code VivaTech
