@@ -2,10 +2,10 @@
 - jeudi 21/05 Didier
 - vendredi 24/05 10h Aude entretien
 - vendredi 24/05 11h Marine entretien
-- vendredi 23/05 15h visio KheOps et Thimy
 - vendredi 24/05 publication de notre réponse à l'exercice de lecture de code VivaTech
 - samedi 25/05 13h30 à 16h30 Séminaire pédagogie émancipatrice  https://emancipaeda.hypotheses.org/4937
 ---
+- lundi 27/05 10h visio KheOps et Thimy
 - lundi 27/05 12h30 repas Anne-Marie et Fabien
 - lundi 27/05 15h entretien Gaëlle K. Ada Tech School.
 - lundi 27/05 16h30 rdv F. Blabla
