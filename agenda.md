@@ -7,7 +7,6 @@
 ---
 - lundi 27/05 10h visio KheOps et Thimy
 - lundi 27/05 12h30 repas Anne-Marie et Fabien
-- lundi 27/05 15h entretien Gaëlle K. Ada Tech School.
 - lundi 27/05 16h30 rdv F. Blabla
 - mardi 28/05 14h30 Didier
 - mardi 28/05 16h amadou
