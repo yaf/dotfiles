@@ -8,7 +8,7 @@
 - mardi 28/05 16h amadou
 ---
 - mardi 4/06 16h amadou
-- mercredi 5, jeudi 6 et vendredi 7 juin web2day à nantes
+- mercredi 5 juin de 12h à 13h30 en salle 5.728 pour un Etalab talk de Frédéric Bordage sur l'éco-conception.
 - jeudi 6/06 webinaire Badgeons les Pays de la Loire https://annuel.framapad.org/p/blpdl_webinaire_060619
 ---
 - mardi 11/05 16h amadou
