@@ -1,9 +1,7 @@
-- vendredi 24/05 publication de notre réponse à l'exercice de lecture de code VivaTech
----
 - lundi 27/05 10h visio KheOps et Thimy et Agathe
 - lundi 27/05 14h Marine entretien
-- lundi 27/05 12h30 repas Anne-Marie et Fabien
 - lundi 27/05 16h30 rdv F. Blabla
+- mardi 27/05 12h30 repas Anne-Marie et Fabien
 - mardi 28/05 14h30 Didier
 - mardi 28/05 16h amadou
 ---
