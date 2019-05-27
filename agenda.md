@@ -1,12 +1,10 @@
-- lundi 27/05 10h visio KheOps et Thimy et Agathe
-- lundi 27/05 14h Marine entretien
-- lundi 27/05 16h30 rdv F. Blabla
 - mardi 27/05 12h30 repas Anne-Marie et Fabien
 - mardi 28/05 14h30 Didier
 - mardi 28/05 16h amadou
 ---
 - mardi 4/06 16h amadou
 - mercredi 5 juin de 12h à 13h30 en salle 5.728 pour un Etalab talk de Frédéric Bordage sur l'éco-conception.
+- mer. 5 juin 2019 à 19:00 FreeCodeCamp chez Algolia 55 Rue d'Amsterdam, 75008 Paris
 - jeudi 6/06 webinaire Badgeons les Pays de la Loire https://annuel.framapad.org/p/blpdl_webinaire_060619
 ---
 - mardi 11/05 16h amadou
