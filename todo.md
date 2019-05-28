@@ -14,6 +14,7 @@
 - Explorer Racket http://docs.racket-lang.org/quick/index.html
 - Faire un navigateur http+markdown (Gopher ?)
 - https://www.tela-botanica.org/2019/01/la-femme-et-les-champignons-de-long-litt-woon/
+- source d'inspiration pour participer https://github.com/telabotanica
 - Faire un exercice de fonction calisthenics https://codurance.com/2017/10/12/functional-calisthenics/
 - L’Arbre-Monde de Richard Powers
 - https://editionslibre.org/produit/prevente-comment-la-non-violence-protege-l-etat-peter-gelderloos/
