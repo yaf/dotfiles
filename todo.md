@@ -18,6 +18,7 @@
 - https://editionslibre.org/produit/prevente-comment-la-non-violence-protege-l-etat-peter-gelderloos/
 - Faire un exercice d'objet calisthenics https://williamdurand.fr/2013/06/03/object-calisthenics/
 - http://greaterthanorequalto.net/ Inspiration, un petit air commun avec [Natural Language Form](https://tympanus.net/Tutorials/NaturalLanguageForm/) ?
+- http://lesherbonautes.mnhn.fr/ participer ?
 - Refaire le site d'ouverture facile http://www.ouverture-facile.com/
 - renouveller la carte identité, elle est prolongé, et **valable jusqu'en 2023**.
 - Faire l'exercice de fabriquer une base de donnée https://cstack.github.io/db_tutorial/
