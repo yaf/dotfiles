@@ -9,6 +9,7 @@
 - Transformer les questions de programmation en kata ?
 - Retranscrire les écrits sur la Ruche de Faure https://gallica.bnf.fr/ark:/12148/bpt6k67585g/f3.image.r=.langEN
 - Poser des bases de projet sur https://glitch.com/ à destination des débutants
+- https://github.com/UKHomeOffice/posters/tree/master/accessibility
 - Refaire ce site en html/css/JavaScript vanillia http://elements.wlonk.com/ElementsTable.htm voir http://elements.wlonk.com/ElementsTable.htm
 - Explorer Racket http://docs.racket-lang.org/quick/index.html
 - Faire un navigateur http+markdown (Gopher ?)
