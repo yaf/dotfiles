@@ -12,6 +12,8 @@
 - de mi-juin à mi-juillet : stagiaires du PoleS
 ---
 - 29-30 juin week-end rencontre Oisiflorus-CAE
+---
+- vendredi 2 aout Girls Camp chateau éphémère
 
 
 Malaret
