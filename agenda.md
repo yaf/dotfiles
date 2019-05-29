@@ -6,8 +6,9 @@
 - mer. 5 juin 2019 à 19:00 FreeCodeCamp chez Algolia 55 Rue d'Amsterdam, 75008 Paris
 - jeudi 6/06 webinaire Badgeons les Pays de la Loire https://annuel.framapad.org/p/blpdl_webinaire_060619
 ---
-- mardi 11/05 16h amadou
-- jeudi 13/05 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
+- mardi 11 juin 16h amadou
+- jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
+- vendredi 14 juin déjeuner avec Marie et Élodie de Pix
 - de mi-juin à mi-juillet : stagiaires du PoleS
 ---
 - 29-30 juin week-end rencontre Oisiflorus-CAE
