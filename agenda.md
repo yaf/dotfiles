@@ -1,6 +1,4 @@
-- mercredi 29/05 18h réunion d'information Ada - code créatif
-- vendredi 31/05 dossiersco Segur ?
----
+- lundi 3 juin segur
 - mardi 4/06 16h amadou
 - mercredi 5 juin de 12h à 13h30 en salle 5.728 pour un Etalab talk de Frédéric Bordage sur l'éco-conception.
 - mer. 5 juin 2019 à 19:00 FreeCodeCamp chez Algolia 55 Rue d'Amsterdam, 75008 Paris
