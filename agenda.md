@@ -1,14 +1,15 @@
-- lundi 3 juin segur
 - mardi 4/06 16h amadou
 - mercredi 5 juin de 12h à 13h30 en salle 5.728 pour un Etalab talk de Frédéric Bordage sur l'éco-conception.
 - mer. 5 juin 2019 à 19:00 FreeCodeCamp chez Algolia 55 Rue d'Amsterdam, 75008 Paris
 - jeudi 6/06 webinaire Badgeons les Pays de la Loire https://annuel.framapad.org/p/blpdl_webinaire_060619
 ---
+- lundi 10 rendez vous Gaëlle et Claire à partir de 17h à Station F
 - mardi 11 juin 16h amadou
 - jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
 - vendredi 14 juin déjeuner avec Marie et Élodie de Pix
 - de mi-juin à mi-juillet : stagiaires du PoleS
 ---
+- mardi 18 juin 18h30 spectacle Aydan
 - 29-30 juin week-end rencontre Oisiflorus-CAE
 ---
 - vendredi 2 aout Girls Camp chateau éphémère
