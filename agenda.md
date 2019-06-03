@@ -7,9 +7,9 @@
 - mardi 11 juin 16h amadou
 - jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
 - vendredi 14 juin déjeuner avec Marie et Élodie de Pix
-- de mi-juin à mi-juillet : stagiaires du PoleS
 ---
 - mardi 18 juin 18h30 spectacle Aydan
+- du 24 juin au 18 juillet : stagiaires du PoleS
 - 29-30 juin week-end rencontre Oisiflorus-CAE
 ---
 - vendredi 2 aout Girls Camp chateau éphémère
