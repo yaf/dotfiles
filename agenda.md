@@ -6,6 +6,7 @@
 - lundi 10 rendez vous Gaëlle et Claire à partir de 17h à Station F
 - mardi 11 juin 16h amadou
 - jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
+- jeudi 13 juin 18h-20h soirée Culture Code Ada Tech School
 - vendredi 14 juin déjeuner avec Marie et Élodie de Pix
 ---
 - mardi 18 juin 18h30 spectacle Aydan
