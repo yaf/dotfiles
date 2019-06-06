@@ -8,6 +8,7 @@
 - jeudi 13 juin 18h-20h soirée Culture Code Ada Tech School
 - vendredi 14 juin déjeuner avec Marie et Élodie de Pix
 ---
+- lundi 17 juin repas Thomas Auber ?
 - mardi 18 juin 18h30 spectacle Aydan
 - du 24 juin au 18 juillet : stagiaires du PoleS
 - 29-30 juin week-end rencontre Oisiflorus-CAE
