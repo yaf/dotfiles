@@ -1,7 +1,6 @@
-- mardi 4/06 16h amadou
-- mercredi 5 juin de 12h à 13h30 en salle 5.728 pour un Etalab talk de Frédéric Bordage sur l'éco-conception.
-- mer. 5 juin 2019 à 19:00 FreeCodeCamp chez Algolia 55 Rue d'Amsterdam, 75008 Paris
 - jeudi 6/06 webinaire Badgeons les Pays de la Loire https://annuel.framapad.org/p/blpdl_webinaire_060619
+- vendredi 7 juin 10h30 rdv Blablacar avec Chloé
+- vendredi 7 juin 16h30 récupération des enfants à l'école ?
 ---
 - lundi 10 rendez vous Gaëlle et Claire à partir de 17h à Station F
 - mardi 11 juin 16h amadou
