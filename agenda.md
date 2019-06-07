@@ -1,7 +1,9 @@
 - vendredi 7 juin 16h30 récupération des enfants à l'école ?
 ---
 - lundi 10 rendez vous Gaëlle et Claire à partir de 17h à Station F
+- mardi 11 juin 10h, appel avec Nadia Bahhar-Alves pour Ada
 - mardi 11 juin 16h amadou
+- mercredi 12 juin 12h30 repas Gui à la Felicita
 - jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
 - jeudi 13 juin 18h-20h soirée Culture Code Ada Tech School
 - vendredi 14 juin déjeuner avec Marie et Élodie de Pix
