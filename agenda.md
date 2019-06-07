@@ -1,5 +1,3 @@
-- jeudi 6/06 webinaire Badgeons les Pays de la Loire https://annuel.framapad.org/p/blpdl_webinaire_060619
-- vendredi 7 juin 10h30 rdv Blablacar avec Chloé
 - vendredi 7 juin 16h30 récupération des enfants à l'école ?
 ---
 - lundi 10 rendez vous Gaëlle et Claire à partir de 17h à Station F
