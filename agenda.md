@@ -6,6 +6,7 @@
 - jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
 - jeudi 13 juin 18h-20h soirée Culture Code Ada Tech School
 - vendredi 14 juin déjeuner avec Marie et Élodie de Pix
+- samedi 15 et dimanche 16 juin 2019 à Paris au local de l'April
 ---
 - lundi 17 juin repas Thomas Auber ?
 - mardi 18 juin 18h30 spectacle Aydan
