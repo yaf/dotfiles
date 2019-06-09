@@ -18,6 +18,9 @@
 - du 24 juin au 18 juillet : stagiaires du PoleS
 - 29-30 juin week-end rencontre Oisiflorus-CAE
 ---
+- mercredi 3 juillet CAE  de 9h30 à 17h // ESPACE BSA – PARIS 20° http://16pm.mj.am/nl2/16pm/lgjgm.html?m=AG8AACBYmAoAAAAAAAAAADgSaZ0AAJ3emDkAAAAAAAHmHgBczD6aDJ0wAGDIRIyWvmmq1fu-fwAB0W4&b=32110957&e=f7555d22&x=eYtng9pGQ34iSeAvh3TS7c5vard1jMxblHvS0y1UAfw
+- jeudi 4 juillet sortie Étretat Aydan
+---
 - vendredi 2 août Girls Camp chateau éphémère
 
 
