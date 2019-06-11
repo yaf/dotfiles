@@ -1,7 +1,3 @@
-- mardi 11 juin 10h, appel avec Nadia Bahhar-Alves pour Ada
-- mardi 11 juin Philippe à StationF
-- mardi 11 juin 16h amadou
-- mardi 11 juin rendez vous Claire à 18h à Station F
 - mercredi 12 juin 12h30 repas Gui à la Felicita
 - jeudi 13 juin 2019 14h chez Mozilla [write the docs](https://www.meetup.com/fr-FR/Write-the-Docs-Paris/events/260964602/)
 - jeudi 13 juin 18h-20h soirée Culture Code Ada Tech School
