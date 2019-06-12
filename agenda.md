@@ -11,6 +11,7 @@
 - mercredi 19 juin Meetup Tech beta.gouv.fr #2 https://www.eventbrite.fr/e/billets-meetup-tech-betagouvfr-2-63000531285
 - vendredi 21 juin à partir de 18h45 au Complexe Sportif Marcel Cerdan AG Basket
 ---
+- lundi 24 juin "Rapports sociaux et nouvelles technologies en éducation"  à l'ESPE de Paris (56 rue des Batignolles, Paris 17e) à partir de 9h.
 - du 24 juin au 18 juillet : stagiaires du PoleS
 - vendredi 28 juin festival d'écudation populaire à Montreuil https://paris.demosphere.net/rv/71179
 - 29-30 juin week-end rencontre Oisiflorus-CAE
