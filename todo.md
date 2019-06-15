@@ -80,6 +80,7 @@
 
 ## Livres
 
+* Le municipalisme libertaire - La politique de l'écologie sociale Broché – 7 janvier 2014 de Janet Biehl
 * https://livre.fnac.com/a9455378/Alexander-samuel-Entropia
 * https://www.amazon.fr/dp/226625409X/ref=cm_sw_r_cp_awdb_c_oRmXCbT8CNV87
 * L’art de conter nos expériences collectives   Benjamin Roux 
