@@ -80,6 +80,7 @@
 
 ## Livres
 
+* https://livre.fnac.com/a9455378/Alexander-samuel-Entropia
 * https://www.amazon.fr/dp/226625409X/ref=cm_sw_r_cp_awdb_c_oRmXCbT8CNV87
 * L’art de conter nos expériences collectives   Benjamin Roux 
 * https://www.babelio.com/livres/Ba-Une-si-longue-lettre/3426
