@@ -83,6 +83,7 @@
 * https://www.amazon.fr/dp/226625409X/ref=cm_sw_r_cp_awdb_c_oRmXCbT8CNV87
 * L’art de conter nos expériences collectives   Benjamin Roux 
 * https://www.babelio.com/livres/Ba-Une-si-longue-lettre/3426
+* https://www.babelio.com/livres/Sapienza-Lart-de-la-joie/5719
 * https://www.babelio.com/livres/Ba-Un-chant-ecarlate/118778
 * https://www.franceculture.fr/oeuvre/le-ventre-des-femmes-capitalisme-racialisation-feminisme
 * https://fr.m.wikipedia.org/wiki/Bolo%27bolo
