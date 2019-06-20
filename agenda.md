@@ -1,17 +1,12 @@
-- vendredi 14 juin déjeuner avec Marie et Élodie de Pix
-- samedi 15 et dimanche 16 juin 2019 à Paris au local de l'April https://pad.chapril.org/p/aprilcamp201906
----
-- lundi 17 juin repas Thomas Auber
-- mardi 18 juin 18h30 spectacle Aydan
-- mardi 18 juin 2019 14:00 – 15:00 TrainLine Ada
----
 - lundi 24 juin "Rapports sociaux et nouvelles technologies en éducation"  à l'ESPE de Paris (56 rue des Batignolles, Paris 17e) à partir de 9h.
 - du 24 juin au 18 juillet : stagiaires du PoleS
+- vendredi 28 juin à 10h30, rdv Ada
 - vendredi 28 juin festival d'écudation populaire à Montreuil https://paris.demosphere.net/rv/71179
 - 29-30 juin week-end rencontre Oisiflorus-CAE
 ---
 - mercredi 3 juillet CAE  de 9h30 à 17h // ESPACE BSA – PARIS 20° http://16pm.mj.am/nl2/16pm/lgjgm.html?m=AG8AACBYmAoAAAAAAAAAADgSaZ0AAJ3emDkAAAAAAAHmHgBczD6aDJ0wAGDIRIyWvmmq1fu-fwAB0W4&b=32110957&e=f7555d22&x=eYtng9pGQ34iSeAvh3TS7c5vard1jMxblHvS0y1UAfw
 - jeudi 4 juillet sortie Étretat Aydan
+- vendredi 5 juillet réunion d'information Ada
 ---
 - vendredi 2 août Girls Camp chateau éphémère
 
