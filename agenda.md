@@ -1,5 +1,3 @@
-- lundi 24 juin "Rapports sociaux et nouvelles technologies en éducation"  à l'ESPE de Paris (56 rue des Batignolles, Paris 17e) à partir de 9h.
-- du 24 juin au 18 juillet : stagiaires du PoleS
 - vendredi 28 juin à 10h30, rdv Ada
 - vendredi 28 juin festival d'écudation populaire à Montreuil https://paris.demosphere.net/rv/71179
 - 29-30 juin week-end rencontre Oisiflorus-CAE
