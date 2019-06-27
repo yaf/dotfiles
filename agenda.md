@@ -10,6 +10,10 @@
 - vendredi 2 août Girls Camp chateau éphémère
 
 
+https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
+
+
+
 Malaret
 - du lundi 15/7 au dimanche 28/7 : chantier d'été ! Les activités
 restent encore à caler, mais on envisage de construire le puisard dans
