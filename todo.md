@@ -1,7 +1,4 @@
 - prendre rendez-vous pour echo yeux
-- refaire le site d'ecd-sartrouville - extraire les header et footer
-- refaire le site d'ecd-sartrouville - refaire les articles de blogs et vérifier que tout est là
-- refaire le site d'ecd-sartrouville - expliquer à Sarah comment faire, et faire des essais avec elle
 - http://www.tera.coop/
 - revoir le site elsif.fr avec [Panash](https://framagit.org/yaf/panash) pour une mise en situation
 - travailler sur funky.framadate
