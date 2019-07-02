@@ -4,6 +4,8 @@
 - vendredi 5 juillet réunion d'information Ada
 - samedi 6 juillet 10h coupe au vert avec Bernard
 ---
+- lundi 8 juillet 12h30 repas Marine / Sentier
+- lundi 8 juillet SEGUR?
 - mardi 9 juillet rencontre MFozeu
 - mercredi 10 juillet direction Bourge
 ---
