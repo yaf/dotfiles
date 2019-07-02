@@ -1,16 +1,23 @@
-- lundi 1 juillet 10h Arago, balade avec Pierre
-- lundi 1 juillet 13h, Mathilde R. ?
-- mardi 2 juillet à 11:15 rendez-vous attestation d'accueil
-- mercredi 3 juillet CAE  de 9h30 à 17h // ESPACE BSA – PARIS 20° http://16pm.mj.am/nl2/16pm/lgjgm.html?m=AG8AACBYmAoAAAAAAAAAADgSaZ0AAJ3emDkAAAAAAAHmHgBczD6aDJ0wAGDIRIyWvmmq1fu-fwAB0W4&b=32110957&e=f7555d22&x=eYtng9pGQ34iSeAvh3TS7c5vard1jMxblHvS0y1UAfw
 - jeudi 4 juillet sortie Étretat Aydan
 - jeudi 4 juille à partir de 18h18 BBQ Chateau FMR
-- vendredi 5 juillet rencontre MFozeu
+- vendredi 5 juillet Rétrospective DossierSCO au 110bis
 - vendredi 5 juillet réunion d'information Ada
+- samedi 6 juillet 10h coupe au vert avec Bernard
+---
+- mardi 9 juillet rencontre MFozeu
+- mercredi 10 juillet direction Bourge
+---
+- lundi 15 direction Tarbes
+- dimanche 21 rdv anniversaire Hugo à coté de Muret
+---
+- lundi 22 départ pour Miribel, ou pour Crest ?
 ---
 - vendredi 2 août Girls Camp chateau éphémère
+---
+- mercredi 6 août, départ de Miribel
 
-
-https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
+--
+- 16 et 17 octobre https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
 
 
 
