@@ -108,6 +108,7 @@
 * [Stratégies végétales, petits arrangements et grandes manoeuvres Relié – 15 décembre 2011 de Benoît Garrone (Auteur),‎ Philippe Martin (Auteur),‎ Bertrand Schatz (Auteur),‎ Les Ecologistes de l'Euzière (Auteur)](https://www.amazon.fr/Strat%C3%A9gies-v%C3%A9g%C3%A9tales-arrangements-grandes-manoeuvres/dp/2906128287?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=2906128287)
 * [Change the World Without Taking Power](https://en.wikipedia.org/wiki/Change_the_World_Without_Taking_Power)
 * [Libres savoirs : les biens communs de la connaissance](https://tempsdescommuns.org/libres-savoirs/)
+- http://editionslibertalia.fr/catalogue/nautre-ecole/12-la-joie-du-dehors
 * http://www.piecesetmaindoeuvre.com/spip.php?page=resume&id_article=960
 * [Stratégies végétales, petits arrangements et grandes manoeuvres](https://www.amazon.fr/Strat%C3%A9gies-v%C3%A9g%C3%A9tales-arrangements-grandes-manoeuvres/dp/2906128287)
 * [La symbiose](https://www.amazon.fr/symbiose-Marc-Andr%C3%A9-Selosse/dp/2711752836)
