@@ -1,6 +1,3 @@
-- mercredi 10 juillet direction Bourges
-- jeudi 11 juillet rencontre MFozeu
----
 - lundi 15 réunion DNE
 - mardi 16 direction Tarbes
 - dimanche 21 rdv anniversaire Hugo à coté de Muret
