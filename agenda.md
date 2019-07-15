@@ -1,4 +1,3 @@
-- lundi 15 14h-15h30 au 110BisLab - réunion DNE
 - mardi 16 direction Tarbes
 - dimanche 21 rdv anniversaire Hugo à coté de Muret
 ---
