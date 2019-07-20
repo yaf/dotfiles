@@ -1,4 +1,3 @@
-- vendredi 19 12 - 14h30 debrief week-end oisiflorus CAE
 - dimanche 21 rdv anniversaire Hugo à coté de Muret
 ---
 - lundi 22 départ pour Crest à préparer
