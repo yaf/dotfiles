@@ -16,6 +16,7 @@
 - Faire un exercice de fonction calisthenics https://codurance.com/2017/10/12/functional-calisthenics/
 - http://imagotv.fr/php/movie.php?type_id=documentary&content_id=ni_dieu_ni_maitre&section_id=movie&episod_id=1
 - L’Arbre-Monde de Richard Powers
+- https://www.liberatingstructures.fr/principes-des-ls/
 - https://editionslibre.org/produit/prevente-comment-la-non-violence-protege-l-etat-peter-gelderloos/
 - Faire un exercice d'objet calisthenics https://williamdurand.fr/2013/06/03/object-calisthenics/
 - http://greaterthanorequalto.net/ Inspiration, un petit air commun avec [Natural Language Form](https://tympanus.net/Tutorials/NaturalLanguageForm/) ?
