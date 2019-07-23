@@ -1,7 +1,3 @@
-- dimanche 21 rdv anniversaire Hugo à coté de Muret
----
-- lundi 22 départ pour Crest à préparer
-- mercredi 24 départ pour Miribel
 ---
 - lundi 29 départ pour Crest ?
 ---
