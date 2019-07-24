@@ -1,5 +1,6 @@
 ---
-- lundi 29 départ pour Crest ?
+- lundi 29 juillet départ pour Crest ?
+- lundi 29 juillet à 10h
 ---
 - vendredi 2 août Girls Camp chateau éphémère
 ---
