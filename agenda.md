@@ -1,6 +1,7 @@
 ---
 - lundi 29 juillet départ pour Crest ?
-- lundi 29 juillet à 10h
+- lundi 29 lecture loi à propos de la CAE
+- lundi 29 juillet de 17h à 19h Sabine et Philippe pour DossierSCO
 ---
 - vendredi 2 août Girls Camp chateau éphémère
 ---
