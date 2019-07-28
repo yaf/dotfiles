@@ -1,6 +1,6 @@
 ---
+- lundi 29 matin lecture loi à propos de la CAE
 - lundi 29 juillet départ pour Crest
-- lundi 29 lecture loi à propos de la CAE
 - lundi 29 juillet de 17h à 19h Sabine et Philippe pour DossierSCO
 - mardi 30 Crest
 - mercredi 31 Crest -> Miribel
