@@ -10,7 +10,9 @@
 ---
 - mercredi 7 départ pour Poissy
 ---
-- mardi 13 et mercredi 14 Fécamp pour DataTrust
+- mardi 13 août Rouen pour DataTrust
+---
+- mardi 20 août Rouen pour DataTrust
 ---
 - octobre : Mallaret, planter des arbres (vérifier avec Manu)
 - 16 et 17 octobre https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
