@@ -80,6 +80,14 @@
 
 ## Livres
 
+* https://www.syllepse.net/afro-communautaire-_r_37_i_786.html
+* https://www.syllepse.net/les-dispensaires-autogeres-grecs-_r_25_i_673.html
+* https://www.syllepse.net/sur-les-chemins-de-l-emancipation-l-autogestion-_r_64_i_759.html
+* https://www.syllepse.net/la-liberte-contre-le-destin-_r_76_i_701.html
+* https://www.syllepse.net/pour-une-ecole-emancipatrice-_r_98_i_528.html
+* https://www.syllepse.net/apprendre-a-transgresser-_r_62_pageid_2_i_776.html
+* https://www.syllepse.net/pistes-pour-une-agriculture-ecologique-et-sociale-_r_100_i_597.html
+* https://www.syllepse.net/dictionnaire-des-dominations-_r_76_i_532.html
 * https://www.tela-botanica.org/2019/06/botaniste/
 * Le municipalisme libertaire - La politique de l'écologie sociale Broché – 7 janvier 2014 de Janet Biehl
 * https://livre.fnac.com/a9455378/Alexander-samuel-Entropia
