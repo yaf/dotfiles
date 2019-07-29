@@ -13,6 +13,8 @@
 - mardi 13 août Rouen pour DataTrust
 ---
 - mardi 20 août Rouen pour DataTrust
+- mardi 20 août atelier métric
+- mercredi 21 août atelier métric
 ---
 - octobre : Mallaret, planter des arbres (vérifier avec Manu)
 - 16 et 17 octobre https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
