@@ -1,10 +1,8 @@
 ---
-- lundi 29 matin lecture loi à propos de la CAE
-- lundi 29 juillet départ pour Crest
-- lundi 29 juillet de 17h à 19h Sabine et Philippe pour DossierSCO
-- mardi 30 Crest
 - mercredi 31 Crest -> Miribel
 - jeudi 1 marché à Saint Laurent du Pont
+- jeudi 1 appeller Souad au tel
+- jeudi 1 point avec Philippe ?
 - vendredi 2 Annecy ?
 - vendredi 2 août Girls Camp chateau éphémère
 ---
