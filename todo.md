@@ -80,6 +80,9 @@
 
 ## Livres
 
+* https://www.babelio.com/livres/Thoreau-Walden-ou-La-vie-dans-les-bois/84891
+* https://www.amazon.fr/%C3%A9cologie-radicale-Ecologie-sociale-profonde/dp/2905691271
+* https://www.placedeslibraires.fr/livre/9782081428577
 * https://www.syllepse.net/afro-communautaire-_r_37_i_786.html
 * https://www.syllepse.net/les-dispensaires-autogeres-grecs-_r_25_i_673.html
 * https://www.syllepse.net/sur-les-chemins-de-l-emancipation-l-autogestion-_r_64_i_759.html
