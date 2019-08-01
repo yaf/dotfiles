@@ -80,6 +80,7 @@
 
 ## Livres
 
+* "La Botaniste de Damas" également réédité cette année, Simone Lafleuriel-Zakri
 * https://www.babelio.com/livres/Thoreau-Walden-ou-La-vie-dans-les-bois/84891
 * https://www.amazon.fr/%C3%A9cologie-radicale-Ecologie-sociale-profonde/dp/2905691271
 * https://www.placedeslibraires.fr/livre/9782081428577
