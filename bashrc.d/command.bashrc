@@ -8,6 +8,7 @@ gitfactu(){ git log --grep="^FACTURE(.*)/i" | grep 'FACTURE' | sort;}
 
 todo() { ${EDITOR:-vi} ~/.config/dotfiles/todo.md; commitAndPush; }
 agenda() { ${EDITOR:-vi} ~/.config/dotfiles/agenda.md; commitAndPush; }
+livre() { ${EDITOR:-vi} ~/.config/dotfiles/livres.json; commitAndPush; }
 
 head -n 5 ~/.config/dotfiles/agenda.md
 echo "----8<-------8<-------8<-------8<-------8<-------8<-------8<-------8<-------"

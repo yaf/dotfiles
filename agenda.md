@@ -1,7 +1,4 @@
 ---
-- jeudi 1 point avec Philippe ?
-- vendredi 2 Annecy ?
-- vendredi 2 août Girls Camp chateau éphémère
 - samedi 3 pose de chasse abeille avec François ?
 - dimanche 4 récolte et extraction avec François ?
 ---
