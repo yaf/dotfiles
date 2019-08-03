@@ -6,5 +6,9 @@
   {
     auteur: ["Gaston Pineau", "Dominique Bachelart", "Dominique Cottereau", "Anne Moneyron"],
     titre: "Habiter la Terre : Ecoformation terrestre pour une conscience planétaire"
+  },
+  {
+    auteur: ["Christine Delphy"],
+    titre: "L'ennemi principal"
   }
 ]
