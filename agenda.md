@@ -1,5 +1,8 @@
-- mardi 6 visite sorcière ?
 - mercredi 7 départ pour Poissy
+- jeudi 8 août 16h amadou
+- jeudi 8 appel Souad
+- jeudi 8 après midi boutique ?
+- vendredi 9 Segur
 ---
 - mardi 13 août Rouen pour DataTrust
 - mercredi 14 rencontre des personnes encadrantes à Ada ?
