@@ -1,20 +1,18 @@
-- mercredi 7 départ pour Poissy
-- jeudi 8 août 16h amadou
-- jeudi 8 appel Souad
-- jeudi 8 après midi boutique ?
 - vendredi 9 Segur
 ---
+- lundi 12 segur
 - mardi 13 août Rouen pour DataTrust
-- mercredi 14 rencontre des personnes encadrantes à Ada ?
+- mercredi 14 segur
 - jeudi 15 rencontre des personnes encadrantes à Ada ?
-- vendredi 16 rencontre des personnes encadrantes à Ada ?
+- vendredi 16 segur / boutique ?
 ---
-- lundi 19 rencontre des personnes encadrantes à Ada ?
+- lundi 19 août segur
 - mardi 20 août Rouen pour DataTrust
 - mercredi 21 août 2019 14:30 – 16:30 Atelier métriques DossierSCO Segur
-- vendredi 23 rencontre des personnes encadrantes à Ada ?
+- vendredi 23 segur
 ---
-
+- lundi 2 septembre rentrée scolaire
+---
 - mardi 10 septembre 9h30 à 12h30 Réunion d'information Coopaname
 ---
 - octobre : Mallaret, planter des arbres (vérifier avec Manu)
