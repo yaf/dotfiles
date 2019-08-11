@@ -22,6 +22,12 @@
 
 
 
+- week-end du 5-6 octobre : réception des travaux de réfection de la toiture. Débroussaillage du champ, changement du tracé de la clôture.
+
+- week-end du 18-19-20 octobre : rencontre entre Geeks ! les copains bordelais de l'association Okiwi organisent une rencontre festive à Mallaret.
+
+- week-end du 1-2-3 novembre : plantage des arbres du verger 
+
 
 
 
