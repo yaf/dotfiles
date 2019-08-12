@@ -1,9 +1,8 @@
-- vendredi 9 Segur
----
 - lundi 12 segur
-- mardi 13 août Rouen pour DataTrust
+- mardi 13 août Rouen pour DataTrust 11h à la gare
+- mercredi 14 août from 10h30 à 12h Rencontre Dev at Salle 5.732, 20 Avenue de Ségur, 75007 Paris, France
 - mercredi 14 segur
-- jeudi 15 rencontre des personnes encadrantes à Ada ?
+- jeudi 15 rencontre des personnes encadrantes à Ada à la boutique
 - vendredi 16 segur / boutique ?
 ---
 - lundi 19 août segur
