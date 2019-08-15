@@ -1,6 +1,7 @@
 - mercredi 16h rdv manu boutique /uy7
 - jeudi 15 rencontre des personnes encadrantes à Ada à la boutique
 - vendredi 16 segur / boutique ?
+- vendredi 16 août 18h rdv stéph ?
 ---
 - lundi 19 août segur
 - lundi 19 août repas Julien / enercoop
