@@ -1,14 +1,10 @@
-- mercredi 16h rdv manu boutique /uy7
-- jeudi 15 rencontre des personnes encadrantes à Ada à la boutique
-- vendredi 16 segur / boutique ?
-- vendredi 16 août 18h rdv stéph ?
----
 - lundi 19 août segur
 - lundi 19 août repas Julien / enercoop
-- mardi 20 août Paris?/Rouen pour DataTrust
+- mardi 20 août Paris?/Rouen pour DaTrust
 - mardi 20 août 20h30 -> 22h30 Ada Tech School
 - mercredi 21 août 2019 14:30 – 16:30 Atelier métriques DossierSCO Segur
-- vendredi 23 segur
+- jeudi 22 août segur
+- vendredi 23 août segur
 ---
 - lundi 2 septembre rentrée scolaire
 - mardi ? août soirée Ada Tech School
