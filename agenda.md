@@ -8,15 +8,15 @@
 - vendredi 23 août segur/Ada Tech School ?
 ---
 - lundi 26 août ségur (?)
-à faire :
-- entretien Nicolas Lattemann ?
-- réunion Ada Tech School staff, encadrants, élèves (en soirée ?)
+- mardi 27 août 15h visio Michaël
+- mardi 27 août 16h amadou
 ---
 - lundi 2 septembre rentrée scolaire
-- mardi 3 août ? soirée réunion Ada Tech School
+- mardi 3 septembre ? soirée réunion Ada Tech School
+- mardi 3 septembre 16h amadou
 ---
 - mardi 10 septembre 9h30 à 12h30 Réunion d'information Coopaname
-- mardi ? août soirée Ada Tech School
+- mardi 10 septembre 16h amadou
 ---
 - 16 et 17 octobre https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
 - samedi 19 octobre de 10h à 13h Association Autogestion tiendra son Assemblée générale à l’Union syndicale Solidaires (31, rue de la Grange aux Belles 75010 Paris) 
