@@ -10,5 +10,8 @@
   {
     auteur: ["Christine Delphy"],
     titre: "L'ennemi principal"
-  }
+  },
+  {
+    auteur: ["Grégoire Chamayou"],
+    titre: "La société ingouvernable"
 ]
