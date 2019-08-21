@@ -1,11 +1,5 @@
-- lundi 19 août segur
-- lundi 19 août repas Julien / enercoop
-- lundi 19 août après midi entretien Ada Tech School
-- mardi 20 août Paris pour DaTrust
-- mardi 20 août 20h30 -> 22h30 Ada Tech School
-- mercredi 21 août 2019 14:30 – 16:30 Atelier métriques DossierSCO Segur
 - jeudi 22 août segur
-- vendredi 23 août segur/Ada Tech School ?
+- vendredi 23 août StationF
 ---
 - lundi 26 août ségur (?)
 - mardi 27 août 15h visio Michaël
