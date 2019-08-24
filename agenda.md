@@ -1,7 +1,5 @@
-- jeudi 22 août segur
-- vendredi 23 août StationF
----
-- lundi 26 août ségur (?)
+- lundi 26 août Entretien Ada Tech School jusqu'à 14h à StatioNF
+- lundi 26 août après midi segur ou point Chloé ?
 - mardi 27 août 15h visio Michaël
 - mardi 27 août 16h amadou
 ---
