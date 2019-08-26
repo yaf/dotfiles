@@ -1,6 +1,3 @@
-- lundi 26 août Entretien Ada Tech School jusqu'à 14h à StatioNF
-- lundi 26 août après midi segur ou point Chloé ?
-- lundi 26 août visio David ?
 - mardi 27 août 15h visio Michaël
 - mardi 27 août 16h amadou
 ---
@@ -10,6 +7,7 @@
 ---
 - mardi 10 septembre 9h30 à 12h30 Réunion d'information Coopaname
 - mardi 10 septembre 16h amadou
+- samedi 14 septembre crémaillère Cyd
 ---
 - mardi 17 septembre 16h amadou
 - mercredi 18 septembre 10h-12h ou 14h-16h « Amander son sol »  Centre de Jardins Jardinot 2 avenue Georges Politzer 78190 TRAPPES https://www.tela-botanica.org/2019/08/amender-son-sol-nourrir-la-plante/
