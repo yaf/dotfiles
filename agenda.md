@@ -1,5 +1,6 @@
 - mardi 27 août 15h visio Michaël
 - mardi 27 août 16h amadou
+- mercredi 28 août 10h Isabelle DEPOILLY Oeben
 ---
 - lundi 2 septembre rentrée scolaire
 - mardi 3 septembre ? soirée réunion Ada Tech School
