@@ -14,8 +14,15 @@
   {
     auteur: ["Grégoire Chamayou"],
     titre: "La société ingouvernable"
-  }
-  [
+  },
+  {
     auteur: ["Isabelle Collet"],
-    titre: "Les oubliées du numérique"
+      titre: "Les oubliées du numérique"
+  },
+  {
+    auteur: ["Matteo Papantuono", "Claudette Portelli", "Padraic Gibson"],
+      titre: "Vaincre sans combattre"
+  },
+
+
 ]
