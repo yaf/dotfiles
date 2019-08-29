@@ -14,4 +14,8 @@
   {
     auteur: ["Grégoire Chamayou"],
     titre: "La société ingouvernable"
+  }
+  [
+    auteur: ["Isabelle Collet"],
+    titre: "Les oubliées du numérique"
 ]
