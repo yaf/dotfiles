@@ -23,6 +23,15 @@
     auteur: ["Matteo Papantuono", "Claudette Portelli", "Padraic Gibson"],
       titre: "Vaincre sans combattre"
   },
+  {
+    titre: "Apprendre à transgresser",
+    url: "https://m-editeur.info/apprendre-a-transgresser-leducation-comme-pratique-de-la-liberte/",
+    auteur: ["bell hooks"]
+  },
+  {
+    titre: " Qu’est-ce que l’écologie sociale ?",
+    url: "http://www.atelierdecreationlibertaire.com/Qu-est-ce-que-l-ecologie-sociale,756.html",
+    auteur: ["Murray Bookchin"]
 
-
+  }
 ]
