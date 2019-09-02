@@ -1,14 +1,9 @@
-- mardi 27 août 15h visio Michaël
-- mardi 27 août 16h amadou
-- mercredi 28 août 10h Isabelle DEPOILLY Oeben
----
-- lundi 2 septembre rentrée scolaire
-- mardi 3 septembre ? soirée réunion Ada Tech School
+- mardi 3 septembre Maison ou Boutique ?
 - mardi 3 septembre 16h amadou
 - jeudi 5 septembre DaTrust ? discussion rapport / score
+- mardi 5 septembre 18h30 soirée réunion Ada Tech School
 - vendredi 5 septembre DaTrust ? discussion rapport / score
 ---
-
 - mardi 10 septembre 9h30 à 12h30 Réunion d'information Coopaname
 - mardi 10 septembre 16h amadou
 - samedi 14 septembre crémaillère Cyd
