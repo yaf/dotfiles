@@ -12,6 +12,8 @@
 - mercredi 18 septembre 10h-12h ou 14h-16h « Amander son sol »  Centre de Jardins Jardinot 2 avenue Georges Politzer 78190 TRAPPES https://www.tela-botanica.org/2019/08/amender-son-sol-nourrir-la-plante/
 - 20 septembre Numérique et Travail maison des syndicats bâtiment central salle F 1 place de la gare de l'état NANTES https://twitter.com/CGTNantesMetro/status/1167764641528918016
 ---
+- mercredi 25 septembre de 10h30 à 12h00 à Segur (salle à confirmer) Club des intra
+---
 - 16 et 17 octobre https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
 - samedi 19 octobre de 10h à 13h Association Autogestion tiendra son Assemblée générale à l’Union syndicale Solidaires (31, rue de la Grange aux Belles 75010 Paris) 
 ---
