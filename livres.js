@@ -33,5 +33,22 @@
     url: "http://www.atelierdecreationlibertaire.com/Qu-est-ce-que-l-ecologie-sociale,756.html",
     auteur: ["Murray Bookchin"]
 
+  },
+  {
+    titre: "La Vie secrète des arbres",
+    auteur: ["Peter Wohlleben"]
+  },
+  {
+    titre: "A contre-courant : entretiens",
+    auteur: ["Jacques Ellul"],
+  },
+  {
+    titre: "Tiers-lieux, fablab, hackerspaces. Et plus si affinités",
+    auteur: ["Antoine Burret"]
+  },
+  {
+    titre: "Qu'est-ce que l'approche narrative ?: Une brève introduction pour tous",
+    auteur: ["Alice Morgan"]
   }
 ]
+
