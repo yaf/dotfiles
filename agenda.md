@@ -1,9 +1,7 @@
-- mardi 3 septembre Maison
-- mardi 3 septembre 16h amadou
 - mercredi 4 septembre Segur
 - jeudi 5 septembre DaTrust ? discussion rapport / score
 - jeudi 5 septembre 18h30 soirée réunion Ada Tech School
-- vendredi 5 septembre DaTrust ? discussion rapport / score
+- vendredi 6 septembre 11h boutique /ut7 AO Dinsic Coach
 ---
 - mardi 10 septembre 9h30 à 12h30 Réunion d'information Coopaname
 - mardi 10 septembre 16h amadou
