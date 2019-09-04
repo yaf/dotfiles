@@ -3,6 +3,7 @@
 - jeudi 5 septembre 18h30 soirée réunion Ada Tech School
 - vendredi 6 septembre 11h boutique /ut7 AO Dinsic Coach
 ---
+- mardi 10 septembre 12h30 repas Alban discussion CTO open source
 - mardi 10 septembre 16h amadou
 - samedi 14 septembre crémaillère Cyd
 ---
