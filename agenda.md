@@ -1,4 +1,3 @@
-- mercredi 4 septembre Segur
 - jeudi 5 septembre DaTrust ? discussion rapport / score
 - jeudi 5 septembre 18h30 soirée réunion Ada Tech School
 - vendredi 6 septembre 11h boutique /ut7 AO Dinsic Coach
