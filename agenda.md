@@ -1,7 +1,6 @@
-- jeudi 5 septembre Descodeuses 9h30 petits carreaux
-- jeudi 5 septembre DaTrust ? discussion rapport / score
 - jeudi 5 septembre 18h30 soirée réunion Ada Tech School
 - vendredi 6 septembre 11h boutique /ut7 AO Dinsic Coach
+- vendredi 6 septembre facture Datransition
 ---
 - mardi 10 septembre 12h30 repas Alban discussion CTO open source
 - mardi 10 septembre 16h amadou
