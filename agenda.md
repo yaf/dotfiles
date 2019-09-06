@@ -2,6 +2,8 @@
 - vendredi 6 septembre facture Datransition
 - vendredi 6 septembre Sosh
 ---
+- lundi 9 septembre 110bis
+- lundi 9 septembre 12h30 rdv Sonia
 - mardi 10 septembre matin Station F pour rencontre CPE ?
 - mardi 10 septembre 12h30 repas Alban discussion CTO open source
 - mardi 10 septembre 16h amadou
