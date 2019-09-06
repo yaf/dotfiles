@@ -1,9 +1,13 @@
-- jeudi 5 septembre 18h30 soirée réunion Ada Tech School
 - vendredi 6 septembre 11h boutique /ut7 AO Dinsic Coach
 - vendredi 6 septembre facture Datransition
+- vendredi 6 septembre Sosh
 ---
+- mardi 10 septembre matin Station F pour rencontre CPE ?
 - mardi 10 septembre 12h30 repas Alban discussion CTO open source
 - mardi 10 septembre 16h amadou
+- mercredi 11 septembre 18h rencontre Ada
+- jeudi 12 septembre rdv Gilles Berg
+- jeudi 12 septembre 16h30 rdv Aulnay
 - samedi 14 septembre crémaillère Cyd
 ---
 - mardi 17 septembre 16h amadou
