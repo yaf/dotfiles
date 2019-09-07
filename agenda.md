@@ -29,6 +29,7 @@
 - Vacance Scolaire du 19 octobre au 4 novembre
 - week-end du 1-2-3 novembre : plantage des arbres du verger de Mallarret
 ---
+- mardi 12 novembre 2019 jury BNC
 - 16 & 17 novembre, ENSEEIHT, Toulouse Capitole du Libre 2019 https://capitoledulibre.org/
 
 
