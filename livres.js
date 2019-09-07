@@ -17,11 +17,11 @@
   },
   {
     auteur: ["Isabelle Collet"],
-      titre: "Les oubliées du numérique"
+    titre: "Les oubliées du numérique"
   },
   {
     auteur: ["Matteo Papantuono", "Claudette Portelli", "Padraic Gibson"],
-      titre: "Vaincre sans combattre"
+    titre: "Vaincre sans combattre"
   },
   {
     titre: "Apprendre à transgresser",
@@ -49,6 +49,24 @@
   {
     titre: "Qu'est-ce que l'approche narrative ?: Une brève introduction pour tous",
     auteur: ["Alice Morgan"]
-  }
+  },
+  {
+    titre: "Je sais pourquoi chante l'oiseau en cage",
+    auteur: ["Maya Angelou"]
+    deja_lu: "?",
+  },
+  {
+    titre: "Sous les branches de l'udala",
+    auteur: ["Chinelo OKPARANTA"]
+  },
+  {
+    titre: "Le deuxième sexe, tome 1",
+    auteur: ["Simone de Beauvoir"]
+  },
+  {
+    titre: "Le deuxième sexe, tome 2",
+    auteur: ["Simone de Beauvoir"]
+  },
 ]
+
 
