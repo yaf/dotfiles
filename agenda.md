@@ -6,6 +6,7 @@
 - lundi 9 septembre 12h30 rdv Sonia
 - mardi 10 septembre matin Station F pour rencontre CPE ?
 - mardi 10 septembre 12h30 repas Alban discussion CTO open source
+- mardi 10 septembre 15h David B. logiciel libre & co
 - mardi 10 septembre 16h amadou
 - mardi 10 septembre 17h...
 - mercredi 11 septembre 11h ... ou 13h30 -> 16h
