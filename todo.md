@@ -80,8 +80,16 @@
 
 ## Livres
 
-* "L'herboriste andalou"  également réédité cette année, Simone Lafleuriel-Zakri
+En attente sur https://www.recyclivre.com
 * "La Botaniste de Damas" également réédité cette année, Simone Lafleuriel-Zakri
+* [Penser par sois même](http://www.eclm.fr/ouvrage-383.html)
+* [Surveiller et punir](https://fr.wikipedia.org/wiki/Surveiller_et_punir) de Michel Foucault
+* [Une société sans école](https://www.amazon.fr/soci%C3%A9t%C3%A9-sans-%C3%A9cole-Ivan-Illich/dp/2757850083)
+
+Pas touvé sur https://www.recyclivre.com
+* "L'herboriste andalou"  également réédité cette année, Simone Lafleuriel-Zakri
+* [Voyage en misarchie](http://editionsdudetour.com/index.php/les-livres/voyage-en-misarchie/)
+
 * https://www.babelio.com/livres/Thoreau-Walden-ou-La-vie-dans-les-bois/84891
 * https://www.placedeslibraires.fr/livre/9782081428577
 * https://www.syllepse.net/afro-communautaire-_r_37_i_786.html
@@ -102,12 +110,9 @@
 * https://www.babelio.com/livres/Ba-Un-chant-ecarlate/118778
 * https://www.franceculture.fr/oeuvre/le-ventre-des-femmes-capitalisme-racialisation-feminisme
 * https://fr.m.wikipedia.org/wiki/Bolo%27bolo
-* [Penser par sois même](http://www.eclm.fr/ouvrage-383.html)
-* [Sentir-penser avec la Terre, Arturo Escobar]()
+* [Sentir-penser avec la Terre](http://www.seuil.com/ouvrage/sentir-penser-avec-la-terre-arturo-escobar/9782021389852)
 * [Sébastien Faure Et "La Ruche" Ou L'éducation Libertaire - Roland Lewin](https://www.priceminister.com/offer/buy/577123/Lewin-Sebastien-Faure-Et-Ruche-Livre.html)
 * [Vivre ma vie. Une anarchiste au temps des révolutions](https://www.lechappee.org/agenda/vivre-ma-vie-une-anarchiste-au-temps-des-revolutions-7)
-* [Sentir-penser avec la Terre](http://www.seuil.com/ouvrage/sentir-penser-avec-la-terre-arturo-escobar/9782021389852)
-* [Surveiller et punir](https://fr.wikipedia.org/wiki/Surveiller_et_punir) de Michel Foucault
 * [Le Changement climatique expliqué à ma fille](http://www.seuil.com/ouvrage/le-changement-climatique-explique-a-ma-fille-jean-marc-jancovici/9782020965972)
 * [Le capitalisme expliqué à ma petite fille en espérant qu'elle en voie la fin](http://www.seuil.com/ouvrage/le-capitalisme-explique-a-ma-petite-fille-jean-ziegler/9782021397222)
 * [Livres enfants éducation](https://www.auxeditionsduphare.com/)
@@ -129,20 +134,16 @@
 * [Un monde sans hiver Francis Hallé](http://www.seuil.com/ouvrage/un-monde-sans-hiver-francis-halle/9782757838242)
 * [Éducation libertaire par l'auteur Hugues Lenoir](http://www.hugueslenoir.fr/presentation/)
 * [Du bon usage de la pédagogie](https://www.icem-pedagogie-freinet.org/node/50934)
-* [Faire des hommes libre, boimondeau](http://editionsrepas.free.fr/editions-repas-livre-boimondau.html)
 * [Dormez tranquille jusqu'en 2100](https://www.odilejacob.fr/catalogue/sciences/environnement-developpement-durable/dormez-tranquilles-jusquen-2100_9782738132529.php)
 * [La permaculture de Sepp Holzer](https://librairie-permaculturelle.fr/jardin-foret/2-livre-la-permaculture-de-sepp-holzer.html)
 * [Fernand Pelloutier et les Origines du syndicalisme d'action directe](http://www.seuil.com/ouvrage/fernand-pelloutier-et-les-origines-du-syndicalisme-d-action-directe-jacques-julliard/9782020026710)
-* [Voyage en misarchie](http://editionsdudetour.com/index.php/les-livres/voyage-en-misarchie/)
 * [L'agroécologie](https://librairie-permaculturelle.fr/agroecologie/48-livre-l-agroecologie-miguel-altieri.html)
 * [Logique de l'action collective](https://www.amazon.fr/Logique-laction-collective-Mancur-Olson/dp/2800415029)
 * [Commun village](http://editionsrepas.free.fr/editions-repas-livre-commun-village.html)
 * [Introduction à la Permaculture](http://www.passerelleco.info/article.php?id_article=1708)
-* [Une société sans école](https://www.amazon.fr/soci%C3%A9t%C3%A9-sans-%C3%A9cole-Ivan-Illich/dp/2757850083)
 * [La fin de l'éducation ? Commencements... ](https://www.babelio.com/livres/Lepri-La-fin-de-leducation--Commencements/521383)
 * [Permaculture : le guide pour bien débuter : Jardiner en imitant la nature](https://www.amazon.fr/Permaculture-d%C3%A9buter-Jardiner-imitant-nature/dp/2815306174)
 * [La révolte luddite : Briseurs de machines à l'ère de l'industrialisation Kirkpatrick Sale]()
-* [Le macrosope](https://fr.wikipedia.org/wiki/Le_Macroscope)
 
 
 ## Les brevets de Célestin Freinet
