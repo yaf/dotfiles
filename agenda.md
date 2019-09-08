@@ -1,7 +1,3 @@
-- vendredi 6 septembre 11h boutique /ut7 AO Dinsic Coach
-- vendredi 6 septembre facture Datransition
-- vendredi 6 septembre Sosh
----
 - lundi 9 septembre 110bis
 - lundi 9 septembre 12h30 rdv Sonia
 - mardi 10 septembre matin Station F pour rencontre CPE ?
@@ -17,7 +13,6 @@
 ---
 - mardi 17 septembre 16h amadou
 - mercredi 18 septembre 10h-12h ou 14h-16h « Amander son sol »  Centre de Jardins Jardinot 2 avenue Georges Politzer 78190 TRAPPES https://www.tela-botanica.org/2019/08/amender-son-sol-nourrir-la-plante/
-- 20 septembre Numérique et Travail maison des syndicats bâtiment central salle F 1 place de la gare de l'état NANTES https://twitter.com/CGTNantesMetro/status/1167764641528918016
 ---
 - mardi 24 septembre 17h apéro beta
 - mercredi 25 septembre de 10h30 à 12h00 à Segur (salle à confirmer) Club des intra
