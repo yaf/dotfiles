@@ -1,4 +1,3 @@
-- lundi 9 septembre 17h30 Teatime Noémie
 - mardi 10 septembre matin Station F pour rencontre CPE ?
 - mardi 10 septembre 12h30 repas Alban discussion CTO open source
 - mardi 10 septembre 15h David B. logiciel libre & co
