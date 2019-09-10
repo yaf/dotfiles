@@ -12,6 +12,7 @@
 - mardi 17 septembre 16h amadou
 - mercredi 18 septembre 10h-12h ou 14h-16h « Amander son sol »  Centre de Jardins Jardinot 2 avenue Georges Politzer 78190 TRAPPES https://www.tela-botanica.org/2019/08/amender-son-sol-nourrir-la-plante/
 ---
+- lundi 23 septembre 12h30 repas Fabien
 - mardi 24 septembre 17h apéro beta
 - mercredi 25 septembre de 10h30 à 12h00 à Segur (salle à confirmer) Club des intra
 - du 30 septembre au 6 octobre https://paris-luttes.info/festival-des-cantines-autogerees-a-12465
