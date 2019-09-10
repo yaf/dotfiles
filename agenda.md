@@ -1,9 +1,4 @@
-- mardi 10 septembre matin Station F pour rencontre CPE ?
-- mardi 10 septembre 12h30 repas Alban discussion CTO open source
-- mardi 10 septembre 15h David B. logiciel libre & co
-- mardi 10 septembre 16h amadou
-- mardi 10 septembre 17h...
-- mercredi 11 septembre 11h ... ou 13h30 -> 16h
+- mercredi 11 septembre 10h15 rdv tel aO coach
 - mercredi 11 septembre 18h rencontre Ada
 - jeudi 12 septembre rdv Gilles Berg
 - jeudi 12 17h à la felicita Chloe Robles
@@ -14,6 +9,7 @@
 ---
 - lundi 23 septembre 12h30 repas Fabien
 - mardi 24 septembre 17h apéro beta
+- mardi 24 septembre 12h30 repas Alban discussion CTO open source
 - mercredi 25 septembre de 10h30 à 12h00 à Segur (salle à confirmer) Club des intra
 - du 30 septembre au 6 octobre https://paris-luttes.info/festival-des-cantines-autogerees-a-12465
 ---
