@@ -6,7 +6,7 @@
 - mercredi 11 septembre 11h ... ou 13h30 -> 16h
 - mercredi 11 septembre 18h rencontre Ada
 - jeudi 12 septembre rdv Gilles Berg
-- jeudi 12 septembre 16h30 rdv Aulnay
+- jeudi 12 17h à la felicita Chloe Robles
 - samedi 14 septembre crémaillère Cyd
 ---
 - mardi 17 septembre 16h amadou
