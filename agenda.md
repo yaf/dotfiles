@@ -4,6 +4,7 @@
 - jeudi 12 17h à la felicita Chloe Robles
 - samedi 14 septembre crémaillère Cyd
 ---
+- mardi 17 septembre 14h grenelle men rdv dossiersco
 - mardi 17 septembre 16h amadou
 - mercredi 18 septembre 10h-12h ou 14h-16h « Amander son sol »  Centre de Jardins Jardinot 2 avenue Georges Politzer 78190 TRAPPES https://www.tela-botanica.org/2019/08/amender-son-sol-nourrir-la-plante/
 ---
