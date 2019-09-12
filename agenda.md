@@ -1,8 +1,6 @@
-- jeudi 12 septembre rdv Gilles Berg
-- jeudi 12 17h pix miromesnil
-- jeudi 12 18h30 à la felicita Chloe Robles
 - samedi 14 septembre crémaillère Cyd
 ---
+- Chloe Robles
 - mardi 17 10h pix
 - mardi 17 septembre 14h grenelle men rdv dossiersco
 - mardi 17 septembre 16h amadou
