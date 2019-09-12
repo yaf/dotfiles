@@ -8,8 +8,8 @@
 - jeudi 19 septembre 2019 à 18h30 LIEU : salle des mariages de la mairie de Poissy
 ---
 - lundi 23 septembre 12h30 repas Fabien
-- mardi 24 septembre 17h apéro beta
 - mardi 24 septembre 12h30 repas Alban discussion CTO open source
+- mardi 24 septembre 18h réunion maternelle Abbaye
 - mercredi 25 septembre de 10h30 à 12h00 à Segur (salle à confirmer) Club des intra
 - du 30 septembre au 6 octobre https://paris-luttes.info/festival-des-cantines-autogerees-a-12465
 ---
