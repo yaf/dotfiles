@@ -73,3 +73,5 @@
 
 La Ligne de Couleur de W.E.B. du Bois - Representer l Amerique Noire au Tournant du Xxe Siecle Broché – 22 novembre 2019
 de Collectif/Morris (Auteur) 
+
+https://www.editionsladecouverte.fr/catalogue/index-Les_Noirs_de_Philadelphie-9782348043482.html
