@@ -75,3 +75,8 @@ La Ligne de Couleur de W.E.B. du Bois - Representer l Amerique Noire au Tournant
 de Collectif/Morris (Auteur) 
 
 https://www.editionsladecouverte.fr/catalogue/index-Les_Noirs_de_Philadelphie-9782348043482.html
+
+
+Murray Bookchin
+Changer sa vie sans changer le monde
+L’anarchisme contemporain entre émancipation individuelle et révolution sociale
