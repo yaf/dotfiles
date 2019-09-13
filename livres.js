@@ -70,3 +70,6 @@
 ]
 
 
+
+La Ligne de Couleur de W.E.B. du Bois - Representer l Amerique Noire au Tournant du Xxe Siecle Broché – 22 novembre 2019
+de Collectif/Morris (Auteur) 
