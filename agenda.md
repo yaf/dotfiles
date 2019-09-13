@@ -1,11 +1,10 @@
 - samedi 14 septembre crémaillère Cyd
 ---
-
 - mardi 17 10h pix
 - mardi 17 septembre 14h grenelle men rdv dossiersco
 - mardi 17 septembre 16h amadou
 - mercredi 18 septembre 10h-12h ou 14h-16h « Amander son sol »  Centre de Jardins Jardinot 2 avenue Georges Politzer 78190 TRAPPES https://www.tela-botanica.org/2019/08/amender-son-sol-nourrir-la-plante/
-- jeudi 19 septembre 2019 à 18h30 LIEU : salle des mariages de la mairie de Poissy
+- jeudi 19 septembre 2019 à 18h30 LIEU : salle des mariages de la mairie de Poissy Conservatoire
 ---
 - lundi 23 septembre 12h30 repas Fabien
 - mardi 24 septembre 12h30 repas Alban discussion CTO open source
