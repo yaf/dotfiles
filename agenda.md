@@ -1,14 +1,12 @@
-- samedi 14 septembre crémaillère Cyd
----
 - lundi 16 9h30 le pain quotidien St Lazare Chloé Robles
 - mardi 17 10h pix
 - mardi 17 septembre 14h grenelle men rdv dossiersco
 - mardi 17 septembre 16h amadou
-- mercredi 18 septembre 10h-12h ou 14h-16h « Amander son sol »  Centre de Jardins Jardinot 2 avenue Georges Politzer 78190 TRAPPES https://www.tela-botanica.org/2019/08/amender-son-sol-nourrir-la-plante/
+- mercredi 18 séminaire bgv
 - jeudi 19 septembre 2019 à 18h30 LIEU : salle des mariages de la mairie de Poissy Conservatoire
 ---
+- lundi 23 septembre 12h30 repas Alban discussion CTO open source
 - lundi 23 septembre 12h30 repas Fabien
-- mardi 24 septembre 12h30 repas Alban discussion CTO open source
 - mardi 24 septembre 18h réunion maternelle Abbaye
 - mercredi 25 septembre de 10h30 à 12h00 à Segur (salle à confirmer) Club des intra
 - du 30 septembre au 6 octobre https://paris-luttes.info/festival-des-cantines-autogerees-a-12465
