@@ -80,3 +80,9 @@ https://www.editionsladecouverte.fr/catalogue/index-Les_Noirs_de_Philadelphie-97
 Murray Bookchin
 Changer sa vie sans changer le monde
 L’anarchisme contemporain entre émancipation individuelle et révolution sociale
+
+
+
+Joëlle Zask, Introduction à John Dewey
+Lionel Francou
+
