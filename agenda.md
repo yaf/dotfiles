@@ -2,6 +2,7 @@
 - mardi 17 10h pix
 - mardi 17 septembre 14h grenelle men rdv dossiersco
 - mardi 17 septembre 16h amadou
+- mardi 17 à 18h plutôt vers Opéra
 - mercredi 18 séminaire bgv
 - jeudi 19 septembre 2019 à 18h30 LIEU : salle des mariages de la mairie de Poissy Conservatoire
 ---
