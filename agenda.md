@@ -5,6 +5,7 @@
 - mardi 17 à 18h plutôt vers Opéra
 - mercredi 18 séminaire bgv
 - jeudi 19 septembre 2019 à 18h30 LIEU : salle des mariages de la mairie de Poissy Conservatoire
+- vendredi 20 17h gare de lyon rdv parents Adriel
 ---
 - lundi 23 septembre 12h30 repas Alban discussion CTO open source
 - mardi 24 septembre 18h réunion maternelle Abbaye
