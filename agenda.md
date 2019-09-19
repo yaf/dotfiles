@@ -1,9 +1,8 @@
-- mercredi 18 séminaire bgv
-- jeudi 19 septembre 2019 à 18h30 LIEU : salle des mariages de la mairie de Poissy Conservatoire
 - vendredi 20 boutique, réponse appel d'offre dinsic
 - vendredi 20 17h gare de lyon rdv parents Adriel
 ---
 - lundi 23 septembre 12h30 repas Alban discussion CTO open source
+- lundi 23 septembre 16h segur rdv FLorian
 - mardi 24 septembre 18h réunion maternelle Abbaye
 - mercredi 25 septembre de 10h30 à 12h00 à Segur (salle à confirmer) Club des intra
 - du 30 septembre au 6 octobre https://paris-luttes.info/festival-des-cantines-autogerees-a-12465
