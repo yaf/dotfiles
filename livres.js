@@ -86,3 +86,5 @@ L’anarchisme contemporain entre émancipation individuelle et révolution soci
 Joëlle Zask, Introduction à John Dewey
 Lionel Francou
 
+
+Sarah Vanuxem, La propriété de la terre, Wildproject, coll. « Le monde qui vient », Marseille, 2018, 144 p.
