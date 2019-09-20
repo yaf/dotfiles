@@ -1,6 +1,5 @@
-- vendredi 20 boutique, réponse appel d'offre dinsic
-- vendredi 20 17h gare de lyon rdv parents Adriel
----
+- lundi 23 septembre 9h30 appeler Chloé
+- lundi 23 septembre 10h30 appeler Souad
 - lundi 23 septembre 12h30 repas Alban discussion CTO open source
 - lundi 23 septembre 16h segur rdv FLorian
 - mardi 24 septembre 15h téléphone Michaël Fozeu
