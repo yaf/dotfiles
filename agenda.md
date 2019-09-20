@@ -3,10 +3,13 @@
 ---
 - lundi 23 septembre 12h30 repas Alban discussion CTO open source
 - lundi 23 septembre 16h segur rdv FLorian
+- mardi 24 septembre 15h téléphone Michaël Fozeu
+- mardi 24 septembre 16h amadou
 - mardi 24 septembre 18h réunion maternelle Abbaye
 - mercredi 25 septembre de 10h30 à 12h00 à Segur (salle à confirmer) Club des intra
 - du 30 septembre au 6 octobre https://paris-luttes.info/festival-des-cantines-autogerees-a-12465
 - vendredi 27 septembre 2019 10:00 – 12:00
+- vendredi 27 septembre remise cv et motiv pour le CBN ?
 ---
 - lundi 30 septembre 12h30 repas Fabien
 - 16 et 17 octobre https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
