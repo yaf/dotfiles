@@ -10,7 +10,7 @@
 - vendredi 27 septembre 2019 10:00 – 12:00
 - vendredi 27 septembre remise cv et motiv pour le CBN ?
 ---
-- lundi 30 septembre 12h30 repas Fabien
+- mercredi 2 octobre 12h30 repas Fabien
 - 16 et 17 octobre https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
 - samedi 19 octobre de 10h à 13h Association Autogestion tiendra son Assemblée générale à l’Union syndicale Solidaires (31, rue de la Grange aux Belles 75010 Paris) 
 ---
