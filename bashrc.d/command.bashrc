@@ -1,22 +1,25 @@
 
+elsif=~/Code/elsif.fr
+dotfiles=~/.config/dotfiles
+
 commitAndPush() {
-  cd ~/.config/dotfiles/ && git add -A && git commit -m "mise à jour" && git push; cd -
+  cd $dotfiles/ && git add -A && git commit -m "mise à jour" && git push; cd -
 }
 
 commitAndPushElsif() {
-  cd ~/Code/elsif.fr/ && git add -A && git commit -m "mise à jour de l'agenda" && git push; cd -
+  cd $elsif/ && git add -A && git commit -m "mise à jour de l'agenda" && git push; cd -
 }
 
 gitodo(){ git log --grep="^TODO" | grep 'TODO' | sort --unique;}
 gitfactu(){ git log --grep="^FACTURE(.*)/i" | grep 'FACTURE' | sort;}
 
-todo() { ${EDITOR:-vi} ~/.config/dotfiles/todo.md; commitAndPush; }
+todo() { ${EDITOR:-vi} $dotfiles/todo.md; commitAndPush; }
 
-agenda() { ${EDITOR:-vi} ~/Code/elsif.fr/agenda.md; commitAndPushElsif; }
+agenda() { ${EDITOR:-vi} $elsif/agenda.md; commitAndPushElsif; }
 
-livres() { ${EDITOR:-vi} ~/.config/dotfiles/livres.js; commitAndPush; }
+livres() { ${EDITOR:-vi} $dotfiles/livres.js; commitAndPush; }
 
-head -n 5 ~/.config/dotfiles/agenda.md
+head -n 5 $elsif/agenda.md
 echo "----8<-------8<-------8<-------8<-------8<-------8<-------8<-------8<-------"
-head -n 5 ~/.config/dotfiles/todo.md
+head -n 5 $dotfiles/todo.md
 
