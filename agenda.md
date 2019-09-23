@@ -1,6 +1,5 @@
-- lundi 23 septembre 10h30 appeler Souad
-- lundi 23 septembre 12h30 repas Alban discussion CTO open source
-- lundi 23 septembre 16h segur rdv FLorian
+- mardi 24 septembre lettre à Lucien
+- mardi 24 septembre lettre aux utilisateurs DossierSCO
 - mardi 24 septembre 15h téléphone Michaël Fozeu
 - mardi 24 septembre 16h amadou
 - mardi 24 septembre 18h réunion maternelle Abbaye
@@ -10,7 +9,9 @@
 - vendredi 27 septembre remise cv et motiv pour le CBN ?
 ---
 - mercredi 2 octobre 12h30 repas Fabien
-- 16 et 17 octobre https://www.learning-show.com/ Octobre 2019, Couvent des jacobins - Rennes   Explorons les apprentissages du futur  Pass 16 & 17 octobre : 190 € HT
+---
+- jeudi 10 octobre 19h Fabernovel 46 Rue Saint-Lazare 75009 Paris TF4Women : réseauter pour s'intégrer ! https://www.eventbrite.fr/e/billets-tf4women-reseauter-pour-sintegrer-72711212193
+---
 - samedi 19 octobre de 10h à 13h Association Autogestion tiendra son Assemblée générale à l’Union syndicale Solidaires (31, rue de la Grange aux Belles 75010 Paris) 
 ---
 - Vacance Scolaire du 19 octobre au 4 novembre
