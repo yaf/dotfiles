@@ -1,4 +1,3 @@
-- lundi 23 septembre 9h30 appeler Chloé
 - lundi 23 septembre 10h30 appeler Souad
 - lundi 23 septembre 12h30 repas Alban discussion CTO open source
 - lundi 23 septembre 16h segur rdv FLorian
