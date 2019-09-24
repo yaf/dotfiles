@@ -87,4 +87,9 @@ Joëlle Zask, Introduction à John Dewey
 Lionel Francou
 
 
-Sarah Vanuxem, La propriété de la terre, Wildproject, coll. « Le monde qui vient », Marseille, 2018, 144 p.
+Sarah Vanuxem, La propriété de la terre, Wildproject, coll. « Le monde qui vient », Marseille, 2018, 144 p
+
+
+https://www.parislibrairies.fr/livre/9782841389216-la-foret-jardin-martin-crawford/
+
+https://www.foretpriveefrancaise.com/publications/voir/477
