@@ -1,17 +1,35 @@
 
 elsif=~/Code/elsif.fr
 
-commitAndPushElsif() {
-  cd $elsif/ && git add -A && git commit -m "mise à jour automatique" && git push; cd -
+commitCommentAndPush() {
+  cd $elsif/ && git add -A && git commit && git push; cd -
 }
 
-gitodo(){ git log --grep="^TODO" | grep 'TODO' | sort --unique;}
+commitCommentUpdateAndPush() {
+  cd $elsif/ && git add -A && git commit -m "mise à jour" && git push; cd -
+}
+
+gitodo() {
+  git log --grep="^TODO" | grep 'TODO' | sort --unique;
+}
+
 gitfactu(){ git log --grep="^FACTURE(.*)/i" | grep 'FACTURE' | sort;}
 
-todo() { ${EDITOR:-vi} $elsif/todo.md; }
-agenda() { ${EDITOR:-vi} $elsif/agenda.md; }
-livres() { ${EDITOR:-vi} $elsif/livres.js; }
-journal() { ${EDITOR:-vi} ~/Scopyleft/le-jardin/journaux/`date +%Y`-`date +%m`-yannick.md; }
+todo() {
+  ${EDITOR:-vi} $elsif/todo.md && commitCommentAndPush
+}
+
+agenda() {
+  ${EDITOR:-vi} $elsif/agenda.md && commitCommentUpdateAndPush
+}
+
+livres() {
+  ${EDITOR:-vi} $elsif/livres.js && commitCommentAndPush
+}
+
+journal() {
+  ${EDITOR:-vi} ~/Scopyleft/le-jardin/journaux/`date +%Y`-`date +%m`-yannick.md; commitCommentAndPush
+}
 
 head -n 5 $elsif/agenda.md
 echo "----8<-------8<-------8<-------8<-------8<-------8<-------8<-------8<-------"
