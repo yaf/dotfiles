@@ -27,10 +27,6 @@ livres() {
   ${EDITOR:-vi} $elsif/livres.js && commitCommentAndPush
 }
 
-journal() {
-  ${EDITOR:-vi} ~/Scopyleft/le-jardin/journaux/`date +%Y`-`date +%m`-yannick.md; commitCommentAndPush
-}
-
 head -n 5 $elsif/agenda.md
 echo "----8<-------8<-------8<-------8<-------8<-------8<-------8<-------8<-------"
 head -n 5 $elsif/todo.md
