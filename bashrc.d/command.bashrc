@@ -9,25 +9,19 @@ commitCommentUpdateAndPush() {
   cd $elsif/ && git add -A && git commit -m "mise à jour" && git push; cd -
 }
 
-gitodo() {
-  git log --grep="^TODO" | grep 'TODO' | sort --unique;
-}
-
-gitfactu(){ git log --grep="^FACTURE(.*)/i" | grep 'FACTURE' | sort;}
-
 todo() {
-  ${EDITOR:-vi} $elsif/todo.md && commitCommentAndPush
-}
-
-agenda() {
-  ${EDITOR:-vi} $elsif/agenda.md && commitCommentUpdateAndPush
+  ${EDITOR:-vi} $elsif/content/boite-a-idee/index.md && commitCommentAndPush
 }
 
 livres() {
   ${EDITOR:-vi} $elsif/livres.js && commitCommentAndPush
 }
 
-head -n 5 $elsif/agenda.md
-echo "----8<-------8<-------8<-------8<-------8<-------8<-------8<-------8<-------"
-head -n 5 $elsif/todo.md
+journal() {
+  destinationDirectory=$elsif/content/$(date +%G)
+  if [ ! -d $destinationDirectory ]; then
+    mkdir -p $destinationDirectory
+  fi
+  ${EDITOR:-vi} $destinationDirectory/$(date +%U).md
+}
 
