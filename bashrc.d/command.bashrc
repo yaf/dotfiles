@@ -18,10 +18,10 @@ livres() {
 }
 
 journal() {
-  destinationDirectory=$elsif/content/$(date +%G)
+  destinationDirectory=$elsif/content/$(date +%G)/$(date +%U)
   if [ ! -d $destinationDirectory ]; then
     mkdir -p $destinationDirectory
   fi
-  ${EDITOR:-vi} $destinationDirectory/$(date +%U).md
+  ${EDITOR:-vi} $destinationDirectory/index.md
 }
 
