@@ -32,7 +32,7 @@ if ! shopt -oq posix; then
   fi
 fi
 
-for file in ~/.bashrc.d/*.bashrc;
+for file in ~/.bashrc.d/*.sh;
 do
   source "$file"
 done

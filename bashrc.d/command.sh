@@ -1,5 +1,4 @@
-
-elsif=~/Code/elsif.fr
+elsif=~/Git/elsif.fr
 
 commitCommentAndPush() {
   cd $elsif/ && git add -A && git commit && git push; cd -
@@ -15,13 +14,5 @@ todo() {
 
 livres() {
   ${EDITOR:-vi} $elsif/livres.js && commitCommentAndPush
-}
-
-journal() {
-  destinationDirectory=$elsif/content/$(date +%G)/$(date +%U)
-  if [ ! -d $destinationDirectory ]; then
-    mkdir -p $destinationDirectory
-  fi
-  ${EDITOR:-vi} $destinationDirectory/index.md
 }
 
