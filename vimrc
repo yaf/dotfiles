@@ -71,4 +71,4 @@ set noswapfile
 set spelllang+=fr
 autocmd BufEnter *.txt set spell
 autocmd BufEnter *.md set spell
-
+autocmd FileType gitcommit setlocal spell
