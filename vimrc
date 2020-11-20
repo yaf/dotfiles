@@ -30,6 +30,7 @@ set modelines=3
 
 set vb t_vb=
 
+set visualbell
 set cursorline
 
 set hidden
@@ -66,7 +67,6 @@ nnoremap <C-l> <C-W>l
 set nobackup
 set nowb
 set noswapfile
-
 
 set spelllang+=fr
 autocmd BufEnter *.txt set spell

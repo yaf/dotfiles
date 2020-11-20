@@ -1,13 +1,14 @@
 [user]
-  name = Yannick Francois
-  email = yaf@elsif.fr
+    name = Yannick Francois
+    email = yaf@elsif.fr
 
 [core]
-  editor = vi
-  ignorecase = false
+    editor = vi
+    ignorecase = false
+    excludesFile = ~/.config/dotfiles/gitignore
 
 [push]
-  default = current
+    default = current
 
 [diff]
-	noprefix = true
+    noprefix = true
