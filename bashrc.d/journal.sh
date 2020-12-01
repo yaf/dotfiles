@@ -1,7 +1,7 @@
 elsif=~/Git/elsif.fr
 
 journal() {
-  destinationDirectory=$elsif/content/$(date +%G)/$(date +%U)
+  destinationDirectory=$elsif/content/$(date +%G)/$(date +%F)
   if [ ! -d $destinationDirectory ]; then
     mkdir -p $destinationDirectory
   fi

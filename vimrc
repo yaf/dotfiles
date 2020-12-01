@@ -48,6 +48,9 @@ set guifont=Inconsolata:h20
 
 set backspace=2
 
+set path=**
+set wildmenu
+
 let g:html_indent_tags = 'li\|p'
 
 set statusline=%F%m%r%<\ %=%l,%v\ [%L]\ %p%%
@@ -72,3 +75,5 @@ set spelllang+=fr
 autocmd BufEnter *.txt set spell
 autocmd BufEnter *.md set spell
 autocmd FileType gitcommit setlocal spell
+
+command! MakeTags !ctags -R .
