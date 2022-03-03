@@ -1,14 +1,23 @@
 [user]
-    name = Yannick Francois
-    email = yaf@elsif.fr
+  name = Yannick François
+  email = yannick.francois@beta.gouv.fr
 
 [core]
-    editor = vi
-    ignorecase = false
-    excludesFile = ~/.config/dotfiles/gitignore
+  editor = vi
+  ignorecase = false
+  excludesFile = ~/.gitignore
 
 [push]
-    default = current
+  default = current
 
 [diff]
-    noprefix = true
+  noprefix = true
+
+[filter "lfs"]
+  required = true
+  clean = git-lfs clean -- %f
+  smudge = git-lfs smudge -- %f
+  process = git-lfs filter-process
+
+[color]
+  ui = true

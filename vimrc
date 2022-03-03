@@ -13,7 +13,6 @@ set tabstop=2
 set softtabstop=2
 set shiftwidth=2
 set expandtab
-"set colorcolumn=100
 
 set shiftround
 set ignorecase
@@ -23,7 +22,6 @@ set gdefault
 
 set scrolloff=7
 set hlsearch
-set ruler
 set ttyfast
 set modeline
 set modelines=3
@@ -31,7 +29,6 @@ set modelines=3
 set vb t_vb=
 
 set visualbell
-set cursorline
 
 set hidden
 set history=100
@@ -44,7 +41,7 @@ set listchars=trail:•,tab:→\ ,nbsp:¬
 syntax enable
 set term=xterm-256color
 set background=light
-set guifont=Inconsolata:h20
+"set guifont=Inconsolata:h20
 
 set backspace=2
 
@@ -54,7 +51,7 @@ set wildmenu
 let g:html_indent_tags = 'li\|p'
 
 set statusline=%F%m%r%<\ %=%l,%v\ [%L]\ %p%%
-hi statusline ctermbg=white ctermfg=black
+"hi statusline ctermbg=white ctermfg=black
 set laststatus=2
 
 set splitbelow
@@ -77,3 +74,7 @@ autocmd BufEnter *.md set spell
 autocmd FileType gitcommit setlocal spell
 
 command! MakeTags !ctags -R .
+
+vnoremap <C-r> "hy:%s/<C-r>h//gc<left><left><left>
+
+packadd! matchit
