@@ -1,80 +1,205 @@
-scriptencoding utf-8
-set encoding=utf-8
+set history=500
 
-set nocompatible
-set autoindent
-filetype plugin indent on
+set colorcolumn=80
 
-set showmode
-set showcmd
+filetype plugin on
+filetype indent on
 
-set nu
-set tabstop=2
-set softtabstop=2
-set shiftwidth=2
-set expandtab
+set autoread
+au FocusGained,BufEnter * checktime
 
-set shiftround
-set ignorecase
-set smartcase
-set incsearch
-set gdefault
+" With a map leader it's possible to do extra key combinations
+" like <leader>w saves the current file
+let mapleader = ","
 
-set scrolloff=7
-set hlsearch
-set ttyfast
-set modeline
-set modelines=3
+" Fast saving
+nmap <leader>w :w!<cr>
 
-set vb t_vb=
+" Set 7 lines to the cursor - when moving vertically using j/k
+set so=7
 
-set visualbell
-
-set hidden
-set history=100
-
-set showmatch
-
-set list
-set listchars=trail:•,tab:→\ ,nbsp:¬
-
-syntax enable
-set term=xterm-256color
-set background=light
-"set guifont=Inconsolata:h20
-
-set backspace=2
-
-set path=**
+" Turn on the Wild menu
 set wildmenu
 
-let g:html_indent_tags = 'li\|p'
+" Ignore compiled files
+set wildignore=*.o,*~,*.pyc
+if has("win16") || has("win32")
+	set wildignore+=.git\*,.hg\*,.svn\*
+else
+	set wildignore+=*/.git/*,*/.hg/*,*/.svn/*,*/.DS_Store
+endif
 
-set statusline=%F%m%r%<\ %=%l,%v\ [%L]\ %p%%
-"hi statusline ctermbg=white ctermfg=black
-set laststatus=2
+" Always show current position
+set ruler
 
-set splitbelow
-set splitright
+" Height of the command bar
+set cmdheight=1
 
-nnoremap <silent> <Space> :nohlsearch<Bar>:echo<CR>
+" A buffer becomes hidden when it is abandoned
+set hid
 
-nnoremap <C-j> <C-W>j
-nnoremap <C-k> <C-W>k
-nnoremap <C-h> <C-W>h
-nnoremap <C-l> <C-W>l
+" Ignore case when searching
+set ignorecase
 
+" When searching try to be smart about cases
+set smartcase
+
+" Highlight search results
+set hlsearch
+
+" Makes search act like search in modern browsers
+set incsearch
+
+" Don't redraw while executing macros (good performance config)
+set lazyredraw
+
+" Show matching brackets when text indicator is over them
+set showmatch
+
+" How many tenths of a second to blink when matching brackets
+set mat=2
+
+" No annoying sound on errors
+set noerrorbells
+set novisualbell
+set t_vb=
+set tm=500
+
+" Enable syntax highlighting
+syntax enable
+
+" Enable 256 colors palette in Gnome Terminal
+if $COLORTERM == 'gnome-terminal'
+    set t_Co=256
+endif
+
+try
+    colorscheme desert
+catch
+endtry
+
+set background=light
+
+" Set utf8 as standard encoding and en_US as the standard language
+set encoding=utf8
+
+" Use Unix as the standard file type
+set ffs=unix,dos,mac
+
+" Turn backup off, since most stuff is in SVN, git etc. anyway...
 set nobackup
 set nowb
 set noswapfile
 
-set spelllang+=fr
-autocmd BufEnter *.txt set spell
-autocmd BufEnter *.md set spell
-autocmd FileType gitcommit setlocal spell
+" use spaces instead of tabs
+set expandtab
 
-command! MakeTags !ctags -R .
+" Be smart when using tabs ;)
+set smarttab
 
-vnoremap <C-r> "hy:%s/<C-r>h//gc<left><left><left>
+" 1 tab == 2 spaces
+set shiftwidth=2
+set tabstop=2
 
-packadd! matchit
+" show line number
+set nu
+
+" Visual mode pressing * or # searches for the current selection
+" Super useful! From an idea by Michael Naumann
+vnoremap <silent> * :<C-u>call VisualSelection('', '')<CR>/<C-R>=@/<CR><CR>
+vnoremap <silent> # :<C-u>call VisualSelection('', '')<CR>?<C-R>=@/<CR><CR>
+
+" Disable highlight when <leader><cr> is pressed
+map <silent> <Space> :noh<cr>
+
+" Close the current buffer
+map <leader>bd :Bclose<cr>gT
+
+
+" Close all the buffers
+map <leader>ba :bufdo bd<cr>
+
+map <leader>l :bnext<cr>
+map <leader>h :bprevious<cr>
+
+" Return to last edit position when opening files (You want this!)
+au BufReadPost * if line("'\"") > 1 && line("'\"") <= line("$") | exe "normal! g'\"" | endif
+
+""""""""""""""""""""""""""""""
+" => Status line
+""""""""""""""""""""""""""""""
+" Always show the status line
+set laststatus=2
+
+" Format the status line
+set statusline=\ %F%m%r%h\ %w\ \ CWD:\ %r%{getcwd()}%h\ \ \ Line:\ %l\ \ Column:\ %c
+
+" Delete trailing white space on save, useful for some filetypes ;)
+fun! CleanExtraSpaces()
+    let save_cursor = getpos(".")
+    let old_query = getreg('/')
+    silent! %s/\s\+$//e
+    call setpos('.', save_cursor)
+    call setreg('/', old_query)
+endfun
+
+if has("autocmd")
+    autocmd BufWritePre *.txt,*.js,*.py,*.wiki,*.sh,*.coffee :call CleanExtraSpaces()
+endif
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => Spell checking
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" Pressing ,ss will toggle and untoggle spell checking
+map <leader>ss :setlocal spell!<cr>
+
+" Shortcuts using <leader>
+map <leader>sn ]s
+map <leader>sp [s
+map <leader>sa zg
+map <leader>s? z=
+
+" Don't close window, when deleting a buffer
+command! Bclose call <SID>BufcloseCloseIt()
+function! <SID>BufcloseCloseIt()
+    let l:currentBufNum = bufnr("%")
+    let l:alternateBufNum = bufnr("#")
+
+    if buflisted(l:alternateBufNum)
+        buffer #
+    else
+        bnext
+    endif
+
+    if bufnr("%") == l:currentBufNum
+        new
+    endif
+
+    if buflisted(l:currentBufNum)
+        execute("bdelete! ".l:currentBufNum)
+    endif
+endfunction
+
+function! CmdLine(str)
+    call feedkeys(":" . a:str)
+endfunction
+
+function! VisualSelection(direction, extra_filter) range
+    let l:saved_reg = @"
+    execute "normal! vgvy"
+
+    let l:pattern = escape(@", "\\/.*'$^~[]")
+    let l:pattern = substitute(l:pattern, "\n$", "", "")
+
+    if a:direction == 'gv'
+        call CmdLine("Ack '" . l:pattern . "' " )
+    elseif a:direction == 'replace'
+        call CmdLine("%s" . '/'. l:pattern . '/')
+    endif
+
+    let @/ = l:pattern
+    let @" = l:saved_reg
+endfunction
+
+let g:ctrlp_max_files=0
+let g:ctrlp_max_depth=40

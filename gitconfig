@@ -8,7 +8,8 @@
   excludesFile = ~/.gitignore
 
 [push]
-  default = current
+	default = upstream
+	autoSetupRemote = true
 
 [diff]
   noprefix = true
@@ -21,3 +22,12 @@
 
 [color]
   ui = true
+[init]
+	defaultBranch = main
+
+[alias]
+  push-with-u = "push -u origin HEAD"
+[branch]
+	autoSetupRebase = always
+[pull]
+	rebase = true
