@@ -6,3 +6,14 @@ install with
 
 Mostly inspired by JulienXX dotvim https://github.com/julienXX/dotvim
 
+
+## Vim
+
+Think to add vim plugin 
+- ember.vim
+- nerdtree
+- nerdtree-git-plugin
+- vim-gutter
+- vim-javascript
+- vim-tmux-navigator
+- vim-polyglot

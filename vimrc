@@ -1,4 +1,8 @@
+set nocompatible
+
+
 set history=500
+
 
 set colorcolumn=80
 
@@ -61,7 +65,7 @@ set mat=2
 
 " No annoying sound on errors
 set noerrorbells
-set novisualbell
+set visualbell
 set t_vb=
 set tm=500
 
@@ -103,6 +107,13 @@ set tabstop=2
 
 " show line number
 set nu
+
+" vim-polyglot configuration
+let g:polyglot_disabled = ['markdown']
+let g:polyglot_disabled = ['autoindent']
+
+let g:svelte_indent_script = 0
+let g:svelte_indent_style = 0
 
 " Visual mode pressing * or # searches for the current selection
 " Super useful! From an idea by Michael Naumann
@@ -201,5 +212,15 @@ function! VisualSelection(direction, extra_filter) range
     let @" = l:saved_reg
 endfunction
 
-let g:ctrlp_max_files=0
-let g:ctrlp_max_depth=40
+nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
+nnoremap <C-p> :FZF<CR>
+
+" Exit Vim if NERDTree is the only window remaining in the only tab.
+autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
+
+let g:javascript_plugin_jsdoc=1
+
+set rtp+=~/.fzf

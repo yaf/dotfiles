@@ -37,3 +37,5 @@ do
   source "$file"
 done
 
+
+[ -f ~/.fzf.bash ] && source ~/.fzf.bash
