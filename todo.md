@@ -1,9 +1,6 @@
-- prendre rendez-vous pour echo yeux
 - http://www.tera.coop/
 - revoir le site elsif.fr avec [Panash](https://framagit.org/yaf/panash) pour une mise en situation
-- travailler sur funky.framadate
 - passer le psc1
-- Acheter des bocaux pour faire de la fermentation de legumes
 - Transformer les questions de programmation en kata ?
 - Retranscrire les écrits sur la Ruche de Faure https://gallica.bnf.fr/ark:/12148/bpt6k67585g/f3.image.r=.langEN
 - Poser des bases de projet sur https://glitch.com/ à destination des débutants
@@ -22,7 +19,6 @@
 - http://greaterthanorequalto.net/ Inspiration, un petit air commun avec [Natural Language Form](https://tympanus.net/Tutorials/NaturalLanguageForm/) ?
 - http://lesherbonautes.mnhn.fr/ participer ?
 - Refaire le site d'ouverture facile http://www.ouverture-facile.com/
-- renouveller la carte identité, elle est prolongé, et **valable jusqu'en 2023**.
 - Faire l'exercice de fabriquer une base de donnée https://cstack.github.io/db_tutorial/
 - Lire Tolstoï, Paul Robin, Francisco Ferrer ?
 - Sébastien Faure, Écrits Pédagogiques , Éd. du Monde Libertaire, réédition 1992
@@ -35,8 +31,6 @@
 - Sujet d'exercice ? https://github.com/mame/quine-relay
 - http://www.pass-education.fr/l-ief-qu-est-ce-que-c-est-instruction-en-famille/
 - Rencontré aux RMLL 2018, un lyonnais : Mougeot http://www.cedrats.org/
-- Fabriquer un Cajon https://fr.wikihow.com/fabriquer-un-caj%C3%B3n
-- rejoindre deepgreenresistance ? https://deepgreenresistance.fr/rejoindre-deep-green-resistance/
 - https://github.com/gfredericks/quinedb
 - https://github.com/arnauddri/algorithms
 - Elm ? http://elm-lang.org/
@@ -52,7 +46,6 @@
 - Clef usb avec documents importants
 - Étudier Orlov
 - Lire Bill Mollison
-- Fabriquer sa lessive
 
 ## Lunette - Lecture de code
 
@@ -67,14 +60,8 @@
 
 ## Jardin Robinson
 
-* https://ushare-docs.frama.wiki/
-* https://wiki-robinson.frama.wiki/
-* Ajouter et organiser la documentation dans le wiki
-* Simple jolie page d'explications (pour complément wiki)
 * Analyser le plomb dans le sol, il doit être < 400 ppm si le PH est >= 7 Peut-être faut-il tester le PH avant parce que c'est plus facile ?
 * Une plante qui nettoie le sol des métaux lourds http://www.tela-botanica.org/bdtfx-nn-103108-synthese peut-être aussi http://www.humanite-biodiversite.fr/article/des-plantes-hyperaccumulatrices-de-metaux-lourds, la moutarde aussi le fait https://fr.wikipedia.org/wiki/Moutarde_brune
-* le fablabo fait des analyses de sol http://fablabo.net/wiki/Analyse_du_pH_du_sol
-* Lister les vidéos et autres inspirations intéressante, commencer parle jardin du paresseux https://www.youtube.com/channel/UCm-SeCr6-0dPzfUT8gZvYLg
 * Plantes indicatrices de polution http://fablabo.net/wiki/Plantes_bio-indicatrices voir aussi http://permaforet.blogspot.fr/2013/04/plantes-bio-indicatrices.html https://sites.google.com/site/tpesurlaphytoremediationgroupe/La-depollution-des-metaux-lourds
 
 
@@ -100,7 +87,6 @@ Pas touvé sur https://www.recyclivre.com
 * https://www.syllepse.net/apprendre-a-transgresser-_r_62_pageid_2_i_776.html
 * https://www.syllepse.net/pistes-pour-une-agriculture-ecologique-et-sociale-_r_100_i_597.html
 * https://www.syllepse.net/dictionnaire-des-dominations-_r_76_i_532.html
-* https://www.tela-botanica.org/2019/06/botaniste/
 * Le municipalisme libertaire - La politique de l'écologie sociale Broché – 7 janvier 2014 de Janet Biehl
 * https://livre.fnac.com/a9455378/Alexander-samuel-Entropia
 * https://www.amazon.fr/dp/226625409X/ref=cm_sw_r_cp_awdb_c_oRmXCbT8CNV87
@@ -124,7 +110,6 @@ Pas touvé sur https://www.recyclivre.com
 * [Petit traité de résilience locale](https://www.amazon.fr/Petit-trait%C3%A9-r%C3%A9silience-locale-Agn%C3%A8s/dp/2843771862/ref=sr_1_6?ie=UTF8&qid=1526024372&sr=8-6&keywords=pablo+servigne&dpID=51bG2xiaqOL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch)
 * [L'évaluation du travail à l'épreuse du réel](https://www.cairn.info/l-evaluation-du-travail-a-l-epreuve-du-reel--9782759224609.htm)
 * [Stratégies végétales, petits arrangements et grandes manoeuvres Relié – 15 décembre 2011 de Benoît Garrone (Auteur),‎ Philippe Martin (Auteur),‎ Bertrand Schatz (Auteur),‎ Les Ecologistes de l'Euzière (Auteur)](https://www.amazon.fr/Strat%C3%A9gies-v%C3%A9g%C3%A9tales-arrangements-grandes-manoeuvres/dp/2906128287?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=2906128287)
-* [Change the World Without Taking Power](https://en.wikipedia.org/wiki/Change_the_World_Without_Taking_Power)
 * [Libres savoirs : les biens communs de la connaissance](https://tempsdescommuns.org/libres-savoirs/)
 - http://editionslibertalia.fr/catalogue/nautre-ecole/12-la-joie-du-dehors
 * http://www.piecesetmaindoeuvre.com/spip.php?page=resume&id_article=960
