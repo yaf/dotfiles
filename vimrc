@@ -4,7 +4,6 @@ set nocompatible
 set history=500
 
 
-set colorcolumn=80
 
 filetype plugin on
 filetype indent on
@@ -224,3 +223,6 @@ autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTr
 let g:javascript_plugin_jsdoc=1
 
 set rtp+=~/.fzf
+
+set colorcolumn=80
+hi ColorColumn ctermbg=lightgrey guibg=lightgrey
