@@ -226,3 +226,7 @@ set rtp+=~/.fzf
 
 set colorcolumn=80
 hi ColorColumn ctermbg=lightgrey guibg=lightgrey
+
+set foldmethod=syntax
+set foldlevelstart=2
+
