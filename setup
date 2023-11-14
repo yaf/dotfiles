@@ -42,7 +42,6 @@ if [ -f ~/.gitignore ]; then
 fi
 ln -s $DOTFILES_DIR/gitignore ~/.gitignore
 
-
 if [ -f ~/.tmux.conf ]; then
   backup_filename=~/.tmux.conf.bak;
   echo ".tmux.conf found. move it to $backup_filename"
@@ -50,11 +49,17 @@ if [ -f ~/.tmux.conf ]; then
 fi
 ln -s $DOTFILES_DIR/tmux.conf ~/.tmux.conf
 
-if [ -d ~/.config/fish ]; then
+if [ -d ~/.config/fish ] && ![ -L ~/.config/fish ]; then
   backup_filename=~/.config/fish.bak;
   echo ".config/fish found. move it to $backup_filename"
   mv ~/.config/fish $backup_filename;
 fi
 ln -s $DOTFILES_DIR/fish ~/.config/fish
 
+if [ -d ~/.config/kitty ]; then
+  backup_filename=~/.config/kitty.bak;
+  echo ".config/kitty found. move it to $backup_filename"
+  mv ~/.config/kitty $backup_filename;
+fi
+ln -s $DOTFILES_DIR/kitty ~/.config/kitty
 
