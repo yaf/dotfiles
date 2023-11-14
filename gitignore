@@ -1,2 +1,4 @@
-
-.commit_template
+notes.md
+.ackrc
+_bazar/
+.git-commit-template.txt

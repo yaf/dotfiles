@@ -35,6 +35,14 @@ if [ -f ~/.gitconfig ]; then
 fi
 ln -s $DOTFILES_DIR/gitconfig ~/.gitconfig
 
+if [ -f ~/.gitignore ]; then
+  backup_filename=~/.gitignore.bak;
+  echo ".gitignore found. move it to $backup_filename"
+  mv ~/.gitignore $backup_filename;
+fi
+ln -s $DOTFILES_DIR/gitignore ~/.gitignore
+
+
 if [ -f ~/.tmux.conf ]; then
   backup_filename=~/.tmux.conf.bak;
   echo ".tmux.conf found. move it to $backup_filename"
