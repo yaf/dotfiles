@@ -28,8 +28,6 @@ if [ -f ~/.bashrc.d ]; then
 fi
 ln -s $DOTFILES_DIR/bashrc.d ~/.bashrc.d
 
-
-
 if [ -f ~/.gitconfig ]; then
   backup_filename=~/.gitconfig.bak;
   echo ".gitconfig found. move it to $backup_filename"
@@ -43,12 +41,4 @@ if [ -f ~/.tmux.conf ]; then
   mv ~/.tmux.conf $backup_filename;
 fi
 ln -s $DOTFILES_DIR/tmux.conf ~/.tmux.conf
-
-if [ -f ~/.bundle/config ]; then
-  backup_filename=~/.bundle/config.bak;
-  echo ".bundle/config found. move it to $backup_filename"
-  mv ~/.bundle/config $backup_filename;
-fi
-mkdir -p ~/.bundle
-ln -s $DOTFILES_DIR/bundleconfig ~/.bundle/config
 
