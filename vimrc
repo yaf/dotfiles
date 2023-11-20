@@ -1,15 +1,15 @@
 set nocompatible
 
-
 set history=500
-
-
 
 filetype plugin on
 filetype indent on
 
 set autoread
 au FocusGained,BufEnter * checktime
+
+" autosave
+au TextChanged,TextChangedI <buffer> if &readonly == 0 && filereadable(bufname('%')) | silent write | endif
 
 " With a map leader it's possible to do extra key combinations
 " like <leader>w saves the current file
@@ -229,4 +229,7 @@ hi ColorColumn ctermbg=lightgrey guibg=lightgrey
 
 set foldmethod=syntax
 set foldlevelstart=2
+
+" Enable ESLint only for JavaScript.
+let b:ale_linters = ['eslint']
 
