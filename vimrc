@@ -77,7 +77,9 @@ if $COLORTERM == 'gnome-terminal'
 endif
 
 try
-    colorscheme desert
+    "colorscheme desert
+    let ayucolor="light"  " for light version of theme
+    colorscheme ayu
 catch
 endtry
 
@@ -233,3 +235,5 @@ set foldlevelstart=2
 " Enable ESLint only for JavaScript.
 let b:ale_linters = ['eslint']
 
+
+let g:markdown_folding = 1
