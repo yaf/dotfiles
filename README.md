@@ -12,15 +12,15 @@ Use [fisher](https://github.com/jorgebucaran/fisher)
 `curl -sL https://raw.githubusercontent.com/jorgebucaran/fisher/main/functions/fisher.fish | source && fisher install jorgebucaran/fisher`
 
 Liste des extensions Vim
-- vim-polyglot/
-- ember.vim/
-- nerdtree/
-- nerdtree-git-plugin/
-- selected
-- vim-gitgutter/
-- vim-javascript/
-- vim-tmux-navigator/
-- ale/
+- [vim-polyglot/](https://github.com/sheerun/vim-polyglot)
+- [ember.vim/](https://github.com/dsawardekar/ember.vim)
+- ? nerdtree/
+- ? nerdtree-git-plugin/
+- ? selected
+- ? [vim-gitgutter/](https://github.com/airblade/vim-gitgutter)
+- [vim-javascript/](https://github.com/pangloss/vim-javascript)
+- [vim-tmux-navigator/](https://github.com/christoomey/vim-tmux-navigator)
+- [ale/](https://github.com/dense-analysis/ale)
 
 
 
