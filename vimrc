@@ -230,10 +230,9 @@ set colorcolumn=80
 hi ColorColumn ctermbg=lightgrey guibg=lightgrey
 
 set foldmethod=syntax
-set foldlevelstart=2
+set foldlevelstart=99
+let g:markdown_folding = 1
 
 " Enable ESLint only for JavaScript.
 let b:ale_linters = ['eslint']
 
-
-let g:markdown_folding = 1
