@@ -32,7 +32,6 @@ else
 	set wildignore+=*/.git/*,*/.hg/*,*/.svn/*,*/.DS_Store
 endif
 
-" Always show current position
 set ruler
 
 " Height of the command bar
@@ -226,9 +225,6 @@ let g:javascript_plugin_jsdoc=1
 
 set rtp+=~/.fzf
 
-set colorcolumn=80
-hi ColorColumn ctermbg=lightgrey guibg=lightgrey
-
 set foldmethod=syntax
 set foldlevelstart=99
 let g:markdown_folding = 1
@@ -236,3 +232,4 @@ let g:markdown_folding = 1
 " Enable ESLint only for JavaScript.
 let b:ale_linters = ['eslint']
 
+set guifont=Fira\ Code:h12

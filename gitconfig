@@ -28,8 +28,5 @@
 [branch]
 	autoSetupRebase = always
 
-[pull]
-	rebase = true
-
 [includeIf "gitdir/i:~/Git/1024Pix/"]
   path = ~/Git/1024pix/.gitconfig
