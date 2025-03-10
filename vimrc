@@ -77,12 +77,12 @@ endif
 
 try
     "colorscheme desert
-    let ayucolor="light"  " for light version of theme
+    let ayucolor="dark"  " for light version of theme
     colorscheme ayu
 catch
 endtry
 
-set background=light
+set background=dark
 
 " Set utf8 as standard encoding and en_US as the standard language
 set encoding=utf8
@@ -217,10 +217,16 @@ nnoremap <C-n> :NERDTree<CR>
 nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-f> :NERDTreeFind<CR>
 nnoremap <C-p> :FZF<CR>
+nnoremap <C-j> :cprev<CR>
+nnoremap <C-k> :cnext<CR>
 
 " Exit Vim if NERDTree is the only window remaining in the only tab.
 autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
+" If another buffer tries to replace NERDTree, put it in the other window, and bring back NERDTree.
+autocmd BufEnter * if winnr() == winnr('h') && bufname('#') =~ 'NERD_tree_\d\+' && bufname('%') !~ 'NERD_tree_\d\+' && winnr('$') > 1 |
+    \ let buf=bufnr() | buffer# | execute "normal! \<C-W>w" | execute 'buffer'.buf | endif
 
+let g:javascript_plugin_flow = 1
 let g:javascript_plugin_jsdoc=1
 
 set rtp+=~/.fzf
@@ -229,7 +235,13 @@ set foldmethod=syntax
 set foldlevelstart=99
 let g:markdown_folding = 1
 
-" Enable ESLint only for JavaScript.
 let b:ale_linters = ['eslint']
+let g:ale_fixers = {
+\  '*': ['remove_trailing_lines', 'trim_whitespace'],
+\  'javascript': ['prettier', 'eslint']
+\}
+
+" Set this variable to 1 to fix files when you save them.
+let g:ale_fix_on_save = 1
 
 set guifont=Fira\ Code:h12

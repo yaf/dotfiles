@@ -1,17 +1,24 @@
 [user]
   name = Yannick François
-  email = yaf@elsif.fr
+  email = yannick@kaz.bzh
 
 [core]
   editor = vi
   ignorecase = false
-  excludesFile = ~/.gitignore
+	excludesfile = /home/yaf/.gitignore
+	fsmonitor = true
+	untrackedCache = true
 
 [push]
-	default = current
+	default = simple
+	followTags = true
 
 [diff]
   noprefix = true
+	algorithm = histogram
+	colorMoved = plain
+	mnemonicPrefix = true
+	renames = true
 
 [filter "lfs"]
   required = true
@@ -27,6 +34,28 @@
 
 [branch]
 	autoSetupRebase = always
+	sort = -committerdate
 
 [includeIf "gitdir/i:~/Git/1024Pix/"]
   path = ~/Git/1024pix/.gitconfig
+[pull]
+	rebase = true
+[column]
+	ui = auto
+[tag]
+	sort = version:refname
+[fetch]
+	prune = true
+	pruneTags = true
+	all = true
+[help]
+	autocorrect = prompt
+[commit]
+	verbose = true
+[rerere]
+	enabled = true
+	autoupdate = true
+[rebase]
+	autoSquash = true
+	autoStash = true
+	updateRefs = true
