@@ -77,7 +77,7 @@ endif
 
 try
     "colorscheme desert
-    let ayucolor="dark"  " for light version of theme
+    let ayucolor="light"  " for light version of theme
     colorscheme ayu
 catch
 endtry
@@ -245,3 +245,5 @@ let g:ale_fixers = {
 let g:ale_fix_on_save = 1
 
 set guifont=Fira\ Code:h12
+
+let g:polyglot_disabled = ['jsx']
