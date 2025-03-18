@@ -12,6 +12,7 @@
 [push]
 	default = simple
 	followTags = true
+	autoSetupRemote = true
 
 [diff]
   noprefix = true
