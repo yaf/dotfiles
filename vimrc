@@ -82,7 +82,7 @@ try
 catch
 endtry
 
-set background=dark
+set background=light
 
 " Set utf8 as standard encoding and en_US as the standard language
 set encoding=utf8
