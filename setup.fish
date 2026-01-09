@@ -70,3 +70,10 @@ if test -d ~/.config/kitty
 end
 ln -s $DOTFILES_DIR/kitty ~/.config/kitty
 
+if test -d ~/.config/helix
+  set backup_filename ~/.config/helix.bak;
+  echo ".config/helix found. move it to $backup_filename"
+  mv ~/.config/helix $backup_filename;
+fi
+ln -s $DOTFILES_DIR/helix ~/.config/helix
+
