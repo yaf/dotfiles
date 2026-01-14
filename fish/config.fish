@@ -12,4 +12,3 @@ set -x PATH $HOME/.rbenv/bin /snap/bin $PATH
 set --universal fish_user_paths $fish_user_paths ~/.rbenv/shims
 set EDITOR vi
 
-load_nvm > /dev/stderr
