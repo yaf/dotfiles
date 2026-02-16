@@ -109,8 +109,8 @@ set tabstop=2
 set nu
 
 " vim-polyglot configuration
-let g:polyglot_disabled = ['markdown']
-let g:polyglot_disabled = ['autoindent']
+" let g:polyglot_disabled = ['markdown']
+" let g:polyglot_disabled = ['autoindent']
 
 let g:svelte_indent_script = 0
 let g:svelte_indent_style = 0
@@ -212,19 +212,9 @@ function! VisualSelection(direction, extra_filter) range
     let @" = l:saved_reg
 endfunction
 
-nnoremap <leader>n :NERDTreeFocus<CR>
-nnoremap <C-n> :NERDTree<CR>
-nnoremap <C-t> :NERDTreeToggle<CR>
-nnoremap <C-f> :NERDTreeFind<CR>
 nnoremap <C-p> :FZF<CR>
 nnoremap <C-j> :cprev<CR>
 nnoremap <C-k> :cnext<CR>
-
-" Exit Vim if NERDTree is the only window remaining in the only tab.
-autocmd BufEnter * if tabpagenr('$') == 1 && winnr('$') == 1 && exists('b:NERDTree') && b:NERDTree.isTabTree() | quit | endif
-" If another buffer tries to replace NERDTree, put it in the other window, and bring back NERDTree.
-autocmd BufEnter * if winnr() == winnr('h') && bufname('#') =~ 'NERD_tree_\d\+' && bufname('%') !~ 'NERD_tree_\d\+' && winnr('$') > 1 |
-    \ let buf=bufnr() | buffer# | execute "normal! \<C-W>w" | execute 'buffer'.buf | endif
 
 let g:javascript_plugin_flow = 1
 let g:javascript_plugin_jsdoc=1
@@ -238,7 +228,7 @@ let g:markdown_folding = 1
 let b:ale_linters = ['eslint']
 let g:ale_fixers = {
 \  '*': ['remove_trailing_lines', 'trim_whitespace'],
-\  'javascript': ['prettier', 'eslint']
+\  'javascript': ['eslint']
 \}
 
 " Set this variable to 1 to fix files when you save them.

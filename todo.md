@@ -90,7 +90,7 @@ Pas touvé sur https://www.recyclivre.com
 * Le municipalisme libertaire - La politique de l'écologie sociale Broché – 7 janvier 2014 de Janet Biehl
 * https://livre.fnac.com/a9455378/Alexander-samuel-Entropia
 * https://www.amazon.fr/dp/226625409X/ref=cm_sw_r_cp_awdb_c_oRmXCbT8CNV87
-* L’art de conter nos expériences collectives   Benjamin Roux 
+* L’art de conter nos expériences collectives   Benjamin Roux
 * https://www.babelio.com/livres/Ba-Une-si-longue-lettre/3426
 * https://www.babelio.com/livres/Sapienza-Lart-de-la-joie/5719
 * https://www.babelio.com/livres/Ba-Un-chant-ecarlate/118778
@@ -316,4 +316,3 @@ Légumes en contenant assez bien (valeurs données en mg/100 g):
 _source http://naturalyss.over-blog.com/article-les-plantes-et-le-phosphore-55290721.html_
 
 Lire aussi ? http://www.plantyfolia.com/dossier_pratique/besoin_nutritif_plante_engrais#/dossier_pratique/besoin_nutritif_plante_engrais
-

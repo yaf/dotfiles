@@ -1,14 +1,15 @@
 if status is-interactive
-    # Commands to run in interactive sessions can go here
-end
-
-function ll
-    ls -lh $argv
+  # Commands to run in interactive sessions can go here
 end
 
 set site ~/Git/lespiedsdanslecode.org
 
-set -x PATH $HOME/.rbenv/bin /snap/bin $PATH
-set --universal fish_user_paths $fish_user_paths ~/.rbenv/shims
+set -x PATH /snap/bin $PATH
+
+set DPRINT_INSTALL "/home/yaf/.dprint"
+set -x PATH "$DPRINT_INSTALL/bin:$PATH"
+
+
+set --universal fish_user_paths $fish_user_paths
 set EDITOR vi
 

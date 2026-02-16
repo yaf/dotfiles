@@ -1,0 +1,1 @@
+/home/yaf/.config/dotfiles/bashrc.d
